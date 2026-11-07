@@ -1,0 +1,4028 @@
+{
+  "helloWorld": "வணக்கம் உலகமே!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "featureUnderMaintenance": "அம்சம் பராமரிப்பில் உள்ளது",
+  "@featureUnderMaintenance": {
+    "description": "Title on blocked screen"
+  },
+  "featureDisabledMaintenanceMessage": "இந்த அம்சம் தற்போது பராமரிப்பில் உள்ளது அல்லது முடக்கப்பட்டுள்ளது. சிறிது நேரம் கழித்து மீண்டும் முயற்சிக்கவும்.",
+  "@featureDisabledMaintenanceMessage": {
+    "description": "Default message when feature is blocked/in maintenance"
+  },
+  "funnyLoading1": "ஏய் Riot, எனக்கான கடை சலுகையை கொடுங்கப்பா.....",
+  "@funnyLoading1": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading2": "கடை சலுகைகளை கொடுக்குமாறு Riot-ஐக் கெஞ்சிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading2": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading3": "Riot சேவையகங்களை டிஜிட்டல் குக்கீகளால் லஞ்சம் கொடுத்து சமாளிக்கிறோம்...",
+  "@funnyLoading3": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading4": "Riot-ன் backend கதவைத் தட்டி, “திறங்கப்பா!” என்று கேட்டுக்கொண்டிருக்கிறோம்!",
+  "@funnyLoading4": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading5": "இன்னும் வரலையா? Riot client ஏதோ உலா போய்க்கொண்டிருக்கிறது...",
+  "@funnyLoading5": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading6": "ஒரு நிமிஷம்... கடைக்காரர் காபி குடிக்கப் போயிட்டாரா?",
+  "@funnyLoading6": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading7": "Valorant கடையின் அடித்தட்டு டிராயரையும் தேடிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading7": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading8": "API-யிடம் கெஞ்சுகிறோம்: நல்ல skins-ஐ கொடுத்துவிடு!",
+  "@funnyLoading8": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading9": "திடீரென்று அதிர்ஷ்டம் வருமா என்று காத்துக்கொண்டிருக்கிறோம்... காத்திருக்கவும்...",
+  "@funnyLoading9": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading10": "Riot சொல்கிறது: ‘இன்று உனக்கு Kuronami Vandal கிடையாது’... சரி, மறுபடியும் முயற்சி செய்வோம்...",
+  "@funnyLoading10": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading11": "Riot உங்களுக்கு Reaver Vandal கொடுத்துவிட்டதா என்று சரிபார்க்கிறோம்...",
+  "@funnyLoading11": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading12": "ஆயுதங்கள் உங்கள் திரையில் பளபளப்பாகத் தெரிய அவற்றை மெருகேற்றிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading12": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading13": "உங்கள் Phoenix எத்தனை முறை உங்களையே flash செய்தான் என்று கணக்கிடுகிறோம்...",
+  "@funnyLoading13": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading14": "Sage-ன் சுவர்களை ஈர்ப்புவிசையிலிருந்து பிரித்துக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading14": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading15": "Cypher-ிடம் அவனுடைய setup-ஐ கேட்கிறோம்... ஆனால் அவன் ஏற்கனவே இறந்துவிட்டானே...",
+  "@funnyLoading15": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading16": "‘dash செய்து உள்ளே போய் இறப்பது’ ஒரு நல்ல strategy இல்லை என்று Jett-க்கு சொல்லிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading16": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading17": "கடை கவுண்டரில் படிந்த தூசியை துடைக்கிறோம்... இங்கே Smite skins நிறைய இருக்கே...",
+  "@funnyLoading17": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading18": "உங்கள் சாதாரண skins-ஐ RGX பற்றிய கனவுகளால் மாற்றிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading18": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading19": "Neon-ன் slide-ஐ charge செய்கிறோம்... slide... slide...",
+  "@funnyLoading19": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading20": "எதிரி spawn-க்குள் teleport செய்வது நல்ல யோசனை இல்லை என்று Omen-ஐ சமாதானப்படுத்துகிறோம்...",
+  "@funnyLoading20": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading21": "கடையில் Magepunk Sparkplug இருக்கிறதா என்று பார்க்கிறோம்...",
+  "@funnyLoading21": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading22": "Brimstone-ன் iPad-ஐ எப்படி திறப்பது என்று அவரிடமே கேட்கிறோம்...",
+  "@funnyLoading22": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading23": "அவர்களுக்கு 140 HP இருந்தபோதும் நீங்கள் ‘one shot’ என்று சொன்னதை எண்ணுகிறோம்...",
+  "@funnyLoading23": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading24": "Iron 1-ன் அடித்தளத்திலிருந்து உங்கள் rank-ஐ மீட்டெடுக்க முயற்சிக்கிறோம்...",
+  "@funnyLoading24": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading25": "Spike எங்கே என்று தேடுகிறோம்... ஒரு நிமிஷம், spawn-ல் அதை யார் போட்டது?",
+  "@funnyLoading25": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading26": "Viper விட்டுச் சென்ற acid puddles-ஐ சுத்தம் செய்கிறோம்...",
+  "@funnyLoading26": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading27": "உங்கள் teammate-ன் மைக்ரோஃபோன் உண்மையில் ஒரு உருளைக்கிழங்கா என்று பார்க்கிறோம்...",
+  "@funnyLoading27": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading28": "Sova-வின் double-shock-dart கணக்கீட்டை ஆலோசிக்கிறோம்...",
+  "@funnyLoading28": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading29": "Odin-ன் recoil-ஐ calibrate செய்கிறோம் (கீழே இழுத்தால் போதுமே, இல்லையா?)...",
+  "@funnyLoading29": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading30": "Shield வாங்குகிறோம்... இல்லை, பொறுங்கள், armor இல்லாமல் Sheriff வாங்குகிறோம்...",
+  "@funnyLoading30": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading31": "Matchmaking algorithm-யிடம் கொஞ்சிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading31": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading32": "5v1 post-plant-ஐ நீங்கள் ஏன் எப்போதும் இழக்கிறீர்கள் என்று ஆராய்கிறோம்...",
+  "@funnyLoading32": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading33": "Chamber-ன் pocket-guardian reload ஆக காத்திருக்கிறோம்...",
+  "@funnyLoading33": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading34": "Reyna heal செய்வாளா அல்லது dismiss மட்டும் செய்வாளா என்று கேட்கிறோம்...",
+  "@funnyLoading34": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading35": "Fade-ன் கெட்ட கனவுகளை அவிழ்த்துக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading35": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading36": "Gekko-வின் Wingman மீண்டும் plant செய்யும் அளவுக்கு recharge செய்கிறோம்...",
+  "@funnyLoading36": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading37": "கடைக்காரர் Valorant Points வாங்குவாரா, இல்லை பிரார்த்தனைகள் மட்டும்தானா என்று பார்க்கிறோம்...",
+  "@funnyLoading37": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading38": "API database-ல் ‘நல்ல teammates’-ஐத் தேடுகிறோம்...",
+  "@funnyLoading38": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading39": "சிக்கலான metadata-வை ஆய்வு செய்வது போல நடிக்கிறோம் (உண்மையில் காத்துக்கொண்டிருக்கிறோம்)...",
+  "@funnyLoading39": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading40": "Astra-வின் galaxy-brain plays-ஐ எளிய மொழியில் புரியவைக்க முயற்சிக்கிறோம்...",
+  "@funnyLoading40": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading41": "login செய்வதற்குள் toxic teammate-ஐ mute செய்ய முயற்சிக்கிறோம்...",
+  "@funnyLoading41": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading42": "Radiant rank பேட்ஜின் தங்க விளிம்புகளை மெருகேற்றுகிறோம் (வருத்தமாக இருக்கிறது, அது உங்களுடையது இல்லை)...",
+  "@funnyLoading42": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading43": "சுவரில் satchel அடித்தாலும் அது satchel தான் என்று Raze-ஐ சமாதானப்படுத்துகிறோம்...",
+  "@funnyLoading43": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading44": "headshot வாங்குவதற்கு முன் Jett காற்றில் இருந்த நேரத்தைக் கணக்கிடுகிறோம்...",
+  "@funnyLoading44": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading45": "Cypher-ன் கேமரா வெற்று சுவரைப் பார்ப்பதை நிறுத்தும் வரை காத்திருக்கிறோம்...",
+  "@funnyLoading45": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading46": "Bind-ன் teleporter வெளியேறும் பகுதியைச் சுத்தம் செய்கிறோம்...",
+  "@funnyLoading46": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading47": "Harbor-ன் water filter-ஐ tune செய்கிறோம்...",
+  "@funnyLoading47": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading48": "உங்களை Radiant ஆக்கும் crosshair அமைப்புகளைத் தேடுகிறோம்...",
+  "@funnyLoading48": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading49": "பல melee skins-க்கு 10% தள்ளுபடியுடன் Night Market திரும்பியிருக்கிறதா என்று பார்க்கிறோம்...",
+  "@funnyLoading49": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading50": "Gekko-வின் செல்லப் பிராணிகளுக்கு உணவு கொடுக்கிறோம்...",
+  "@funnyLoading50": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading51": "Gulag-ல் 1v1 வருகிறாயா என்று Iso-விடம் கேட்கிறோம்...",
+  "@funnyLoading51": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading52": "பறந்து வரும் Vandal-ன் வேகத்தைக் கணக்கிடுகிறோம்...",
+  "@funnyLoading52": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading53": "சேவையகங்களை தயார் செய்கிறோம்... தயவுசெய்து alt-tab செய்யாதீர்கள்...",
+  "@funnyLoading53": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading54": "flash வெளிச்சத்தால் கண்கள் கூசுகிறது... திரையைத் துடைக்கிறோம்...",
+  "@funnyLoading54": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading55": "Yoru எங்கே போனான் என்று கண்டுபிடிக்க முயற்சிக்கிறோம்...",
+  "@funnyLoading55": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading56": "Iso-வின் shield காலாவதியாகும் வரை காத்திருக்கிறோம்...",
+  "@funnyLoading56": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading57": "வேண்டுமென்றே இறப்பது எந்த superpower-மும் இல்லை என்று Clove-க்கு சொல்லிக்கொண்டிருக்கிறோம்...",
+  "@funnyLoading57": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading58": "ஏற்றப்படுகிறது...",
+  "@funnyLoading58": {
+    "description": "Funny loading message"
+  },
+  "pageNotFound": "பக்கம் கிடைக்கவில்லை",
+  "@pageNotFound": {
+    "description": "404 page not found text"
+  },
+  "sessionExpiredTitle": "அமர்வு காலாவதியானது",
+  "@sessionExpiredTitle": {
+    "description": "Session expired dialog title"
+  },
+  "sessionExpiredMessage": "உங்கள் Riot Games அமர்வு காலாவதியாகிவிட்டது. சமீபத்திய கடைத் தரவைப் பெற மீண்டும் உள்நுழையவும்.",
+  "@sessionExpiredMessage": {
+    "description": "Session expired dialog content"
+  },
+  "later": "பின்னர்",
+  "@later": {
+    "description": "Dismiss button"
+  },
+  "loginAgain": "மீண்டும் உள்நுழைக",
+  "@loginAgain": {
+    "description": "Action to re-login"
+  },
+  "tabHome": "முகப்பு",
+  "@tabHome": {
+    "description": "Home tab label"
+  },
+  "tabProfile": "சுயவிவரம்",
+  "@tabProfile": {
+    "description": "Profile tab label"
+  },
+  "tabParty": "குழு",
+  "@tabParty": {
+    "description": "Party tab label"
+  },
+  "tabHub": "கேரியர்",
+  "@tabHub": {
+    "description": "Career tab label (rank goals, contracts & missions, friends)"
+  },
+  "tabSettings": "அமைப்புகள்",
+  "@tabSettings": {
+    "description": "Settings tab label"
+  },
+  "stillOfflineMessage": "இணைய இணைப்பு இல்லை. உங்கள் பிணைய இணைப்பைச் சரிபார்க்கவும்.",
+  "@stillOfflineMessage": {
+    "description": "Snackbar when offline retry fails"
+  },
+  "connectionLostTitle": "இணைப்பு துண்டிக்கப்பட்டது",
+  "@connectionLostTitle": {
+    "description": "Offline overlay title"
+  },
+  "connectionLostDescription": "தற்போது நீங்கள் ஆஃப்லைனில் உள்ளீர்கள். Val Shop-ஐ தொடர்ந்து பயன்படுத்த இணைய இணைப்பைச் சரிபார்க்கவும்.",
+  "@connectionLostDescription": {
+    "description": "Offline overlay description"
+  },
+  "retryButton": "மீண்டும் முயற்சி செய்",
+  "@retryButton": {
+    "description": "Retry button label"
+  },
+  "helpFaqTitle": "உதவி & அடிக்கடி கேட்கப்படும் கேள்விகள்",
+  "@helpFaqTitle": {
+    "description": "Help page title"
+  },
+  "faqLoginTroubleshootingTitle": "உள்நுழைவு சிக்கல்களுக்கான தீர்வுகள்",
+  "@faqLoginTroubleshootingTitle": {
+    "description": "FAQ category"
+  },
+  "faqLoginTroubleshootingContent": "உங்கள் முதன்மை Riot கணக்கின் உள்நுழைவு விவரங்களையே பயன்படுத்துகிறீர்கள் என்பதை உறுதிப்படுத்தவும். Google அல்லது Facebook மூலமான நேரடி உள்நுழைவு தற்போது ஆதரிக்கப்படவில்லை; அவை வழக்கமான Riot கணக்குடன் இணைக்கப்பட்டிருந்தால் மட்டுமே இயங்கும்.",
+  "@faqLoginTroubleshootingContent": {
+    "description": "FAQ answer"
+  },
+  "faqSessionExpiredTitle": "அமர்வு காலாவதி பிழை",
+  "@faqSessionExpiredTitle": {
+    "description": "FAQ category"
+  },
+  "faqSessionExpiredContent": "அமர்வு காலாவதியானதாக எச்சரிக்கை வந்தால், தற்காலிக access token-ன் காலவரம்பு முடிந்துவிட்டது என்று பொருள். பாதுகாப்புக்காக Riot அவ்வப்போது புதிய உள்நுழைவைக் கோருகிறது. வெளியேறி மீண்டும் உள்நுழைந்தால் சரிசெய்யப்படும்.",
+  "@faqSessionExpiredContent": {
+    "description": "FAQ answer"
+  },
+  "faqRateLimitedTitle": "எனக்கு ஏன் Rate Limit விதிக்கப்படுகிறது?",
+  "@faqRateLimitedTitle": {
+    "description": "FAQ category"
+  },
+  "faqRateLimitedContent": "Riot சேவையகங்களுக்கு ஒரே நேரத்தில் அதிகமான கோரிக்கைகள் வரும்போது சேவை சீராக இயங்க third-party பயன்பாடுகளிலிருந்து வரும் கோரிக்கைகள் தற்காலிகமாக நிறுத்தப்படலாம். அப்படி நடந்தால் மீண்டும் முயற்சிக்கும் முன் 5 நிமிடங்கள் காத்திருக்கவும்.",
+  "@faqRateLimitedContent": {
+    "description": "FAQ answer"
+  },
+  "faqAccountSecurityTitle": "என் கணக்கு பாதுகாப்பாக உள்ளதா?",
+  "@faqAccountSecurityTitle": {
+    "description": "FAQ category"
+  },
+  "faqAccountSecurityContent": "உங்கள் தனியுரிமையே முதன்மையானது. இந்த செயலிக்கு மைய சர்வர் எதுவும் இல்லை; Tokens மற்றும் கணக்கு விவரங்கள் அனைத்தும் உங்கள் சாதனத்திலேயே சேமிக்கப்படுகின்றன. உங்கள் தனிப்பட்ட தகவல்களை நாங்கள் பார்ப்பதோ சேமிப்பதோ இல்லை.",
+  "@faqAccountSecurityContent": {
+    "description": "FAQ answer"
+  },
+  "faqAccountSafetyTitle": "கணக்கு பாதுகாப்பும் அபாயமும்",
+  "@faqAccountSafetyTitle": {
+    "description": "FAQ category"
+  },
+  "faqAccountSafetyContent": "பொதுவான Riot API தரவை மட்டுமே இந்த செயலி படித்தாலும், third-party செயலிகளைப் பயன்படுத்துவதில் சிறிய அளவிலான அபாயம் இருக்கலாம். இந்தச் சேவையைப் பயன்படுத்துவதன் மூலம் கணக்கின் நிலைக்கு நீங்களே பொறுப்பேற்கிறீர்கள். தொடர்ச்சியாக refresh பொத்தானை அழுத்தாமல் அளவோடு பயன்படுத்தவும்.",
+  "@faqAccountSafetyContent": {
+    "description": "FAQ answer"
+  },
+  "faqFutureAppTitle": "செயலியின் எதிர்காலம்",
+  "@faqFutureAppTitle": {
+    "description": "FAQ category"
+  },
+  "faqFutureAppContent": "இந்தச் செயலி முழுமையாக Riot Games API அணுகலையே சார்ந்துள்ளது. எதிர்காலத்தில் அவர்கள் இந்த அணுகலைக் கட்டுப்படுத்தினால், சில அல்லது அனைத்து அம்சங்களும் செயல்படாமல் போகலாம்.",
+  "@faqFutureAppContent": {
+    "description": "FAQ answer"
+  },
+  "diagnosticLogsSection": "கண்டறிதல் பதிவுகள்",
+  "@diagnosticLogsSection": {
+    "description": "FAQ section header"
+  },
+  "diagnosticLogsDescription": "செயலியில் பிழைகள் ஏற்பட்டால், சிக்கலைக் கண்டறிய app logs-ஐ டெவலப்பருடன் பகிரலாம்.",
+  "@diagnosticLogsDescription": {
+    "description": "FAQ diagnostic description"
+  },
+  "noLogsAvailable": "பதிவுகள் எதுவும் இல்லை.",
+  "@noLogsAvailable": {
+    "description": "Snackbar when no logs to share"
+  },
+  "shareLogsWithDeveloper": "Logs-ஐ டெவலப்பருடன் பகிரவும்",
+  "@shareLogsWithDeveloper": {
+    "description": "Button to share diagnostic logs"
+  },
+  "shareLogsSubject": "Val Shop கண்டறிதல் பதிவுகள்",
+  "@shareLogsSubject": {
+    "description": "Subject line when sharing logs"
+  },
+  "thankYouUsingApp": "Val Shop-ஐப் பயன்படுத்தியதற்கு நன்றி!",
+  "@thankYouUsingApp": {
+    "description": "Footer message"
+  },
+  "systemLogsTitle": "System Logs",
+  "@systemLogsTitle": {
+    "description": "System logs screen title"
+  },
+  "logsCensoredSnackbar": "முக்கிய தகவல்கள் மறைக்கப்பட்டுள்ளன.",
+  "@logsCensoredSnackbar": {
+    "description": "Snackbar text"
+  },
+  "uncensoredLogsActiveSnackbar": "முழுமையான பதிவுகள் காட்டப்படுகின்றன.",
+  "@uncensoredLogsActiveSnackbar": {
+    "description": "Snackbar text"
+  },
+  "revealUncensoredLogsTitle": "முழுமையான பதிவுகளைப் பார்க்கவும்",
+  "@revealUncensoredLogsTitle": {
+    "description": "Dialog title"
+  },
+  "revealUncensoredLogsDescription": "மூல API keys மற்றும் authentication tokens-ஐப் பார்க்க developer passcode-ஐ உள்ளிடவும்.",
+  "@revealUncensoredLogsDescription": {
+    "description": "Dialog description"
+  },
+  "passcodeLabel": "கடவுக்குறியீடு (Passcode)",
+  "@passcodeLabel": {
+    "description": "Textfield label"
+  },
+  "cancel": "ரத்து செய்",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "unlock": "திறக்க",
+  "@unlock": {
+    "description": "Unlock button"
+  },
+  "passcodeVerifiedSnackbar": "Passcode சரிபார்க்கப்பட்டது. முழுமையான பதிவுகள் காட்டப்படுகின்றன!",
+  "@passcodeVerifiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "incorrectPasscodeSnackbar": "தவறான Passcode!",
+  "@incorrectPasscodeSnackbar": {
+    "description": "Snackbar error text"
+  },
+  "censorLogsTooltip": "பதிவுகளை மறை",
+  "@censorLogsTooltip": {
+    "description": "Tooltip"
+  },
+  "unlockUncensoredLogsTooltip": "முழுமையான பதிவுகளைத் திற",
+  "@unlockUncensoredLogsTooltip": {
+    "description": "Tooltip"
+  },
+  "copyAllTooltip": "அனைத்தையும் நகலெடு",
+  "@copyAllTooltip": {
+    "description": "Tooltip"
+  },
+  "uncensoredLogsCopiedSnackbar": "முழுமையான பதிவுகள் நகலெடுக்கப்பட்டன",
+  "@uncensoredLogsCopiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "censoredLogsCopiedSnackbar": "பதிவுகள் நகலெடுக்கப்பட்டன",
+  "@censoredLogsCopiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "clearTooltip": "அழி",
+  "@clearTooltip": {
+    "description": "Tooltip"
+  },
+  "refreshTooltip": "புதுப்பி",
+  "@refreshTooltip": {
+    "description": "Tooltip"
+  },
+  "uncensoredModeWarning": "எச்சரிக்கை: முக்கியமான tokens மற்றும் API keys திரையில் தெரியும்.",
+  "@uncensoredModeWarning": {
+    "description": "Banner warning"
+  },
+  "noLogsAvailableMessage": "பதிவுகள் எதுவும் இல்லை",
+  "@noLogsAvailableMessage": {
+    "description": "Empty logs text"
+  },
+  "cacheManagerTitle": "Cache மேலாளர்",
+  "@cacheManagerTitle": {
+    "description": "Cache manager screen title"
+  },
+  "clearCacheDialogTitle": "{title}-ஐ அழிக்கவா?",
+  "@clearCacheDialogTitle": {
+    "description": "Clear cache dialog title",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "clearCacheDialogContent": "{title}-ஐ அழிக்க விரும்புகிறீர்களா? இந்தக் கோப்புகள் அரிதாகவே மாறுவதால் cache-ஐ அழிப்பது அவசியமில்லை. மீண்டும் ஏற்றுவது அதிக இணையத் தரவைப் பயன்படுத்தும்.",
+  "@clearCacheDialogContent": {
+    "description": "Clear cache dialog body",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "clearButton": "அழி",
+  "@clearButton": {
+    "description": "Clear action button"
+  },
+  "cacheClearedSuccess": "{title} வெற்றிகரமாக அழிக்கப்பட்டது",
+  "@cacheClearedSuccess": {
+    "description": "Snackbar when cache is cleared",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "cacheInfoSectionHeader": "தகவல்",
+  "@cacheInfoSectionHeader": {
+    "description": "Section header"
+  },
+  "cacheInfoDescription": "படங்கள், ranks மற்றும் வீடியோக்கள் உடனடியாக ஏற்றப்படுவதற்கும் இணையத் தரவைச் சேமிப்பதற்கும் சாதனத்திலேயே சேமிக்கப்படுகின்றன. காட்சிப் பிழைகள் அல்லது நினைவகப் பற்றாக்குறை இருந்தால் மட்டுமே cache-ஐ அழிக்கவும்.",
+  "@cacheInfoDescription": {
+    "description": "Cache info paragraph"
+  },
+  "managedCachesSectionHeader": "நிர்வகிக்கப்படும் சேமிப்பகங்கள் (Caches)",
+  "@managedCachesSectionHeader": {
+    "description": "Section header"
+  },
+  "rankIconsCacheTitle": "Rank Icons Cache",
+  "@rankIconsCacheTitle": {
+    "description": "Cache item title"
+  },
+  "rankIconsCacheSubtitle": "Competitive tier படங்களுக்கான காலவரையற்ற Cache",
+  "@rankIconsCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "bundleImagesCacheTitle": "Bundle Images Cache",
+  "@bundleImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "bundleImagesCacheSubtitle": "கடையில் இடம்பெறும் Bundles படங்களைச் சேமிக்கிறது",
+  "@bundleImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "dailyStoreImagesCacheTitle": "Daily Store Images Cache",
+  "@dailyStoreImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "dailyStoreImagesCacheSubtitle": "தினசரி கடையின் skin படங்களைச் சேமிக்கிறது",
+  "@dailyStoreImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "loadoutPresetImagesCacheTitle": "Loadout & Preset Images Cache",
+  "@loadoutPresetImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "loadoutPresetImagesCacheSubtitle": "ஆயுத ஸ்கின்கள், buddies மற்றும் preset படங்களைச் சேமிக்கிறது",
+  "@loadoutPresetImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "videoPreviewCacheTitle": "Video Preview Cache",
+  "@videoPreviewCacheTitle": {
+    "description": "Cache item title"
+  },
+  "videoPreviewCacheSubtitle": "ஆயுத முன்னோட்ட வீடியோக்களைச் சேமிக்கிறது",
+  "@videoPreviewCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "storeTextCacheTitle": "Store Text Cache",
+  "@storeTextCacheTitle": {
+    "description": "Cache item title"
+  },
+  "storeTextCacheSubtitle": "உள்ளூர் உரை, கடை contracts மற்றும் API தகவல்களைச் சேமிக்கிறது",
+  "@storeTextCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "friendNamesCacheTitle": "நண்பர் பெயர்கள் Cache",
+  "@friendNamesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "friendNamesCacheSubtitle": "தீர்க்கப்பட்ட நண்பர் பெயர்கள், ஒரு நாளைக்கு ஒருமுறை புதுப்பிக்கப்படும்",
+  "@friendNamesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "notificationsTitle": "அறிவிப்புகள்",
+  "@notificationsTitle": {
+    "description": "Notifications screen title"
+  },
+  "noNotificationsYet": "புதிய அறிவிப்புகள் எதுவும் இல்லை",
+  "@noNotificationsYet": {
+    "description": "Empty state message"
+  },
+  "close": "மூடுக",
+  "@close": {
+    "description": "Close button label"
+  },
+  "appearanceTitle": "தோற்றம்",
+  "@appearanceTitle": {
+    "description": "Appearance page title"
+  },
+  "themeSectionHeader": "வடிவமைப்பு (Theme)",
+  "@themeSectionHeader": {
+    "description": "Section header"
+  },
+  "appThemeOption": "செயலி Theme",
+  "@appThemeOption": {
+    "description": "Option title"
+  },
+  "themeSystem": "System",
+  "@themeSystem": {
+    "description": "Theme mode name"
+  },
+  "themeLight": "Light",
+  "@themeLight": {
+    "description": "Theme mode name"
+  },
+  "themeDark": "Dark",
+  "@themeDark": {
+    "description": "Theme mode name"
+  },
+  "pureBlackDarkModeTitle": "முழுமையான கருப்பு Dark Mode",
+  "@pureBlackDarkModeTitle": {
+    "description": "Toggle title"
+  },
+  "pureBlackDarkModeSubtitle": "OLED திரைகளில் பேட்டரியைச் சேமிக்கும்",
+  "@pureBlackDarkModeSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "useSystemColorsTitle": "System நிறங்களைப் பயன்படுத்து",
+  "@useSystemColorsTitle": {
+    "description": "Toggle title"
+  },
+  "useSystemColorsSubtitle": "உங்கள் wallpaper நிறத்திற்கேற்ப மாறும்",
+  "@useSystemColorsSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "colorBlendLevelTitle": "நிறக் கலவையின் அளவு",
+  "@colorBlendLevelTitle": {
+    "description": "Slider title"
+  },
+  "colorPresetDefault": "இயல்புநிலை",
+  "@colorPresetDefault": {
+    "description": "Color preset name"
+  },
+  "colorPresetGreenApple": "Green Apple",
+  "@colorPresetGreenApple": {
+    "description": "Color preset name"
+  },
+  "colorPresetLavender": "Lavender",
+  "@colorPresetLavender": {
+    "description": "Color preset name"
+  },
+  "colorPresetMidnight": "Midnight",
+  "@colorPresetMidnight": {
+    "description": "Color preset name"
+  },
+  "colorPresetOrange": "Orange",
+  "@colorPresetOrange": {
+    "description": "Color preset name"
+  },
+  "colorPresetTeal": "Teal",
+  "@colorPresetTeal": {
+    "description": "Color preset name"
+  },
+  "colorPresetRed": "Red",
+  "@colorPresetRed": {
+    "description": "Color preset name"
+  },
+  "allBundlesTitle": "அனைத்து Bundles",
+  "@allBundlesTitle": {
+    "description": "All bundles screen title"
+  },
+  "errorMessage": "பிழை: {error}",
+  "@errorMessage": {
+    "description": "Generic error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noName": "பெயர் இல்லை",
+  "@noName": {
+    "description": "Fallback when item has no name"
+  },
+  "dailyShopTitle": "தினசரி கடை",
+  "@dailyShopTitle": {
+    "description": "Daily shop title"
+  },
+  "welcomeToValShop": "Val Shop-க்கு வரவேற்கிறோம்",
+  "@welcomeToValShop": {
+    "description": "Welcome title"
+  },
+  "loginToViewOffers": "தினசரி சலுகைகளைக் காண உள்நுழையவும்",
+  "@loginToViewOffers": {
+    "description": "Welcome subtitle"
+  },
+  "loginWithRiot": "Riot மூலம் உள்நுழைக",
+  "@loginWithRiot": {
+    "description": "Login button text"
+  },
+  "changelogTitle": "மாற்றப் பதிவு (Changelog)",
+  "@changelogTitle": {
+    "description": "Changelog screen title"
+  },
+  "noChangelogAvailable": "மாற்றப் பதிவு எதுவும் இல்லை.",
+  "@noChangelogAvailable": {
+    "description": "Fallback changelog text"
+  },
+  "failedToLoadChangelog": "மாற்றப் பதிவை ஏற்றுவது தோல்வியடைந்தது.\n{error}",
+  "@failedToLoadChangelog": {
+    "description": "Changelog error text",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadingVideo": "வீடியோ ஏற்றப்படுகிறது...",
+  "@loadingVideo": {
+    "description": "Video player loading state"
+  },
+  "errorPlayingVideo": "வீடியோவை இயக்குவதில் பிழை:\n{error}",
+  "@errorPlayingVideo": {
+    "description": "Video player error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDeveloperPasscode": "Developer Passcode-ஐ உள்ளிடவும்",
+  "@enterDeveloperPasscode": {
+    "description": "Dialog title"
+  },
+  "developerModeUnlockedSnackbar": "Developer Mode திறக்கப்பட்டது!",
+  "@developerModeUnlockedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "unreadCount": "{count} படிக்காதவை",
+  "@unreadCount": {
+    "description": "Unread notification count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNewNotifications": "புதிய அறிவிப்புகள் இல்லை",
+  "@noNewNotifications": {
+    "description": "No notifications subtitle"
+  },
+  "themeColorIconSubtitle": "Theme, நிறம், Icon",
+  "@themeColorIconSubtitle": {
+    "description": "Appearance subtitle"
+  },
+  "checkForUpdates": "புதுப்பிப்புகளைச் சரிபார்",
+  "@checkForUpdates": {
+    "description": "Settings item"
+  },
+  "seeWhatsNewSubtitle": "இந்த பதிப்பின் புதிய அம்சங்களைப் பார்க்கவும்",
+  "@seeWhatsNewSubtitle": {
+    "description": "Changelog subtitle"
+  },
+  "accountsSectionHeader": "கணக்குகள்",
+  "@accountsSectionHeader": {
+    "description": "Settings section header"
+  },
+  "valorantSectionHeader": "VALORANT",
+  "@valorantSectionHeader": {
+    "description": "Settings section header for rank goals, contracts, and friends"
+  },
+  "signInToViewStoreSubtitle": "உங்கள் கடையைப் பார்க்க உள்நுழையவும்",
+  "@signInToViewStoreSubtitle": {
+    "description": "Login subtitle"
+  },
+  "profileUpdatedSnackbar": "சுயவிவரம் புதுப்பிக்கப்பட்டது",
+  "@profileUpdatedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "updateFailedSnackbar": "புதுப்பித்தல் தோல்வியடைந்தது: {error}",
+  "@updateFailedSnackbar": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "logOutTitle": "வெளியேறு",
+  "@logOutTitle": {
+    "description": "Dialog title"
+  },
+  "logOutConfirmMessage": "இந்தக் கணக்கிலிருந்து வெளியேற விரும்புகிறீர்களா?",
+  "@logOutConfirmMessage": {
+    "description": "Dialog content"
+  },
+  "addAnotherAccount": "மற்றொரு கணக்கைச் சேர்க்கவும்",
+  "@addAnotherAccount": {
+    "description": "Button to add account"
+  },
+  "developerOptionsHeader": "Developer விருப்பங்கள்",
+  "@developerOptionsHeader": {
+    "description": "Settings section header"
+  },
+  "bypassRemoteConfigTitle": "Remote Config-ஐத் தவிர்",
+  "@bypassRemoteConfigTitle": {
+    "description": "Toggle title"
+  },
+  "bypassRemoteConfigSubtitle": "Remote blocklists மற்றும் feature overrides-ஐப் புறக்கணிக்கவும்",
+  "@bypassRemoteConfigSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "bypassLogCensoringTitle": "Log Censoring-ஐத் தவிர்",
+  "@bypassLogCensoringTitle": {
+    "description": "Toggle title"
+  },
+  "bypassLogCensoringSubtitle": "முழுமையான tokens மற்றும் API keys-ஐக் காட்டவும்",
+  "@bypassLogCensoringSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "lockDeveloperModeTitle": "Developer Mode-ஐப் பூட்டு",
+  "@lockDeveloperModeTitle": {
+    "description": "Button title"
+  },
+  "developerModeLockedSnackbar": "Developer Mode பூட்டப்பட்டது.",
+  "@developerModeLockedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "rateValShopTitle": "Val Shop-ஐ மதிப்பிடுங்கள்",
+  "@rateValShopTitle": {
+    "description": "Settings item title"
+  },
+  "rateValShopSubtitle": "Play Store-ல் உங்கள் ஆதரவைத் தெரிவிக்கவும்",
+  "@rateValShopSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "discoverMoreAppsTitle": "பிற செயலிகளைக் கண்டறியவும்",
+  "@discoverMoreAppsTitle": {
+    "description": "Settings item title"
+  },
+  "discoverMoreAppsSubtitle": "எங்களின் பிற படைப்புகளைப் பாருங்கள்",
+  "@discoverMoreAppsSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "appLogsTitle": "செயலிப் பதிவுகள் (App Logs)",
+  "@appLogsTitle": {
+    "description": "Settings item title"
+  },
+  "viewDebuggingLogsSubtitle": "Debugging logs-ஐப் பார்க்கவும்",
+  "@viewDebuggingLogsSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "manageCachedImagesSubtitle": "சேமிக்கப்பட்ட படங்கள் மற்றும் தரவு அளவை நிர்வகிக்கவும்",
+  "@manageCachedImagesSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "supportSectionHeader": "ஆதரவு",
+  "@supportSectionHeader": {
+    "description": "Settings section header"
+  },
+  "showSasukeEasterEggTitle": "ஜூலை 23 அன்று Sasuke-ஐக் காட்டு",
+  "@showSasukeEasterEggTitle": {
+    "description": "Settings item title"
+  },
+  "showSasukeEasterEggSubtitle": "Easter Egg-ஐ இயக்கவும் அல்லது முடக்கவும்",
+  "@showSasukeEasterEggSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "checkingForUpdates": "புதுப்பிப்புகள் சரிபார்க்கப்படுகின்றன...",
+  "@checkingForUpdates": {
+    "description": "Update checking toast"
+  },
+  "latestVersionMessage": "நீங்கள் சமீபத்திய பதிப்பைப் பயன்படுத்துகிறீர்கள்!",
+  "@latestVersionMessage": {
+    "description": "Latest version message"
+  },
+  "updateCheckFailedMessage": "புதுப்பிப்பைச் சரிபார்க்க முடியவில்லை. பின்னர் முயற்சிக்கவும்.",
+  "@updateCheckFailedMessage": {
+    "description": "Update check failed message"
+  },
+  "newUpdateAvailableTitle": "புதிய புதுப்பிப்பு கிடைக்கிறது",
+  "@newUpdateAvailableTitle": {
+    "description": "Update dialog title"
+  },
+  "updateDialogContent": "பதிப்பு {version} கிடைக்கிறது. புதிய அம்சங்கள் மற்றும் மேம்பாடுகளைப் பெற உடனே புதுப்பிக்கவும்.",
+  "@updateDialogContent": {
+    "description": "Update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updateNowButton": "இப்போதே புதுப்பிக்கவும்",
+  "@updateNowButton": {
+    "description": "Update dialog action"
+  },
+  "colorVariantsTitle": "Color Variants",
+  "@colorVariantsTitle": {
+    "description": "Skin details section header"
+  },
+  "skinLevelsTitle": "Skin நிலைகள் (Levels)",
+  "@skinLevelsTitle": {
+    "description": "Skin details section header"
+  },
+  "levelNumberTitle": "நிலை {number}",
+  "@levelNumberTitle": {
+    "description": "Skin level number",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "visualEffectsLevelItem": "Visual Effects",
+  "@visualEffectsLevelItem": {
+    "description": "Skin level VFX label"
+  },
+  "variantPreviewSubtitle": "{name} முன்னோட்டம்",
+  "@variantPreviewSubtitle": {
+    "description": "Chroma preview subtitle",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bundleDetailsTitle": "Bundle விவரங்கள்",
+  "@bundleDetailsTitle": {
+    "description": "Bundle details screen title"
+  },
+  "fullBundleTitle": "முழு Bundle",
+  "@fullBundleTitle": {
+    "description": "Full bundle card title"
+  },
+  "bundleItemsTitle": "Bundle பொருட்கள்",
+  "@bundleItemsTitle": {
+    "description": "Bundle items section header"
+  },
+  "bundleItemsFeaturedInfo": "இந்த Bundle கடையில் இடம்பெற்றிருக்கும் போது மட்டுமே தனிப்பட்ட பொருட்களை வாங்க முடியும்.",
+  "@bundleItemsFeaturedInfo": {
+    "description": "Bundle items info box"
+  },
+  "bundleRoiTitle": "Bundle மதிப்பு",
+  "@bundleRoiTitle": {
+    "description": "Bundle ROI card title"
+  },
+  "bundleRoiSavings": "தனித்தனியாக வாங்குவதை விட {amount} VP ({percent}%) சேமிக்கவும்",
+  "@bundleRoiSavings": {
+    "description": "Bundle ROI savings summary",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "bundleRoiNoSavings": "தனித்தனியாக வாங்குவதை விட சேமிப்பு இல்லை",
+  "@bundleRoiNoSavings": {
+    "description": "Shown when bundle offers no discount vs individual items"
+  },
+  "freePriceLabel": "இலவசம்",
+  "@freePriceLabel": {
+    "description": "Free item price label"
+  },
+  "watchVideoLabel": "வீடியோவைப் பார்",
+  "@watchVideoLabel": {
+    "description": "Watch video link"
+  },
+  "playerCardInspectHeader": "PLAYER CARD ஆய்வு",
+  "@playerCardInspectHeader": {
+    "description": "Accessory inspector header"
+  },
+  "lobbyCardTab": "Lobby Card",
+  "@lobbyCardTab": {
+    "description": "Inspector tab"
+  },
+  "profileDpTab": "சுயவிவர DP",
+  "@profileDpTab": {
+    "description": "Inspector tab"
+  },
+  "matchLoadingTab": "போட்டி ஏற்றுதல்",
+  "@matchLoadingTab": {
+    "description": "Inspector tab"
+  },
+  "fullPortraitLobbyCardBadge": "Full Portrait Lobby Card",
+  "@fullPortraitLobbyCardBadge": {
+    "description": "Inspector badge"
+  },
+  "playerProfileIconBadge": "Player Profile Icon",
+  "@playerProfileIconBadge": {
+    "description": "Inspector badge"
+  },
+  "playerProfileIconDescription": "நண்பர்கள் பட்டியல், Social Hub மற்றும் Party Header-ல் காட்டப்படும்",
+  "@playerProfileIconDescription": {
+    "description": "Inspector description"
+  },
+  "inMatchLoadingBannerBadge": "In-Match Loading Banner",
+  "@inMatchLoadingBannerBadge": {
+    "description": "Inspector badge"
+  },
+  "sprayTag": "SPRAY",
+  "@sprayTag": {
+    "description": "Inspector category tag"
+  },
+  "animatedSprayTag": "ANIMATED SPRAY",
+  "@animatedSprayTag": {
+    "description": "Inspector category tag"
+  },
+  "animatedValorantSprayBadge": "Animated Valorant Spray",
+  "@animatedValorantSprayBadge": {
+    "description": "Inspector badge"
+  },
+  "standardValorantSprayBadge": "Standard Valorant Spray",
+  "@standardValorantSprayBadge": {
+    "description": "Inspector badge"
+  },
+  "favoritesTitle": "பிடித்தவை",
+  "@favoritesTitle": {
+    "description": "Favorites screen title"
+  },
+  "shopHistoryTitle": "கடை வரலாறு",
+  "@shopHistoryTitle": {
+    "description": "Shop rotation history screen title"
+  },
+  "shopHistoryEmptyState": "இன்னும் கடை வரலாறு இல்லை — சில நாள் மறுஅமைப்புகளுக்குப் பிறகு பாருங்கள்.",
+  "@shopHistoryEmptyState": {
+    "description": "Shop history empty state message"
+  },
+  "shopHistorySeenCount": "{count} முறை பார்க்கப்பட்டது",
+  "@shopHistorySeenCount": {
+    "description": "How many times a skin has appeared in the shop history",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "clearAllFavoritesTitle": "அனைத்து பிடித்தவைகளையும் அழிக்கவா?",
+  "@clearAllFavoritesTitle": {
+    "description": "Dialog title"
+  },
+  "clearAllFavoritesContent": "உங்கள் பிடித்தவை பட்டியல் முழுவதும் நிரந்தரமாக அழிக்கப்படும்.",
+  "@clearAllFavoritesContent": {
+    "description": "Dialog content"
+  },
+  "deleteButton": "அழி",
+  "@deleteButton": {
+    "description": "Delete action"
+  },
+  "noFavoritesYet": "பிடித்தவை எதுவும் இன்னும் இல்லை.",
+  "@noFavoritesYet": {
+    "description": "Empty favorites text"
+  },
+  "addedDatePrefix": "சேர்க்கப்பட்டது: {date}",
+  "@addedDatePrefix": {
+    "description": "Added date label",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "loadoutTitle": "Loadout",
+  "@loadoutTitle": {
+    "description": "Loadout screen title"
+  },
+  "loadingTitleText": "Title ஏற்றப்படுகிறது...",
+  "@loadingTitleText": {
+    "description": "Title loader state"
+  },
+  "noTitleText": "Title இல்லை",
+  "@noTitleText": {
+    "description": "No title state"
+  },
+  "errorLoadingTitle": "Title-ஐ ஏற்றுவதில் பிழை",
+  "@errorLoadingTitle": {
+    "description": "Title error state"
+  },
+  "choosePlayerCardTitle": "Player Card-ஐத் தேர்ந்தெடுக்கவும்",
+  "@choosePlayerCardTitle": {
+    "description": "Screen title"
+  },
+  "changeTitleOption": "Title-ஐ மாற்றவும்",
+  "@changeTitleOption": {
+    "description": "Option button"
+  },
+  "chooseTitleScreenTitle": "Title-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseTitleScreenTitle": {
+    "description": "Screen title"
+  },
+  "weaponLoadoutOption": "Weapon Loadout",
+  "@weaponLoadoutOption": {
+    "description": "Option button"
+  },
+  "chooseSpraySlotTitle": "{slot} Spray-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseSpraySlotTitle": {
+    "description": "Screen title",
+    "placeholders": {
+      "slot": {
+        "type": "String"
+      }
+    }
+  },
+  "weaponsTitle": "ஆயுதங்கள்",
+  "@weaponsTitle": {
+    "description": "Weapons screen title"
+  },
+  "customizeWeaponTitle": "{weapon}-ஐத் தனிப்பயனாக்கு",
+  "@customizeWeaponTitle": {
+    "description": "Customize weapon screen title",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "standardSkinPrefix": "Standard {weapon}",
+  "@standardSkinPrefix": {
+    "description": "Standard skin name",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "changeSkinOption": "Skin-ஐ மாற்றவும்",
+  "@changeSkinOption": {
+    "description": "Option row"
+  },
+  "chooseSkinScreenTitle": "Skin-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseSkinScreenTitle": {
+    "description": "Screen title"
+  },
+  "buddySectionTitle": "Gun Buddy",
+  "@buddySectionTitle": {
+    "description": "Section header"
+  },
+  "noBuddyText": "Buddy எதுவும் இல்லை",
+  "@noBuddyText": {
+    "description": "Buddy empty state"
+  },
+  "changeBuddyOption": "Buddy-ஐ மாற்றவும்",
+  "@changeBuddyOption": {
+    "description": "Option row"
+  },
+  "chooseBuddyScreenTitle": "Buddy-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseBuddyScreenTitle": {
+    "description": "Screen title"
+  },
+  "searchPlaceholder": "தேடு",
+  "@searchPlaceholder": {
+    "description": "Search input hint"
+  },
+  "totalTab": "மொத்தம்",
+  "@totalTab": {
+    "description": "Tab label"
+  },
+  "ownedCountTab": "உள்ளவை ({count})",
+  "@ownedCountTab": {
+    "description": "Tab label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "sprayCategoryTab": "Spray",
+  "@sprayCategoryTab": {
+    "description": "Spray category"
+  },
+  "gifSprayCategoryTab": "GIF Spray",
+  "@gifSprayCategoryTab": {
+    "description": "Spray category"
+  },
+  "flexCategoryTab": "Flex",
+  "@flexCategoryTab": {
+    "description": "Spray category"
+  },
+  "weaponNotFoundMessage": "ஆயுதம் கிடைக்கவில்லை",
+  "@weaponNotFoundMessage": {
+    "description": "Error message"
+  },
+  "unknownItemTypeMessage": "தெரியாத பொருள் வகை",
+  "@unknownItemTypeMessage": {
+    "description": "Error message"
+  },
+  "failedToEquipSkin": "Skin-ஐப் பொருத்துவது தோல்வியடைந்தது: {error}",
+  "@failedToEquipSkin": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipBuddy": "Buddy-ஐப் பொருத்துவது தோல்வியடைந்தது: {error}",
+  "@failedToEquipBuddy": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipTitle": "Title-ஐப் பொருத்துவது தோல்வியடைந்தது: {error}",
+  "@failedToEquipTitle": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipSpray": "Spray-ஐப் பொருத்துவது தோல்வியடைந்தது: {error}",
+  "@failedToEquipSpray": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipCard": "Card-ஐப் பொருத்துவது தோல்வியடைந்தது: {error}",
+  "@failedToEquipCard": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "friendsTitle": "நண்பர்கள்",
+  "@friendsTitle": {
+    "description": "Friends screen title"
+  },
+  "friendsInGameDigestTitle": "விளையாட்டில் இருக்கும் நண்பர்கள்",
+  "@friendsInGameDigestTitle": {
+    "description": "Title for the home/hub card summarizing friends currently in a Valorant match"
+  },
+  "friendsInGameDigestCount": "{count, plural, one {{count} நண்பர் ஒரு போட்டியில் உள்ளார்} other {{count} நண்பர்கள் ஒரு போட்டியில் உள்ளனர்}}",
+  "@friendsInGameDigestCount": {
+    "description": "Subtitle for the friends-in-game digest card, count of friends currently in game",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "friendsInGameDigestMore": "+{count} மேலும்",
+  "@friendsInGameDigestMore": {
+    "description": "Overflow label on the friends-in-game digest card, e.g. '+3 more'",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "friendRequestSentSnackbar": "நண்பர் கோரிக்கை அனுப்பப்பட்டது!",
+  "@friendRequestSentSnackbar": {
+    "description": "Snackbar message"
+  },
+  "addFriendDialogTitle": "நண்பரைச் சேர்க்கவும்",
+  "@addFriendDialogTitle": {
+    "description": "Dialog title"
+  },
+  "addFriendDialogDescription": "நீங்கள் சேர்க்க விரும்பும் வீரரின் Riot ID-ஐ உள்ளிடவும்.",
+  "@addFriendDialogDescription": {
+    "description": "Dialog description"
+  },
+  "nameFieldHint": "பெயர்",
+  "@nameFieldHint": {
+    "description": "Text field hint"
+  },
+  "tagFieldHint": "Tag",
+  "@tagFieldHint": {
+    "description": "Text field hint"
+  },
+  "requiredValidation": "கட்டாயம் உள்ளிட வேண்டும்",
+  "@requiredValidation": {
+    "description": "Form validation error"
+  },
+  "sendRequestButton": "கோரிக்கையை அனுப்பு",
+  "@sendRequestButton": {
+    "description": "Button label to send friend request"
+  },
+  "errorLoadingFriends": "நண்பர்கள் பட்டியலை ஏற்றுவதில் பிழை: {error}",
+  "@errorLoadingFriends": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "retry": "மீண்டும் முயற்சி செய்",
+  "@retry": {
+    "description": "Retry button"
+  },
+  "searchFriendsHint": "நண்பர்களைத் தேடு",
+  "@searchFriendsHint": {
+    "description": "Search input hint"
+  },
+  "onlineStatusText": "Online",
+  "@onlineStatusText": {
+    "description": "Status label"
+  },
+  "offlineStatusText": "Offline",
+  "@offlineStatusText": {
+    "description": "Status label"
+  },
+  "justNowText": "சற்று முன்",
+  "@justNowText": {
+    "description": "Time label"
+  },
+  "lastOnlineMinutesAgo": "கடைசியாக {count} நிமிடங்களுக்கு முன் ஆன்லைனில் இருந்தார்",
+  "@lastOnlineMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "lastOnlineHoursAgo": "கடைசியாக {count} {unit} முன்பு",
+  "@lastOnlineHoursAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineHoursMinutesAgo": "கடைசியாக {hours} {hUnit}, {minutes} {mUnit} முன்பு",
+  "@lastOnlineHoursMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "hUnit": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      },
+      "mUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineDaysAgo": "கடைசியாக {count} நாட்களுக்கு முன்பு",
+  "@lastOnlineDaysAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "lastOnlineDaysHoursAgo": "கடைசியாக {days} நாட்கள், {hours} {hUnit} முன்பு",
+  "@lastOnlineDaysHoursAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "hours": {
+        "type": "int"
+      },
+      "hUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineDaysMinutesAgo": "கடைசியாக {days} நாள், {minutes} {mUnit} முன்பு",
+  "@lastOnlineDaysMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      },
+      "mUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "moreMembersCount": "+ {count} பேர்",
+  "@moreMembersCount": {
+    "description": "Party extra members",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onlineFriendsHeader": "ஆன்லைன் நண்பர்கள் — {count}",
+  "@onlineFriendsHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "inValorantHeader": "Valorant இல் — {count}",
+  "@inValorantHeader": {
+    "description": "Friends section header for friends actively in a Valorant session",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "riotClientHeader": "Riot Client — {count}",
+  "@riotClientHeader": {
+    "description": "Friends section header for friends online on Riot Client but not in a Valorant session",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offlineFriendsHeader": "ஆஃப்லைன் — {count}",
+  "@offlineFriendsHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "valorantLiveSocialTitle": "Valorant நேரலை சமூக அரங்கம்",
+  "@valorantLiveSocialTitle": {
+    "description": "Appbar title"
+  },
+  "xmppDisconnectedTitle": "XMPP இணைப்பு துண்டிக்கப்பட்டது",
+  "@xmppDisconnectedTitle": {
+    "description": "Appbar title"
+  },
+  "reconnectXmppMenu": "XMPP-ஐ மீண்டும் இணைக்கவும்",
+  "@reconnectXmppMenu": {
+    "description": "Menu item"
+  },
+  "setStatusOnlineMenu": "நிலை: Online என அமை",
+  "@setStatusOnlineMenu": {
+    "description": "Menu item"
+  },
+  "setStatusAwayMenu": "நிலை: Away என அமை",
+  "@setStatusAwayMenu": {
+    "description": "Menu item"
+  },
+  "disconnectMenu": "இணைப்பைத் துண்டி",
+  "@disconnectMenu": {
+    "description": "Menu item"
+  },
+  "statusLabelPrefix": "நிலை: {status}",
+  "@statusLabelPrefix": {
+    "description": "Status info bar",
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "connectButton": "இணைக்கவும்",
+  "@connectButton": {
+    "description": "Button label"
+  },
+  "friendsCountSidebar": "நண்பர்கள் ({count})",
+  "@friendsCountSidebar": {
+    "description": "Sidebar header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noFriendsFound": "நண்பர்கள் யாரும் கிடைக்கவில்லை",
+  "@noFriendsFound": {
+    "description": "Sidebar empty state"
+  },
+  "selectFriendToChat": "அரட்டையடிக்க ஒரு நண்பரைத் தேர்ந்தெடுக்கவும்",
+  "@selectFriendToChat": {
+    "description": "Chat placeholder"
+  },
+  "noMessagesYetSayHi": "செய்திகள் எதுவும் இல்லை. வணக்கம் சொல்லுங்கள்!",
+  "@noMessagesYetSayHi": {
+    "description": "Empty conversation placeholder"
+  },
+  "typeMessageHint": "செய்தியை தட்டச்சு செய்யவும்...",
+  "@typeMessageHint": {
+    "description": "Chat input hint"
+  },
+  "matchDetailsTitle": "போட்டி விவரங்கள்",
+  "@matchDetailsTitle": {
+    "description": "Match details title"
+  },
+  "noDetailsAvailable": "விவரங்கள் எதுவும் கிடைக்கவில்லை",
+  "@noDetailsAvailable": {
+    "description": "Empty state message"
+  },
+  "matchResultDraw": "சமநிலை",
+  "@matchResultDraw": {
+    "description": "Match result badge"
+  },
+  "matchResultVictory": "வெற்றி",
+  "@matchResultVictory": {
+    "description": "Match result badge"
+  },
+  "matchResultDefeat": "தோல்வி",
+  "@matchResultDefeat": {
+    "description": "Match result badge"
+  },
+  "scoreboardHeader": "Scoreboard",
+  "@scoreboardHeader": {
+    "description": "Match details section"
+  },
+  "killsColumnHeader": "K",
+  "@killsColumnHeader": {
+    "description": "Table column header"
+  },
+  "deathsColumnHeader": "D",
+  "@deathsColumnHeader": {
+    "description": "Table column header"
+  },
+  "assistsColumnHeader": "A",
+  "@assistsColumnHeader": {
+    "description": "Table column header"
+  },
+  "scoreColumnHeader": "SCORE",
+  "@scoreColumnHeader": {
+    "description": "Table column header"
+  },
+  "roundBreakdownHeader": "Round வாரியான விவரம்",
+  "@roundBreakdownHeader": {
+    "description": "Match details section"
+  },
+  "teamAlliesHeader": "நமது அணி",
+  "@teamAlliesHeader": {
+    "description": "Team section header"
+  },
+  "teamEnemiesHeader": "எதிரி அணி",
+  "@teamEnemiesHeader": {
+    "description": "Team section header"
+  },
+  "searchPlayersTitle": "வீரர்களைத் தேடு",
+  "@searchPlayersTitle": {
+    "description": "Screen title"
+  },
+  "searchPlayerHint": "பெயர்#Tag அல்லது PUUID மூலம் தேடவும்...",
+  "@searchPlayerHint": {
+    "description": "Search input hint"
+  },
+  "recentSearchesHeader": "சமீபத்திய தேடல்கள்",
+  "@recentSearchesHeader": {
+    "description": "Section header"
+  },
+  "clearAllButton": "அனைத்தையும் அழி",
+  "@clearAllButton": {
+    "description": "Button label"
+  },
+  "matchesNotAvailable": "போட்டிகள் கிடைக்கவில்லை",
+  "@matchesNotAvailable": {
+    "description": "Matches empty state"
+  },
+  "noRecentMatchesFound": "சமீபத்திய போட்டிகள் எதுவும் கிடைக்கவில்லை",
+  "@noRecentMatchesFound": {
+    "description": "Empty matches message"
+  },
+  "kdRatioLabel": "K/D",
+  "@kdRatioLabel": {
+    "description": "Stat label"
+  },
+  "headshotPercentLabel": "HS%",
+  "@headshotPercentLabel": {
+    "description": "Stat label"
+  },
+  "winRateLabel": "வெற்றி விகிதம்%",
+  "@winRateLabel": {
+    "description": "Stat label"
+  },
+  "currentRankHeader": "தற்போதைய Rank",
+  "@currentRankHeader": {
+    "description": "Section header"
+  },
+  "peakRankHeader": "உச்ச Rank",
+  "@peakRankHeader": {
+    "description": "Section header"
+  },
+  "recentMatchesHeader": "சமீபத்திய போட்டிகள்",
+  "@recentMatchesHeader": {
+    "description": "Section header"
+  },
+  "seasonGoalArchivedTitle": "Season இலக்கு காப்பகப்படுத்தப்பட்டது",
+  "@seasonGoalArchivedTitle": {
+    "description": "Dialog title"
+  },
+  "seasonGoalArchivedBody": "{season}-க்கான உங்கள் இலக்கு காப்பகப்படுத்தப்பட்டது.\n\nஇலக்கு Rank: {target}\nதொடக்க Rank: {starting}\nமுடிந்த Rank: {finished}",
+  "@seasonGoalArchivedBody": {
+    "description": "Dialog body",
+    "placeholders": {
+      "season": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      },
+      "starting": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      }
+    }
+  },
+  "okButton": "சரி",
+  "@okButton": {
+    "description": "Button label"
+  },
+  "reachedMaxRankMessage": "நீங்கள் அதிகபட்ச Rank-ஐ அடைந்துவிட்டீர்கள்!",
+  "@reachedMaxRankMessage": {
+    "description": "Max rank banner"
+  },
+  "seasonalRankGoalTitle": "சீசன் Rank இலக்கு",
+  "@seasonalRankGoalTitle": {
+    "description": "Screen title"
+  },
+  "profileDataNotAvailable": "சுயவிவரத் தரவு கிடைக்கவில்லை",
+  "@profileDataNotAvailable": {
+    "description": "Empty state message"
+  },
+  "errorLoadingRankGoals": "Rank இலக்குகளை ஏற்றுவதில் பிழை: {error}",
+  "@errorLoadingRankGoals": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "actEndedText": "Act முடிந்தது",
+  "@actEndedText": {
+    "description": "Timer state"
+  },
+  "daysLeftText": "{count} நாட்கள் மீதம்",
+  "@daysLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursLeftText": "{count} மணி நேரம் மீதம்",
+  "@hoursLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minsLeftText": "{count} நிமிடங்கள் மீதம்",
+  "@minsLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "startingBadge": "தொடக்க நிலை",
+  "@startingBadge": {
+    "description": "Rank status badge"
+  },
+  "currentBadge": "தற்போதைய நிலை",
+  "@currentBadge": {
+    "description": "Rank status badge"
+  },
+  "deleteActiveGoalTitle": "செயலில் உள்ள இலக்கை அழிக்கவா?",
+  "@deleteActiveGoalTitle": {
+    "description": "Dialog title"
+  },
+  "deleteActiveGoalContent": "உங்கள் தற்போதைய Rank இலக்கும் தொடக்க நிலையும் நிரந்தரமாக அழிக்கப்படும். இந்த இலக்கை அழிக்க விரும்புகிறீர்களா?",
+  "@deleteActiveGoalContent": {
+    "description": "Dialog content"
+  },
+  "deleteHistoryEntryTitle": "வரலாற்றுப் பதிவை அழிக்கவா?",
+  "@deleteHistoryEntryTitle": {
+    "description": "Dialog title"
+  },
+  "deleteHistoryEntryContent": "இந்தக் காப்பகப்படுத்தப்பட்ட இலக்கை வரலாற்றிலிருந்து நிரந்தரமாக அழிக்க விரும்புகிறீர்களா?",
+  "@deleteHistoryEntryContent": {
+    "description": "Dialog description"
+  },
+  "goalHistoryTargetFinished": "இலக்கு: {target} • முடிந்தது: {finished}",
+  "@goalHistoryTargetFinished": {
+    "description": "History subtitle",
+    "placeholders": {
+      "target": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      }
+    }
+  },
+  "contractsMissionsTitle": "Contracts & Missions",
+  "@contractsMissionsTitle": {
+    "description": "Screen title"
+  },
+  "missionsTab": "Missions",
+  "@missionsTab": {
+    "description": "Tab title"
+  },
+  "battlePassTab": "Battle Pass",
+  "@battlePassTab": {
+    "description": "Tab title"
+  },
+  "eventPassTab": "Event Pass",
+  "@eventPassTab": {
+    "description": "Tab title"
+  },
+  "agentsTab": "Agents",
+  "@agentsTab": {
+    "description": "Tab title"
+  },
+  "refreshDataButton": "தரவைப் புதுப்பி",
+  "@refreshDataButton": {
+    "description": "Button label"
+  },
+  "progressionDataNotAvailable": "முன்னேற்றத் தரவு கிடைக்கவில்லை",
+  "@progressionDataNotAvailable": {
+    "description": "Empty state message"
+  },
+  "errorLoadingContracts": "Contracts ஏற்றுவதில் பிழை: {error}",
+  "@errorLoadingContracts": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "dailyResetHeader": "தினசரி Reset",
+  "@dailyResetHeader": {
+    "description": "Section header"
+  },
+  "dailyCheckpointsHeader": "தினசரி Checkpoints",
+  "@dailyCheckpointsHeader": {
+    "description": "Section header"
+  },
+  "weeklyMissionsHeader": "வாராந்திர Missions",
+  "@weeklyMissionsHeader": {
+    "description": "Section header"
+  },
+  "futureWeekliesCountHeader": "எதிர்கால வாராந்திர பணிகள் ({count})",
+  "@futureWeekliesCountHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "missionDefaultTitle": "Mission",
+  "@missionDefaultTitle": {
+    "description": "Fallback title"
+  },
+  "agentRecruitmentHeader": "Agent Recruitment",
+  "@agentRecruitmentHeader": {
+    "description": "Section header"
+  },
+  "agentGearTitle": "ஏஜென்ட் கியர்",
+  "@agentGearTitle": {
+    "description": "Title of the per-agent cosmetic contract progress screen"
+  },
+  "agentGearTiersFormat": "{completed}/{total} நிலைகள்",
+  "@agentGearTiersFormat": {
+    "description": "Completed vs total tiers for an agent's gear contract",
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "agentGearMaxed": "முழுமையானது",
+  "@agentGearMaxed": {
+    "description": "Shown when an agent's gear contract is fully completed"
+  },
+  "agentGearKcRemaining": "முழுமைபடுத்த {amount} KC தேவை",
+  "@agentGearKcRemaining": {
+    "description": "Kingdom Credits remaining to fully complete an agent's gear contract",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "agentGearTierFormat": "நிலை {tier}",
+  "@agentGearTierFormat": {
+    "description": "Label for a single reward tier in the agent gear detail list",
+    "placeholders": {
+      "tier": {
+        "type": "int"
+      }
+    }
+  },
+  "kingdomCreditsBalance": "Kingdom Credits: {amount}",
+  "@kingdomCreditsBalance": {
+    "description": "KC balance",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "notLoggedInMessage": "உள்நுழையவில்லை",
+  "@notLoggedInMessage": {
+    "description": "Profile empty state"
+  },
+  "rankHistoryTitle": "RR வரலாறு",
+  "@rankHistoryTitle": {
+    "description": "Title for the local RR-over-time graph card on the profile screen"
+  },
+  "rankGoalsTileTitle": "Rank இலக்குகள்",
+  "@rankGoalsTileTitle": {
+    "description": "ListTile title"
+  },
+  "rankGoalsTileSubtitle": "உங்கள் Rank முன்னேற்றத்தை அமைத்துக் கண்காணிக்கவும்",
+  "@rankGoalsTileSubtitle": {
+    "description": "ListTile subtitle"
+  },
+  "contractsTileSubtitle": "Agent recruitment மற்றும் Missions முன்னேற்றத்தைக் கண்காணிக்கவும்",
+  "@contractsTileSubtitle": {
+    "description": "ListTile subtitle"
+  },
+  "unknownText": "தெரியாதவை",
+  "@unknownText": {
+    "description": "Fallback label"
+  },
+  "remainingTimeLabel": "மீதமுள்ள நேரம்: {time}",
+  "@remainingTimeLabel": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "allQueuesFilter": "அனைத்து Queues",
+  "@allQueuesFilter": {
+    "description": "Dropdown filter"
+  },
+  "queueCompetitive": "Competitive",
+  "@queueCompetitive": {
+    "description": "Queue name"
+  },
+  "queueUnrated": "Unrated",
+  "@queueUnrated": {
+    "description": "Queue name"
+  },
+  "queueSwiftplay": "Swiftplay",
+  "@queueSwiftplay": {
+    "description": "Queue name"
+  },
+  "queueSpikeRush": "Spike Rush",
+  "@queueSpikeRush": {
+    "description": "Queue name"
+  },
+  "queueDeathmatch": "Deathmatch",
+  "@queueDeathmatch": {
+    "description": "Queue name"
+  },
+  "sortNewest": "புதியவை",
+  "@sortNewest": {
+    "description": "Sort option"
+  },
+  "sortOldest": "பழையவை",
+  "@sortOldest": {
+    "description": "Sort option"
+  },
+  "tryAgainButton": "மீண்டும் முயற்சி செய்",
+  "@tryAgainButton": {
+    "description": "Button label"
+  },
+  "noMatchesFilterMessage": "தேர்ந்தெடுத்த filter-க்கு போட்டிகள் எதுவும் கிடைக்கவில்லை",
+  "@noMatchesFilterMessage": {
+    "description": "Empty matches state"
+  },
+  "loadMoreButton": "மேலும் ஏற்று",
+  "@loadMoreButton": {
+    "description": "Pagination button"
+  },
+  "topAgentsHeader": "சிறந்த Agents",
+  "@topAgentsHeader": {
+    "description": "Stats tab header"
+  },
+  "topWeaponsHeader": "சிறந்த ஆயுதங்கள்",
+  "@topWeaponsHeader": {
+    "description": "Stats tab header"
+  },
+  "topMapsHeader": "சிறந்த Maps",
+  "@topMapsHeader": {
+    "description": "Stats tab header"
+  },
+  "accuracyHeader": "துல்லியம்",
+  "@accuracyHeader": {
+    "description": "Stats tab header"
+  },
+  "loginSuccessfulSnackbar": "வெற்றிகரமாக உள்நுழைந்தது!",
+  "@loginSuccessfulSnackbar": {
+    "description": "Snackbar message"
+  },
+  "loginFailedSnackbar": "உள்நுழைவு தோல்வியடைந்தது: {error}",
+  "@loginFailedSnackbar": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "riotLoginTitle": "Riot உள்நுழைவு",
+  "@riotLoginTitle": {
+    "description": "Screen title"
+  },
+  "noInternetShopRefreshFailed": "இணைய இணைப்பு இல்லை. கடையைப் புதுப்பிக்க முடியவில்லை.",
+  "@noInternetShopRefreshFailed": {
+    "description": "Snackbar message"
+  },
+  "failedToRefreshShop": "கடையைப் புதுப்பிப்பது தோல்வியடைந்தது: {error}",
+  "@failedToRefreshShop": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "featuredBundleHeader": "Featured Bundle",
+  "@featuredBundleHeader": {
+    "description": "Shop section header"
+  },
+  "dailyOffersHeader": "தினசரி சலுகைகள்",
+  "@dailyOffersHeader": {
+    "description": "Shop section header"
+  },
+  "nightMarketHeader": "Night Market",
+  "@nightMarketHeader": {
+    "description": "Shop section header"
+  },
+  "accessoryStoreHeader": "Accessory கடை",
+  "@accessoryStoreHeader": {
+    "description": "Shop section header"
+  },
+  "bundleExpiresIn": "{time}-ல் காலாவதியாகும்",
+  "@bundleExpiresIn": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offersResetIn": "{time}-ல் புதுப்பிக்கப்படும்",
+  "@offersResetIn": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "discountPercentBadge": "-{percent}%",
+  "@discountPercentBadge": {
+    "description": "Discount badge",
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "friendsOptionTitle": "நண்பர்கள்",
+  "@friendsOptionTitle": {
+    "description": "Option button"
+  },
+  "friendsOptionSubtitle": "ஆன்லைன் நிலையைக் காணவும் கோரிக்கைகளை அனுப்பவும்",
+  "@friendsOptionSubtitle": {
+    "description": "Option subtitle"
+  },
+  "matchTypeTitle": "போட்டி வகை",
+  "@matchTypeTitle": {
+    "description": "Configuration title"
+  },
+  "preferredServersTitle": "விருப்பமான சேவையகங்கள்",
+  "@preferredServersTitle": {
+    "description": "Configuration title"
+  },
+  "partyCodeTitle": "Party Code",
+  "@partyCodeTitle": {
+    "description": "Configuration title"
+  },
+  "copyCodeTooltip": "Code-ஐ நகலெடு",
+  "@copyCodeTooltip": {
+    "description": "Tooltip"
+  },
+  "partyCodeCopiedSnackbar": "Party Code நகலெடுக்கப்பட்டது!",
+  "@partyCodeCopiedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "disableCodeTooltip": "Code-ஐ முடக்கு",
+  "@disableCodeTooltip": {
+    "description": "Tooltip"
+  },
+  "generateCodeButton": "உருவாக்கு",
+  "@generateCodeButton": {
+    "description": "Button label"
+  },
+  "copiedToClipboardSnackbar": "{text} நகலெடுக்கப்பட்டது!",
+  "@copiedToClipboardSnackbar": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "copyRiotIdMenu": "Riot ID-ஐ நகலெடு",
+  "@copyRiotIdMenu": {
+    "description": "Context menu item"
+  },
+  "openProfileMenu": "சுயவிவரத்தைத் திற",
+  "@openProfileMenu": {
+    "description": "Context menu item"
+  },
+  "openProfileSubtitle": "Career போட்டி வரலாறு மற்றும் புள்ளிவிவரங்களைப் பார்க்கவும்",
+  "@openProfileSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "showLoadoutMenu": "Loadout-ஐக் காட்டு",
+  "@showLoadoutMenu": {
+    "description": "Context menu item"
+  },
+  "showLoadoutSubtitle": "பொருத்தப்பட்ட Weapon Skins-ஐப் பார்க்கவும்",
+  "@showLoadoutSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "addFriendMenu": "நண்பரைச் சேர்க்கவும்",
+  "@addFriendMenu": {
+    "description": "Context menu item"
+  },
+  "addFriendSubtitle": "Riot நண்பர் கோரிக்கையை அனுப்பவும்",
+  "@addFriendSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "inviteToPartyMenu": "Party-க்கு அழைக்கவும்",
+  "@inviteToPartyMenu": {
+    "description": "Context menu item"
+  },
+  "inviteToPartySubtitle": "வீரரை தற்போதைய Lobby-க்கு அழைக்கவும்",
+  "@inviteToPartySubtitle": {
+    "description": "Menu subtitle"
+  },
+  "gameNameFieldHint": "விளையாட்டுப் பெயர் (Game Name)",
+  "@gameNameFieldHint": {
+    "description": "Field hint"
+  },
+  "taglineFieldHint": "Tagline",
+  "@taglineFieldHint": {
+    "description": "Field hint"
+  },
+  "friendRequestSentToPlayer": "{name}#{tag}-க்கு நண்பர் கோரிக்கை அனுப்பப்பட்டது!",
+  "@friendRequestSentToPlayer": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "tag": {
+        "type": "String"
+      }
+    }
+  },
+  "selectMatchTypeTitle": "போட்டி வகையைத் தேர்ந்தெடுக்கவும்",
+  "@selectMatchTypeTitle": {
+    "description": "Dialog title"
+  },
+  "selectServersTitle": "Servers-ஐத் தேர்ந்தெடுக்கவும்",
+  "@selectServersTitle": {
+    "description": "Dialog title"
+  },
+  "partyLobbyHeader": "Party Lobby",
+  "@partyLobbyHeader": {
+    "description": "Screen header"
+  },
+  "startMatchmakingButton": "போட்டியைத் தொடங்கு",
+  "@startMatchmakingButton": {
+    "description": "FAB label"
+  },
+  "cancelMatchmakingButton": "ரத்து செய்",
+  "@cancelMatchmakingButton": {
+    "description": "FAB label"
+  },
+  "matchmakingInQueue": "வரிசையில் (Queue): {time}",
+  "@matchmakingInQueue": {
+    "description": "Queue timer",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelectPhaseTitle": "Agent தேர்வு",
+  "@agentSelectPhaseTitle": {
+    "description": "Phase title"
+  },
+  "inMatchPhaseTitle": "போட்டியில்",
+  "@inMatchPhaseTitle": {
+    "description": "Phase title"
+  },
+  "attackersSideLabel": "Attackers",
+  "@attackersSideLabel": {
+    "description": "Starting side label"
+  },
+  "defendersSideLabel": "Defenders",
+  "@defendersSideLabel": {
+    "description": "Starting side label"
+  },
+  "leavePartyButton": "Party-யை விட்டு வெளியேறு",
+  "@leavePartyButton": {
+    "description": "Button label"
+  },
+  "openPartyAccessibility": "திறந்த Party (Open)",
+  "@openPartyAccessibility": {
+    "description": "Accessibility mode"
+  },
+  "closedPartyAccessibility": "மூடிய Party (Closed)",
+  "@closedPartyAccessibility": {
+    "description": "Accessibility mode"
+  },
+  "playerReadyLabel": "தயார்",
+  "@playerReadyLabel": {
+    "description": "Player status"
+  },
+  "playerNotReadyLabel": "தயாராக இல்லை",
+  "@playerNotReadyLabel": {
+    "description": "Player status"
+  },
+  "leaderBadge": "தலைவர்",
+  "@leaderBadge": {
+    "description": "Leader tag"
+  },
+  "criticalUpdateRequiredTitle": "முக்கியமான புதுப்பிப்பு தேவை",
+  "@criticalUpdateRequiredTitle": {
+    "description": "Force update dialog title"
+  },
+  "updateAvailableTitle": "புதிய புதுப்பிப்பு கிடைக்கிறது!",
+  "@updateAvailableTitle": {
+    "description": "Normal update dialog title"
+  },
+  "criticalUpdateRequiredBody": "செயலியைத் தொடர்ந்து பயன்படுத்த முக்கியமான புதுப்பிப்பு (v{version}) தேவை. இந்தப் புதுப்பிப்பு அத்தியாவசிய Riot API மாற்றங்களைச் சரிசெய்கிறது.",
+  "@criticalUpdateRequiredBody": {
+    "description": "Force update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailableBody": "Val Shop-ன் புதிய பதிப்பு (v{version}) தயாராக உள்ளது! புதிய அம்சங்கள் மற்றும் பிழைத்திருத்தங்களுக்காக இப்போது புதுப்பிக்கவும்.",
+  "@updateAvailableBody": {
+    "description": "Normal update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "unknownItemType": "தெரியாத பொருள் வகை",
+  "@unknownItemType": {
+    "description": "Error message when item type is unknown"
+  },
+  "requiredValidator": "கட்டாயம் உள்ளிட வேண்டும்",
+  "@requiredValidator": {
+    "description": "Form validation required message"
+  },
+  "plusMorePartyMembers": "+ {count} பேர்",
+  "@plusMorePartyMembers": {
+    "description": "Party members overflow text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "justNow": "சற்று முன்",
+  "@justNow": {
+    "description": "Time ago string"
+  },
+  "lastOnlineOneDayAgo": "கடைசியாக 1 நாளுக்கு முன் ஆன்லைனில் இருந்தார்",
+  "@lastOnlineOneDayAgo": {
+    "description": "Last online text for 1 day"
+  },
+  "seasonGoalArchivedContent": "{season}-க்கான உங்கள் இலக்கு காப்பகப்படுத்தப்பட்டது.\n\nஇலக்கு: {target}\nமுடிந்தது: {finished} ({currentRR} RR)\n\n{resultMessage}",
+  "@seasonGoalArchivedContent": {
+    "description": "Archived goal dialog message",
+    "placeholders": {
+      "season": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      },
+      "currentRR": {
+        "type": "int"
+      },
+      "resultMessage": {
+        "type": "String"
+      }
+    }
+  },
+  "goalReachedCongratulations": "வாழ்த்துகள்! நீங்கள் உங்கள் இலக்கை அடைந்துவிட்டீர்கள்! 🎉",
+  "@goalReachedCongratulations": {
+    "description": "Archived dialog congratulation"
+  },
+  "goalMissedEncouragement": "நல்ல முயற்சி! தற்போதைய சீசனுக்கு புதிய இலக்கை அமைக்கவும்.",
+  "@goalMissedEncouragement": {
+    "description": "Archived dialog encouragement"
+  },
+  "selectTargetRankGoal": "இலக்கு Rank-ஐத் தேர்ந்தெடுக்கவும்",
+  "@selectTargetRankGoal": {
+    "description": "Modal sheet title"
+  },
+  "noRankGoalSet": "Rank இலக்கு அமைக்கப்படவில்லை",
+  "@noRankGoalSet": {
+    "description": "Title when no rank goal is active"
+  },
+  "noRankGoalSetDescription": "உங்கள் தற்போதைய Rank {rank} ({rr} RR). உங்கள் முன்னேற்றத்தைக் கண்காணிக்க இந்த சீசனுக்கு ஒரு இலக்கை அமைக்கவும்.",
+  "@noRankGoalSetDescription": {
+    "description": "Description when no goal is active",
+    "placeholders": {
+      "rank": {
+        "type": "String"
+      },
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "setTargetGoal": "இலக்கை அமைக்கவும்",
+  "@setTargetGoal": {
+    "description": "Button label to set rank goal"
+  },
+  "actEnded": "Act முடிந்தது",
+  "@actEnded": {
+    "description": "Timer text when act is finished"
+  },
+  "daysLeft": "{days} நாட்கள் மீதம்",
+  "@daysLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursLeft": "{hours} மணி நேரம் மீதம்",
+  "@hoursLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "minsLeft": "{mins} நிமிடங்கள் மீதம்",
+  "@minsLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "activeAct": "செயலில் உள்ள Act",
+  "@activeAct": {
+    "description": "Label for current active act"
+  },
+  "climbProgress": "Rank முன்னேற்றம்",
+  "@climbProgress": {
+    "description": "Progress card title"
+  },
+  "setPrefix": "அமைக்கப்பட்டது: {date}",
+  "@setPrefix": {
+    "description": "Date goal was set",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "startingLabel": "தொடக்க நிலை",
+  "@startingLabel": {
+    "description": "Stat label"
+  },
+  "currentLabel": "தற்போதைய நிலை",
+  "@currentLabel": {
+    "description": "Stat label"
+  },
+  "rrSuffix": "{rr} RR",
+  "@rrSuffix": {
+    "description": "Rank rating suffix",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "goalAchieved": "இலக்கு அடையப்பட்டது!",
+  "@goalAchieved": {
+    "description": "Progress status"
+  },
+  "rankGoalTrendTitle": "போக்கு",
+  "@rankGoalTrendTitle": {
+    "description": "Section title for the RR trend/games-to-goal estimate"
+  },
+  "rankGoalNotEnoughData": "மதிப்பிட போதுமான சமீபத்திய கேம்கள் இல்லை",
+  "@rankGoalNotEnoughData": {
+    "description": "Shown when there isn't enough local rank history to compute a trend"
+  },
+  "rankGoalTrendingAway": "இலக்கிலிருந்து விலகிச் செல்கிறது",
+  "@rankGoalTrendingAway": {
+    "description": "Shown when the average RR change per game is flat or negative"
+  },
+  "rankGoalEstimatedGames": "இலக்கை அடைய ~{games} கேம்கள்",
+  "@rankGoalEstimatedGames": {
+    "description": "Estimated number of games left to reach the rank goal at the current trend",
+    "placeholders": {
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "rankGoalAvgRRPerGame": "கடந்த {games} கேம்களில் சராசரி {avg} RR/கேம்",
+  "@rankGoalAvgRRPerGame": {
+    "description": "Average RR change per game over the trailing window used for the estimate",
+    "placeholders": {
+      "avg": {
+        "type": "String"
+      },
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "rankGoalSummaryCardTitle": "இலக்கு முன்னேற்றம்",
+  "@rankGoalSummaryCardTitle": {
+    "description": "Title of the compact rank goal progress summary card"
+  },
+  "rankGoalSummaryTargetLabel": "இலக்கு: {tierName}",
+  "@rankGoalSummaryTargetLabel": {
+    "description": "Compact summary card subtitle naming the target rank tier",
+    "placeholders": {
+      "tierName": {
+        "type": "String"
+      }
+    }
+  },
+  "rrToGo": "இன்னும் {rr} RR தேவை",
+  "@rrToGo": {
+    "description": "Progress status remaining RR",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "plusRR": "+{rr} RR",
+  "@plusRR": {
+    "description": "Positive RR gain",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "theClimbTimeline": "Rank ஏற்ற காலவரிசை",
+  "@theClimbTimeline": {
+    "description": "Timeline title"
+  },
+  "deleteGoal": "இலக்கை நீக்கு",
+  "@deleteGoal": {
+    "description": "Delete goal button label"
+  },
+  "goalHistory": "இலக்கு வரலாறு",
+  "@goalHistory": {
+    "description": "Section title for past goals"
+  },
+  "achievedStatus": "அடைந்தது",
+  "@achievedStatus": {
+    "description": "Status badge"
+  },
+  "missedStatus": "தவறியது",
+  "@missedStatus": {
+    "description": "Status badge"
+  },
+  "unknownSeason": "தெரியாத சீசன்",
+  "@unknownSeason": {
+    "description": "Fallback season text"
+  },
+  "unranked": "Unranked",
+  "@unranked": {
+    "description": "Fallback rank name"
+  },
+  "failedToLoadMatchDetails": "Riot சேவையகத்திலிருந்து போட்டி விவரங்களை ஏற்ற முடியவில்லை.",
+  "@failedToLoadMatchDetails": {
+    "description": "Error message"
+  },
+  "unknownMap": "தெரியாத வரைபடம் (Map)",
+  "@unknownMap": {
+    "description": "Fallback map name"
+  },
+  "yourPerformance": "உங்கள் செயல்திறன்",
+  "@yourPerformance": {
+    "description": "Performance section header"
+  },
+  "unknownAgent": "தெரியாத Agent",
+  "@unknownAgent": {
+    "description": "Fallback agent name"
+  },
+  "accountLevelFormat": "நிலை {level}",
+  "@accountLevelFormat": {
+    "description": "Account level label",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "kdRatioWithVal": "K/D விகிதம்: {ratio}",
+  "@kdRatioWithVal": {
+    "description": "KD Ratio string",
+    "placeholders": {
+      "ratio": {
+        "type": "String"
+      }
+    }
+  },
+  "acs": "ACS",
+  "@acs": {
+    "description": "Combat score stat label"
+  },
+  "kills": "Kills",
+  "@kills": {
+    "description": "Kills stat label"
+  },
+  "assists": "Assists",
+  "@assists": {
+    "description": "Assists stat label"
+  },
+  "blueTeam": "நீல அணி",
+  "@blueTeam": {
+    "description": "Team name"
+  },
+  "redTeam": "சிவப்பு அணி",
+  "@redTeam": {
+    "description": "Team name"
+  },
+  "roundsWonFormat": "{count} Rounds",
+  "@roundsWonFormat": {
+    "description": "Rounds won count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "kdaHeader": "K/D/A",
+  "@kdaHeader": {
+    "description": "KDA column header"
+  },
+  "playerLv": "Lv {level}",
+  "@playerLv": {
+    "description": "Short player level",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "anErrorOccurred": "ஒரு பிழை ஏற்பட்டது",
+  "@anErrorOccurred": {
+    "description": "Generic error fallback"
+  },
+  "searchEmptyPrompt": "Name#Tag அல்லது PUUID மூலம் Valorant வீரரைத் தேடவும்\n(எ.கா., Tenz#NA1)",
+  "@searchEmptyPrompt": {
+    "description": "Empty search prompt"
+  },
+  "regionPrefix": "பகுதி (Region): {region}",
+  "@regionPrefix": {
+    "description": "Region label",
+    "placeholders": {
+      "region": {
+        "type": "String"
+      }
+    }
+  },
+  "currentRankUpper": "தற்போதைய RANK",
+  "@currentRankUpper": {
+    "description": "Current rank upper label"
+  },
+  "lifetimePeak": "வாழ்நாள் உச்சம்",
+  "@lifetimePeak": {
+    "description": "Lifetime peak label"
+  },
+  "mustBeLoggedInToSearch": "தேடுவதற்கு நீங்கள் உள்நுழைந்திருக்க வேண்டும்.",
+  "@mustBeLoggedInToSearch": {
+    "description": "Validation error"
+  },
+  "invalidNameTagFormat": "தவறான Name#Tag வடிவம். உதாரணம்: Tenz#NA1",
+  "@invalidNameTagFormat": {
+    "description": "Validation error"
+  },
+  "enterValidNameTagOrPuuid": "சரியான Name#Tag அல்லது 36 எழுத்து PUUID-ஐ உள்ளிடவும்",
+  "@enterValidNameTagOrPuuid": {
+    "description": "Validation error"
+  },
+  "playerNotFound": "வீரர் கிடைக்கவில்லை. பெயர்/Tag அல்லது PUUID-ஐச் சரிபார்க்கவும்.",
+  "@playerNotFound": {
+    "description": "Error message"
+  },
+  "refreshDataTooltip": "தரவைப் புதுப்பி",
+  "@refreshDataTooltip": {
+    "description": "Tooltip"
+  },
+  "allWeekliesCompleted": "அனைத்து வாராந்திர பணிகளும் முடிந்தது!",
+  "@allWeekliesCompleted": {
+    "description": "Missions empty state"
+  },
+  "inWeeks": "{count} {unit}-ல்",
+  "@inWeeks": {
+    "description": "Time until weekly mission unlocks",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "noActivePassAvailable": "தற்போது செயலில் உள்ள Pass எதுவும் இல்லை.",
+  "@noActivePassAvailable": {
+    "description": "Pass empty state"
+  },
+  "nextReward": "அடுத்த வெகுமதி",
+  "@nextReward": {
+    "description": "Next reward title"
+  },
+  "passLevelFormat": "நிலை {current} / {total}",
+  "@passLevelFormat": {
+    "description": "Pass level indicator",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "xpForecastDaysFormat": "இந்த வேகத்தில், முடிக்க ~{days} {days, plural, one {நாள்} other {நாட்கள்}}",
+  "@xpForecastDaysFormat": {
+    "description": "Estimated days remaining to finish the current battle pass tier/act, based on locally observed XP pace",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "xpForecastRatePerDay": "~{xp} XP/நாள்",
+  "@xpForecastRatePerDay": {
+    "description": "Locally observed average XP gain per day",
+    "placeholders": {
+      "xp": {
+        "type": "String"
+      }
+    }
+  },
+  "xpForecastGatheringData": "XP வேக தரவு சேகரிக்கப்படுகிறது — சில நேரங்களுக்குப் பிறகு பாருங்கள்",
+  "@xpForecastGatheringData": {
+    "description": "Shown when not enough local XP history exists yet to forecast pass completion"
+  },
+  "unlockedLabel": "திறக்கப்பட்டது",
+  "@unlockedLabel": {
+    "description": "Agent stat label"
+  },
+  "completedLabel": "முடிந்தது",
+  "@completedLabel": {
+    "description": "Agent stat label"
+  },
+  "manageLoadoutButton": "Loadout-ஐ நிர்வகி",
+  "@manageLoadoutButton": {
+    "description": "Button label"
+  },
+  "competitiveQueueBan": "Competitive Queue தடை",
+  "@competitiveQueueBan": {
+    "description": "Ban banner title"
+  },
+  "matchmakingQueueBan": "Matchmaking Queue தடை",
+  "@matchmakingQueueBan": {
+    "description": "Ban banner title"
+  },
+  "communicationRestriction": "தொடர்பு கட்டுப்பாடு (Comm Ban)",
+  "@communicationRestriction": {
+    "description": "Ban banner title"
+  },
+  "accountRestriction": "கணக்குக் கட்டுப்பாடு ({type})",
+  "@accountRestriction": {
+    "description": "Ban banner title",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "startedPrefix": "தொடங்கியது: {time}",
+  "@startedPrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "expiresPrefix": "முடிவடையும் நேரம்: {time}",
+  "@expiresPrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "remainingTimePrefix": "மீதமுள்ள நேரம்: {time}",
+  "@remainingTimePrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "hoursAndMinutes": "{hours} மணி நேரம், {minutes} நிமிடங்கள்",
+  "@hoursAndMinutes": {
+    "description": "Duration text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesOnly": "{minutes} நிமிடங்கள்",
+  "@minutesOnly": {
+    "description": "Duration text",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "noMatchesFoundForFilter": "தேர்ந்தெடுத்த filter-க்கு எந்தப் போட்டியும் கிடைக்கவில்லை",
+  "@noMatchesFoundForFilter": {
+    "description": "Empty list message"
+  },
+  "noMoreMatchesToLoad": "ஏற்றுவதற்கு மேற்கொண்டு போட்டிகள் இல்லை",
+  "@noMoreMatchesToLoad": {
+    "description": "List footer"
+  },
+  "matchHistoryTitle": "போட்டி வரலாறு",
+  "@matchHistoryTitle": {
+    "description": "Section title"
+  },
+  "queueEscalation": "Escalation",
+  "@queueEscalation": {
+    "description": "Queue mode name"
+  },
+  "queueReplication": "Replication",
+  "@queueReplication": {
+    "description": "Queue mode name"
+  },
+  "queueSnowballFight": "Snowball Fight",
+  "@queueSnowballFight": {
+    "description": "Queue mode name"
+  },
+  "queueTeamDeathmatch": "Team Deathmatch",
+  "@queueTeamDeathmatch": {
+    "description": "Queue mode name"
+  },
+  "queueRetake": "Retake",
+  "@queueRetake": {
+    "description": "Queue mode name"
+  },
+  "queueCustomUnknown": "Custom / பிற",
+  "@queueCustomUnknown": {
+    "description": "Queue mode name"
+  },
+  "sessionExpiredOrNotLoggedIn": "அமர்வு காலாவதியானது அல்லது உள்நுழையவில்லை",
+  "@sessionExpiredOrNotLoggedIn": {
+    "description": "Error message"
+  },
+  "failedToLoadMatchHistory": "போட்டி வரலாற்றை ஏற்ற முடியவில்லை",
+  "@failedToLoadMatchHistory": {
+    "description": "Error message"
+  },
+  "firstWinOfTheDay": "அன்றைய முதல் வெற்றி",
+  "@firstWinOfTheDay": {
+    "description": "Card title"
+  },
+  "recentXpHeader": "சமீபத்திய XP",
+  "@recentXpHeader": {
+    "description": "Card title"
+  },
+  "lastMatchesCount": "கடைசி {count} போட்டிகள்",
+  "@lastMatchesCount": {
+    "description": "Subtitle",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRecentMatchHistoryFound": "சமீபத்திய போட்டி வரலாறு எதுவும் கிடைக்கவில்லை.",
+  "@noRecentMatchHistoryFound": {
+    "description": "Empty message"
+  },
+  "showLess": "குறைவாகக் காட்டு",
+  "@showLess": {
+    "description": "Toggle button"
+  },
+  "showMore": "மேலும் காட்டு",
+  "@showMore": {
+    "description": "Toggle button"
+  },
+  "viewAgentContracts": "Agent Contracts-ஐப் பார்",
+  "@viewAgentContracts": {
+    "description": "Button label"
+  },
+  "failedToLoadMatches": "போட்டிகளை ஏற்றுவது தோல்வியடைந்தது.",
+  "@failedToLoadMatches": {
+    "description": "Error message"
+  },
+  "noMatchesFoundForMode": "தேர்ந்தெடுத்த முறைக்கு போட்டிகள் எதுவும் கிடைக்கவில்லை.",
+  "@noMatchesFoundForMode": {
+    "description": "Empty state"
+  },
+  "performanceLastMatches": "செயல்திறன் (கடைசி {count} போட்டிகள்)",
+  "@performanceLastMatches": {
+    "description": "Header title",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statKd": "K/D",
+  "@statKd": {
+    "description": "Stat label"
+  },
+  "statWinrate": "வெற்றி %",
+  "@statWinrate": {
+    "description": "Stat label"
+  },
+  "statAcs": "ACS",
+  "@statAcs": {
+    "description": "Stat label"
+  },
+  "statHours": "மணி நேரம்",
+  "@statHours": {
+    "description": "Stat label"
+  },
+  "thisSession": "இந்த அமர்வு",
+  "@thisSession": {
+    "description": "Toggle/label for stats gathered only since the app was opened"
+  },
+  "allTime": "எல்லா காலமும்",
+  "@allTime": {
+    "description": "Toggle/label for cumulative stats across all recorded matches"
+  },
+  "sessionMatchesPlayed": "விளையாடிய போட்டிகள்",
+  "@sessionMatchesPlayed": {
+    "description": "Stat label for this-session match count"
+  },
+  "sessionRecordWinLoss": "{wins}வெ - {losses}தோ",
+  "@sessionRecordWinLoss": {
+    "description": "This-session win/loss record",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "losses": {
+        "type": "int"
+      }
+    }
+  },
+  "noMatchesThisSessionYet": "இந்த அமர்வில் இதுவரை போட்டிகள் இல்லை.",
+  "@noMatchesThisSessionYet": {
+    "description": "Empty state for this-session stats before any match has been played"
+  },
+  "statClutchRate": "கிளட்ச் %",
+  "@statClutchRate": {
+    "description": "Stat label for clutch round win rate"
+  },
+  "clutchDetectorTitle": "கிளட்ச் டிடெக்டர்",
+  "@clutchDetectorTitle": {
+    "description": "Section title for the clutch stat card"
+  },
+  "clutchDetectorSubtitle": "{attempts} கிளட்ச் ரவுண்டுகளில் {wins} வெற்றி",
+  "@clutchDetectorSubtitle": {
+    "description": "Subtitle showing clutch wins out of attempts",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "attempts": {
+        "type": "int"
+      }
+    }
+  },
+  "mostPlayedAgents": "அதிகம் பயன்படுத்திய Agents",
+  "@mostPlayedAgents": {
+    "description": "Section title"
+  },
+  "mapWinratePercent": "Map வெற்றி விகிதம் %",
+  "@mapWinratePercent": {
+    "description": "Section title"
+  },
+  "authenticatingWithRiot": "Riot மூலம் அங்கீகரிக்கப்படுகிறது...",
+  "@authenticatingWithRiot": {
+    "description": "Loading text"
+  },
+  "fetchingYourAccountDetails": "கணக்கு விவரங்கள் பெறப்படுகின்றன...",
+  "@fetchingYourAccountDetails": {
+    "description": "Loading subtitle"
+  },
+  "pleaseLoginFirstInSettings": "தயவுசெய்து முதலில் அமைப்புகளில் உள்நுழையவும்.",
+  "@pleaseLoginFirstInSettings": {
+    "description": "Empty state"
+  },
+  "favoriteItemInStoreBanner": "உங்களுக்குப் பிடித்த பொருள் கடையில் உள்ளது!",
+  "@favoriteItemInStoreBanner": {
+    "description": "Banner text"
+  },
+  "errorLoadingBundles": "Bundles ஏற்றுவதில் பிழை: {error}",
+  "@errorLoadingBundles": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "blackMarket": "Black Market",
+  "@blackMarket": {
+    "description": "Header title"
+  },
+  "weeklyAccessories": "வாராந்திர Accessories",
+  "@weeklyAccessories": {
+    "description": "Header title"
+  },
+  "dontShowAgain": "மீண்டும் காட்டாதே",
+  "@dontShowAgain": {
+    "description": "Checkbox label"
+  },
+  "closeButton": "மூடுக",
+  "@closeButton": {
+    "description": "Button label"
+  },
+  "skinFallbackName": "Skin {id}",
+  "@skinFallbackName": {
+    "description": "Fallback skin title",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelectWithQueue": "Agent தேர்வு • {queue}",
+  "@agentSelectWithQueue": {
+    "description": "Status title",
+    "placeholders": {
+      "queue": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelect": "Agent தேர்வு",
+  "@agentSelect": {
+    "description": "Status title"
+  },
+  "inMatch": "போட்டியில்",
+  "@inMatch": {
+    "description": "Status title"
+  },
+  "partyMembersHeader": "PARTY உறுப்பினர்கள் ({count}/5)",
+  "@partyMembersHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enemyTeamHeader": "எதிரி அணி ({count})",
+  "@enemyTeamHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "performanceStatsHeader": "செயல்திறன் புள்ளிவிவரங்கள்",
+  "@performanceStatsHeader": {
+    "description": "Section header"
+  },
+  "competitiveRankHeader": "COMPETITIVE RANK",
+  "@competitiveRankHeader": {
+    "description": "Section header"
+  },
+  "noPartyDetailsAvailable": "Party விவரங்கள் கிடைக்கவில்லை. நீங்கள் உள்நுழைந்துள்ளீர்களா?",
+  "@noPartyDetailsAvailable": {
+    "description": "Empty state"
+  },
+  "noServersAvailable": "Servers எதுவும் கிடைக்கவில்லை",
+  "@noServersAvailable": {
+    "description": "Empty state"
+  },
+  "loadoutUnavailableOrPrivate": "Loadout கிடைக்கவில்லை அல்லது Private-ல் உள்ளது",
+  "@loadoutUnavailableOrPrivate": {
+    "description": "Loadout empty state"
+  },
+  "copiedPlayerNameToClipboard": "\"{name}\" நகலெடுக்கப்பட்டது!",
+  "@copiedPlayerNameToClipboard": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "friendRequestSentTo": "{user}-க்கு நண்பர் கோரிக்கை அனுப்பப்பட்டது!",
+  "@friendRequestSentTo": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "partyAccessibility": "Party அணுகல் முறை",
+  "@partyAccessibility": {
+    "description": "Modal title"
+  },
+  "matchType": "போட்டி வகை",
+  "@matchType": {
+    "description": "Modal title"
+  },
+  "generateButton": "உருவாக்கு",
+  "@generateButton": {
+    "description": "Button label"
+  },
+  "applyButton": "பயன்படுத்து",
+  "@applyButton": {
+    "description": "Button label"
+  },
+  "disabledLabel": "முடக்கப்பட்டது",
+  "@disabledLabel": {
+    "description": "Status label"
+  },
+  "featuredBundles": "Featured Bundles",
+  "@featuredBundles": {
+    "description": "Section title"
+  },
+  "freeLabel": "இலவசம்",
+  "@freeLabel": {
+    "description": "Price label for free item"
+  },
+  "noInternetTitle": "இணைய இணைப்பு இல்லை",
+  "@noInternetTitle": {
+    "description": "Error title"
+  },
+  "noInternetDescription": "இணைய இணைப்பைச் சரிபார்த்துவிட்டு மீண்டும் முயற்சிக்கவும்.",
+  "@noInternetDescription": {
+    "description": "Error subtitle"
+  },
+  "currentMatch": "தற்போதைய போட்டி",
+  "@currentMatch": {
+    "description": "Party phase title"
+  },
+  "matchmaking": "Matchmaking",
+  "@matchmaking": {
+    "description": "Party phase title"
+  },
+  "copyPlayerName": "வீரர் பெயரை நகலெடு",
+  "@copyPlayerName": {
+    "description": "Action title"
+  },
+  "showLoadout": "Loadout-ஐக் காட்டு",
+  "@showLoadout": {
+    "description": "Action title"
+  },
+  "inspectEquippedWeaponSkins": "பொருத்தப்பட்ட Weapon Skins-ஐப் பார்",
+  "@inspectEquippedWeaponSkins": {
+    "description": "Action subtitle"
+  },
+  "sendRequest": "கோரிக்கையை அனுப்பு",
+  "@sendRequest": {
+    "description": "Button label"
+  },
+  "startMatch": "போட்டியைத் தொடங்கு",
+  "@startMatch": {
+    "description": "Button label"
+  },
+  "kdLabel": "K/D",
+  "@kdLabel": {
+    "description": "Stat label"
+  },
+  "hsLabel": "HS%",
+  "@hsLabel": {
+    "description": "Stat label"
+  },
+  "kastLabel": "KAST",
+  "@kastLabel": {
+    "description": "Stat label"
+  },
+  "winPercentLabel": "வெற்றி விகிதம்%",
+  "@winPercentLabel": {
+    "description": "Stat label"
+  },
+  "tagLineHint": "Tag (எ.கா. NA1)",
+  "@tagLineHint": {
+    "description": "Input hint"
+  },
+  "gameNameHint": "விளையாட்டுப் பெயர் (எ.கா. TenZ)",
+  "@gameNameHint": {
+    "description": "Input hint"
+  },
+  "openToFriends": "நண்பர்களுக்கு மட்டும் திறந்திருக்கிறது",
+  "@openToFriends": {
+    "description": "Party accessibility status"
+  },
+  "closedInviteOnly": "Closed / அழைப்பு மட்டும்",
+  "@closedInviteOnly": {
+    "description": "Party accessibility status"
+  },
+  "automaticSelection": "தானியங்கித் தேர்வு",
+  "@automaticSelection": {
+    "description": "Server selection status"
+  },
+  "serversSelectedCount": "{selected} / {total} தேர்வு ({servers})",
+  "@serversSelectedCount": {
+    "description": "Server selection count",
+    "placeholders": {
+      "selected": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "servers": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedPlayerToParty": "{player}-ஐ Party-க்கு அழைத்துள்ளோம்!",
+  "@invitedPlayerToParty": {
+    "description": "Party invite success",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToInvitePlayer": "{player}-ஐ அழைக்க முடியவில்லை",
+  "@failedToInvitePlayer": {
+    "description": "Party invite error",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "viewingPreferredPodsInfo": "விருப்பமான pods காட்டப்படுகின்றன. இவற்றை தலைவர் மட்டுமே மாற்ற முடியும்.",
+  "@viewingPreferredPodsInfo": {
+    "description": "Server selection helper text"
+  },
+  "readyStatus": "தயார்",
+  "@readyStatus": {
+    "description": "Ready status"
+  },
+  "notReadyStatus": "தயாராக இல்லை",
+  "@notReadyStatus": {
+    "description": "Not ready status"
+  },
+  "allyLabel": "நமது அணி",
+  "@allyLabel": {
+    "description": "Ally tag"
+  },
+  "enemyLabel": "எதிரி",
+  "@enemyLabel": {
+    "description": "Enemy tag"
+  },
+  "gameNameLabel": "Game பெயர்",
+  "@gameNameLabel": {
+    "description": "Input label"
+  },
+  "taglineLabel": "Tagline",
+  "@taglineLabel": {
+    "description": "Input label"
+  },
+  "cancelButton": "ரத்து செய்",
+  "@cancelButton": {
+    "description": "Cancel button text"
+  },
+  "genericError": "பிழை: {error}",
+  "@genericError": {
+    "description": "Generic error display",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "unknownItem": "தெரியாத பொருள்",
+  "@unknownItem": {
+    "description": "Fallback unknown item"
+  },
+  "notLoggedIn": "உள்நுழையவில்லை",
+  "@notLoggedIn": {
+    "description": "Not logged in status"
+  },
+  "openProfileButton": "சுயவிவரத்தைத் திற",
+  "@openProfileButton": {
+    "description": "Button / Tile title to open profile"
+  },
+  "ok": "சரி",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "delete": "அழி",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "start": "தொடங்கு",
+  "@start": {
+    "description": "Start label"
+  },
+  "standardWeaponSkin": "Standard {weapon}",
+  "@standardWeaponSkin": {
+    "description": "Standard weapon skin name",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseSkinTitle": "Skin-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseSkinTitle": {
+    "description": "Choose skin screen title"
+  },
+  "gunBuddyTitle": "Gun Buddy",
+  "@gunBuddyTitle": {
+    "description": "Gun buddy title"
+  },
+  "chooseBuddyTitle": "Buddy-ஐத் தேர்ந்தெடுக்கவும்",
+  "@chooseBuddyTitle": {
+    "description": "Choose buddy screen title"
+  },
+  "languageTitle": "மொழி",
+  "@languageTitle": {
+    "description": "Title for language setting option"
+  },
+  "languageSubtitle": "செயலியின் மொழியைத் தேர்ந்தெடுக்கவும்",
+  "@languageSubtitle": {
+    "description": "Subtitle for language setting option"
+  },
+  "selectLanguageTitle": "மொழியைத் தேர்ந்தெடுக்கவும்",
+  "@selectLanguageTitle": {
+    "description": "Title for language selection modal"
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language name"
+  },
+  "languageTamil": "தமிழ்",
+  "@languageTamil": {
+    "description": "Tamil language name"
+  },
+  "languageTamilSubtitle": "தமிழ்",
+  "@languageTamilSubtitle": {
+    "description": "Subtitle for Tamil language option"
+  },
+  "languageEnglishSubtitle": "ஆங்கிலம்",
+  "@languageEnglishSubtitle": {
+    "description": "Subtitle for English language option"
+  },
+  "languageSystemDefault": "கணினி இயல்புநிலை",
+  "@languageSystemDefault": {
+    "description": "System default language option"
+  },
+  "languageSystemDefaultSubtitle": "சாதன மொழியைப் பின்பற்றவும்",
+  "@languageSystemDefaultSubtitle": {
+    "description": "Subtitle for system default language option"
+  },
+  "roundBreakdownButton": "சுற்றுவாரியான விவரம்",
+  "@roundBreakdownButton": {
+    "description": "Button to open the round-by-round breakdown screen from match details"
+  },
+  "roundBreakdownTitle": "சுற்றுவாரியான விவரம்",
+  "@roundBreakdownTitle": {
+    "description": "Title of the round-by-round breakdown screen"
+  },
+  "roundNumberFormat": "சுற்று {number}",
+  "@roundNumberFormat": {
+    "description": "Round number label",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "roundWonByFormat": "{team} வெற்றி",
+  "@roundWonByFormat": {
+    "description": "Label showing which team won a round",
+    "placeholders": {
+      "team": {
+        "type": "String"
+      }
+    }
+  },
+  "roundReasonElimination": "அழித்தல்",
+  "@roundReasonElimination": {
+    "description": "Round end reason: all enemies eliminated"
+  },
+  "roundReasonDetonate": "பாம்ப் வெடித்தது",
+  "@roundReasonDetonate": {
+    "description": "Round end reason: spike detonated"
+  },
+  "roundReasonDefuse": "பாம்ப் நீக்கப்பட்டது",
+  "@roundReasonDefuse": {
+    "description": "Round end reason: spike defused"
+  },
+  "roundReasonTime": "நேரம் முடிந்தது",
+  "@roundReasonTime": {
+    "description": "Round end reason: round timer expired"
+  },
+  "roundReasonSurrendered": "சரணடைந்தனர்",
+  "@roundReasonSurrendered": {
+    "description": "Round end reason: match surrendered"
+  },
+  "roundReasonUnknown": "தெரியவில்லை",
+  "@roundReasonUnknown": {
+    "description": "Round end reason: could not be determined"
+  },
+  "killFeedFormat": "{killer} → {victim} ({weapon})",
+  "@killFeedFormat": {
+    "description": "Compact kill feed entry: killer to victim with weapon",
+    "placeholders": {
+      "killer": {
+        "type": "String"
+      },
+      "victim": {
+        "type": "String"
+      },
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "noKillsThisRound": "இந்த சுற்றில் கொலைகள் இல்லை",
+  "@noKillsThisRound": {
+    "description": "Empty state shown when a round has no kill feed data"
+  },
+  "noRoundDataAvailable": "இந்த ஆட்டத்திற்கு சுற்றுவாரியான தரவு இல்லை",
+  "@noRoundDataAvailable": {
+    "description": "Empty state shown when the match has no roundResults data"
+  },
+  "plantedByFormat": "{player} பாம்பை பொருத்தினார்",
+  "@plantedByFormat": {
+    "description": "Label showing who planted the spike in a round",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "defusedByFormat": "{player} பாம்பை நீக்கினார்",
+  "@defusedByFormat": {
+    "description": "Label showing who defused the spike in a round",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "nightMarketAlertSettingTitle": "நைட் மார்க்கெட் அறிவிப்புகள்",
+  "@nightMarketAlertSettingTitle": {
+    "description": "Settings item title for the Night Market notification toggle"
+  },
+  "nightMarketAlertSettingSubtitle": "நைட் மார்க்கெட் திறக்கும்போது எனக்குத் தெரிவிக்கவும்",
+  "@nightMarketAlertSettingSubtitle": {
+    "description": "Settings item subtitle for the Night Market notification toggle"
+  },
+  "nightMarketNotificationTitle": "நைட் மார்க்கெட் திறந்துவிட்டது!",
+  "@nightMarketNotificationTitle": {
+    "description": "Title of the local notification fired when the Night Market appears in the storefront"
+  },
+  "nightMarketNotificationBody": "நைட் மார்க்கெட் வந்துவிட்டது. அது முடிவதற்கு முன் தள்ளுபடி ஸ்கின்களைப் பார்வையிடுங்கள்.",
+  "@nightMarketNotificationBody": {
+    "description": "Body of the local notification fired when the Night Market appears in the storefront"
+  },
+  "bundleSkinCoverage": "இந்த பண்டலில் உள்ள {total} ஸ்கின்களில் {owned} ஏற்கனவே உங்களிடம் உள்ளது",
+  "@bundleSkinCoverage": {
+    "description": "Shown on the bundle detail screen: how many of the bundle's skins the player already owns, out of the total number of skins in the bundle",
+    "placeholders": {
+      "owned": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "skinWishlistTitle": "ஷாப் ஸ்கின் விருப்பப்பட்டியல்",
+  "@skinWishlistTitle": {
+    "description": "Title of the screen listing skins the user has wishlisted, and tooltip for the button that opens it"
+  },
+  "noWishlistedSkinsYet": "ஒரு ஸ்கின் திரும்பி வரும்போது அறிவிப்பு பெற, ஷாப்பில் அதன் நட்சத்திரத்தை தட்டவும்.",
+  "@noWishlistedSkinsYet": {
+    "description": "Empty-state message shown on the Shop Skin Wishlist screen when nothing is wishlisted yet"
+  },
+  "wishlistSkinInShopTitle": "விருப்பப்பட்டியல் ஸ்கின் இன்றைய ஷாப்பில்",
+  "@wishlistSkinInShopTitle": {
+    "description": "Title of the local notification fired when a wishlisted skin appears in the daily shop rotation"
+  },
+  "wishlistSkinInShopBody": "{skinName} இன்று உங்கள் ஷாப்பில் கிடைக்கிறது!",
+  "@wishlistSkinInShopBody": {
+    "description": "Body of the local notification fired when a wishlisted skin appears in the daily shop rotation",
+    "placeholders": {
+      "skinName": {
+        "type": "String"
+      }
+    }
+  },
+  "autoLoadoutTestRulesTooltip": "விதிகளைச் சோதிக்கவும்",
+  "@autoLoadoutTestRulesTooltip": {
+    "description": "Tooltip for the app bar action that opens the auto loadout rule tester"
+  },
+  "autoLoadoutTestRulesTitle": "தானியங்கு லோடவுட் விதிகளைச் சோதிக்கவும்",
+  "@autoLoadoutTestRulesTitle": {
+    "description": "Title of the auto loadout rule tester dialog"
+  },
+  "autoLoadoutTestRulesDescription": "எந்த விதி தானாகப் பயன்படுத்தப்படும் என்பதைப் பார்க்க ஒரு வரைபடம் மற்றும்/அல்லது முகவரைத் தேர்ந்தெடுக்கவும்.",
+  "@autoLoadoutTestRulesDescription": {
+    "description": "Description in the auto loadout rule tester dialog"
+  },
+  "autoLoadoutTestRulesEmpty": "சோதிக்க முதலில் குறைந்தது ஒரு வரைபடம் அல்லது முகவர் விதியை உருவாக்கவும்.",
+  "@autoLoadoutTestRulesEmpty": {
+    "description": "Snackbar shown when there are no rules to test"
+  },
+  "autoLoadoutTestRulesAgentLabel": "முகவர்",
+  "@autoLoadoutTestRulesAgentLabel": {
+    "description": "Label for the agent dropdown in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesMapLabel": "வரைபடம்",
+  "@autoLoadoutTestRulesMapLabel": {
+    "description": "Label for the map dropdown in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesNone": "எதுவுமில்லை",
+  "@autoLoadoutTestRulesNone": {
+    "description": "Option to select no map/agent in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesResultMatch": "\"{presetName}\" ({targetName}) பயன்படுத்தப்படும்",
+  "@autoLoadoutTestRulesResultMatch": {
+    "description": "Result shown when a rule matches in the tester dialog",
+    "placeholders": {
+      "presetName": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "autoLoadoutTestRulesResultNoMatch": "இந்த சேர்க்கைக்கு எந்த இயக்கப்பட்ட விதியும் பொருந்தவில்லை.",
+  "@autoLoadoutTestRulesResultNoMatch": {
+    "description": "Result shown when no rule matches in the tester dialog"
+  },
+  "autoLoadoutTestRulesClose": "மூடு",
+  "@autoLoadoutTestRulesClose": {
+    "description": "Close button in the rule tester dialog"
+  },
+  "autoLoadoutConflictPreferenceTitle": "Map மற்றும் Agent விதிகள் முரண்படும்போது",
+  "@autoLoadoutConflictPreferenceTitle": {
+    "description": "Title for the conflict-resolution preference control on the Auto Loadouts screen"
+  },
+  "autoLoadoutConflictPreferenceSubtitle": "எந்த விதி தானாக வெல்லும் என்பதைத் தேர்ந்தெடுக்கவும், அல்லது ஒவ்வொரு போட்டியிலும் கேட்கப்படுவதைத் தொடரவும்",
+  "@autoLoadoutConflictPreferenceSubtitle": {
+    "description": "Subtitle explaining the conflict-resolution preference control"
+  },
+  "autoLoadoutConflictPreferenceAsk": "என்னைக் கேள்",
+  "@autoLoadoutConflictPreferenceAsk": {
+    "description": "Conflict preference option: show the picker every time"
+  },
+  "autoLoadoutConflictPreferenceAgent": "Agent",
+  "@autoLoadoutConflictPreferenceAgent": {
+    "description": "Conflict preference option: the Agent rule always wins"
+  },
+  "autoLoadoutConflictPreferenceMap": "Map",
+  "@autoLoadoutConflictPreferenceMap": {
+    "description": "Conflict preference option: the Map rule always wins"
+  },
+  "autoLoadoutConflictPreferenceSummaryAsk": "ஒவ்வொரு போட்டியிலும் என்னைக் கேள்",
+  "@autoLoadoutConflictPreferenceSummaryAsk": {
+    "description": "Collapsed summary line when the conflict preference is set to ask every time"
+  },
+  "autoLoadoutConflictPreferenceSummaryAgent": "Agent விதி எப்போதும் வெல்லும்",
+  "@autoLoadoutConflictPreferenceSummaryAgent": {
+    "description": "Collapsed summary line when the conflict preference is set to always prefer the Agent rule"
+  },
+  "autoLoadoutConflictPreferenceSummaryMap": "Map விதி எப்போதும் வெல்லும்",
+  "@autoLoadoutConflictPreferenceSummaryMap": {
+    "description": "Collapsed summary line when the conflict preference is set to always prefer the Map rule"
+  },
+  "autoLoadoutTestRulesResultConflictAsk": "இரண்டு விதிகள் பொருந்துகின்றன — \"{agentPresetName}\" ({agentTargetName}) மற்றும் \"{mapPresetName}\" ({mapTargetName}) இடையே தேர்ந்தெடுக்கக் கேட்கப்படுவீர்கள்.",
+  "@autoLoadoutTestRulesResultConflictAsk": {
+    "description": "Result shown in the rule tester when both an Agent and a Map rule match but disagree, and the conflict preference is set to ask",
+    "placeholders": {
+      "agentPresetName": {
+        "type": "String"
+      },
+      "agentTargetName": {
+        "type": "String"
+      },
+      "mapPresetName": {
+        "type": "String"
+      },
+      "mapTargetName": {
+        "type": "String"
+      }
+    }
+  },
+  "importPresetPreviewTitle": "இறக்குமதியை உறுதிப்படுத்தவும்",
+  "@importPresetPreviewTitle": {
+    "description": "Title of the preview shown before an imported preset code is saved"
+  },
+  "importPresetPreviewSubtitle": "சேமிக்கும் முன் இந்த பகிரப்பட்ட ப்ரீசெட்டில் உள்ள ஆயுதங்கள் மற்றும் ஸ்கின்களை பரிசீலிக்கவும்",
+  "@importPresetPreviewSubtitle": {
+    "description": "Subtitle explaining the imported preset preview lets the user check contents before confirming"
+  },
+  "importPresetCancel": "ரத்துசெய்",
+  "@importPresetCancel": {
+    "description": "Button to discard an imported preset code without saving it"
+  },
+  "importPresetConfirm": "ப்ரீசெட்டை இறக்குமதி செய்",
+  "@importPresetConfirm": {
+    "description": "Button to confirm saving the previewed imported preset"
+  },
+  "shopHistoryNotSeenRecentlyHeader": "சமீபத்தில் காணப்படவில்லை",
+  "@shopHistoryNotSeenRecentlyHeader": {
+    "description": "Section header for skins seen before but absent from the shop for a while"
+  },
+  "shopHistoryNotSeenRecentlySubtitle": "உங்கள் வரலாற்றில் இருந்து சமீபத்தில் தோன்றாத ஸ்கின்கள்",
+  "@shopHistoryNotSeenRecentlySubtitle": {
+    "description": "Section subtitle explaining the not-seen-recently list"
+  },
+  "shopHistoryLastSeenDaysAgo": "{count} நாட்களுக்கு முன் கடைசியாகக் காணப்பட்டது",
+  "@shopHistoryLastSeenDaysAgo": {
+    "description": "Badge showing how many days since a skin last appeared in the shop",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "collectionValueTileTitle": "சேகரிப்பு மதிப்பு",
+  "@collectionValueTileTitle": {
+    "description": "Title for the profile tile that opens the collection value screen"
+  },
+  "collectionValueTileSubtitle": "உங்கள் சேகரிப்பின் மொத்த மதிப்பைப் பாருங்கள்",
+  "@collectionValueTileSubtitle": {
+    "description": "Subtitle for the profile tile that opens the collection value screen"
+  },
+  "collectionValueScreenTitle": "சேகரிப்பு மதிப்பு",
+  "@collectionValueScreenTitle": {
+    "description": "App bar title for the collection value screen"
+  },
+  "collectionValueTotalLabel": "சேகரிப்பின் மொத்த மதிப்பு",
+  "@collectionValueTotalLabel": {
+    "description": "Label above the total VP value of the player's collection"
+  },
+  "collectionValueSkinsOwnedLabel": "{count} ஸ்கின்கள் சொந்தமானவை",
+  "@collectionValueSkinsOwnedLabel": {
+    "description": "Shows how many unique skins the player owns",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "shopHistoryNewBadge": "புதியது!",
+  "@shopHistoryNewBadge": {
+    "description": "Badge shown on a daily shop tile for a skin with no prior recorded appearance in the local shop rotation history"
+  },
+  "collectionValueBreakdownTitle": "அரிதான வகைப்பாடு",
+  "@collectionValueBreakdownTitle": {
+    "description": "Section title for the per-rarity breakdown of the collection"
+  },
+  "collectionValueEmptyTitle": "ஸ்கின்கள் எதுவும் இல்லை",
+  "@collectionValueEmptyTitle": {
+    "description": "Title shown when the player owns no tracked skins"
+  },
+  "collectionValueEmptyMessage": "மதிப்பிட உங்களுக்கு சொந்தமான ஸ்கின்கள் எதுவும் கிடைக்கவில்லை. உங்கள் சேமிப்பு ஒத்திசைந்த பிறகு மீண்டும் முயற்சிக்கவும்.",
+  "@collectionValueEmptyMessage": {
+    "description": "Message shown when the player owns no tracked skins"
+  },
+  "collectionValueErrorMessage": "உங்கள் சேகரிப்பு மதிப்பைக் கணக்கிட முடியவில்லை: {error}",
+  "@collectionValueErrorMessage": {
+    "description": "Error message shown when computing collection value fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "collectionValueRetry": "மீண்டும் முயற்சிக்கவும்",
+  "@collectionValueRetry": {
+    "description": "Retry button label for the collection value screen"
+  },
+  "collectionValueTierSelect": "செலக்ட்",
+  "@collectionValueTierSelect": {
+    "description": "Fallback name for the Select content tier"
+  },
+  "collectionValueTierDeluxe": "டீலக்ஸ்",
+  "@collectionValueTierDeluxe": {
+    "description": "Fallback name for the Deluxe content tier"
+  },
+  "collectionValueTierPremium": "பிரீமியம்",
+  "@collectionValueTierPremium": {
+    "description": "Fallback name for the Premium content tier"
+  },
+  "collectionValueTierUltra": "அல்ட்ரா",
+  "@collectionValueTierUltra": {
+    "description": "Fallback name for the Ultra content tier"
+  },
+  "collectionValueTierExclusive": "எக்ஸ்க்ளூசிவ்",
+  "@collectionValueTierExclusive": {
+    "description": "Fallback name for the Exclusive content tier"
+  },
+  "collectionValueCountAndValue": "{count} × {value} VP",
+  "@collectionValueCountAndValue": {
+    "description": "Shows owned count multiplied by unit price for a rarity row",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "collectionValueDisclaimer": "ஒவ்வொரு ஸ்கினின் நிலையான அரிதான விலையைப் பயன்படுத்தி மதிப்பிடப்பட்டது. VALORANT-இல் உண்மையான மறுவிற்பனை சாத்தியமில்லை.",
+  "@collectionValueDisclaimer": {
+    "description": "Disclaimer explaining how collection value is estimated"
+  },
+  "leaderboardTileTitle": "லீடர்போர்டு",
+  "@leaderboardTileTitle": {
+    "description": "Title for the Hub tile that opens the competitive leaderboard screen"
+  },
+  "leaderboardTileSubtitle": "இந்த சீசனின் முதன்மை வீரர்களைப் பாருங்கள்",
+  "@leaderboardTileSubtitle": {
+    "description": "Subtitle for the Hub tile that opens the competitive leaderboard screen"
+  },
+  "leaderboardTitle": "லீடர்போர்டு",
+  "@leaderboardTitle": {
+    "description": "App bar title for the leaderboard screen"
+  },
+  "leaderboardTotalPlayers": "{count} வீரர்கள்",
+  "@leaderboardTotalPlayers": {
+    "description": "Shows the total number of ranked players on the leaderboard",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardWinsFormat": "{count} வெற்றிகள்",
+  "@leaderboardWinsFormat": {
+    "description": "Shows a leaderboard player's win count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardRrFormat": "{rr} RR",
+  "@leaderboardRrFormat": {
+    "description": "Shows a leaderboard player's Rank Rating",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardNoActiveAct": "தற்போதைய சீசனுக்கான லீடர்போர்டு இன்னும் கிடைக்கவில்லை.",
+  "@leaderboardNoActiveAct": {
+    "description": "Shown when there's no active competitive act or its leaderboard hasn't been published yet"
+  },
+  "leaderboardLoadFailed": "லீடர்போர்டை ஏற்ற முடியவில்லை. உங்கள் இணைப்பைச் சரிபார்த்து மீண்டும் முயற்சிக்கவும்.",
+  "@leaderboardLoadFailed": {
+    "description": "Shown when the leaderboard fails to load"
+  },
+  "leaderboardResetFilters": "எனது பகுதி & சீசனுக்கு மீட்டமை",
+  "@leaderboardResetFilters": {
+    "description": "Tooltip for the button that resets leaderboard filters to the account's own region and the current act"
+  },
+  "leaderboardSearchHint": "வீரரைத் தேடுங்கள்…",
+  "@leaderboardSearchHint": {
+    "description": "Placeholder for the leaderboard player name search field"
+  },
+  "leaderboardRegionLabel": "பகுதி",
+  "@leaderboardRegionLabel": {
+    "description": "Label for the leaderboard region/shard filter dropdown"
+  },
+  "leaderboardSeasonLabel": "சீசன்",
+  "@leaderboardSeasonLabel": {
+    "description": "Label for the leaderboard season/act filter dropdown"
+  },
+  "leaderboardCurrentSeason": "தற்போதைய",
+  "@leaderboardCurrentSeason": {
+    "description": "Hint shown in the season dropdown before a specific act is chosen, meaning the currently active act"
+  },
+  "careerStatsTileTitle": "கரியர் புள்ளிவிவரங்கள்",
+  "@careerStatsTileTitle": {
+    "description": "Title for the profile tile that opens the Career Stats screen"
+  },
+  "careerStatsTileSubtitle": "மொத்த புள்ளிவிவரங்கள், ஆக்ட் வாரியான சுருக்கம், மற்றும் போட்டி சாதனை",
+  "@careerStatsTileSubtitle": {
+    "description": "Subtitle for the profile tile that opens the Career Stats screen"
+  },
+  "careerStatsTitle": "கரியர் புள்ளிவிவரங்கள்",
+  "@careerStatsTitle": {
+    "description": "App bar title for the Career Stats screen"
+  },
+  "careerStatsTabOverall": "மொத்தம்",
+  "@careerStatsTabOverall": {
+    "description": "Tab label for the Overall Player Statistics view"
+  },
+  "careerStatsTabSummary": "கரியர் சுருக்கம்",
+  "@careerStatsTabSummary": {
+    "description": "Tab label for the act-wise Career Summary view"
+  },
+  "careerStatsTabCompetitive": "எல்லா-கால போட்டி",
+  "@careerStatsTabCompetitive": {
+    "description": "Tab label for the all-time competitive totals view"
+  },
+  "careerStatsEmptyTitle": "இதுவரை போட்டி வரலாறு இல்லை",
+  "@careerStatsEmptyTitle": {
+    "description": "Title shown when no matches were found to build Career Stats from"
+  },
+  "careerStatsEmptyMessage": "சில போட்டிகளை விளையாடி மீண்டும் பாருங்கள் — கரியர் புள்ளிவிவரங்கள் உங்கள் சமீபத்திய போட்டி வரலாற்றிலிருந்து தானாகவே உருவாகும்.",
+  "@careerStatsEmptyMessage": {
+    "description": "Message shown when no matches were found to build Career Stats from"
+  },
+  "careerStatsSampleSize": "உங்கள் கடைசி {count} போட்டிகளின் அடிப்படையில்",
+  "@careerStatsSampleSize": {
+    "description": "Shows how many recent matches Career Stats was computed from",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsHeadshotPercent": "HS%",
+  "@careerStatsHeadshotPercent": {
+    "description": "Label for headshot percentage stat"
+  },
+  "careerStatsPlaytimeFormat": "{hours}மணி {minutes}நிமி",
+  "@careerStatsPlaytimeFormat": {
+    "description": "Formatted total playtime, e.g. 12h 34m",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsRankSectionTitle": "ரேங்க் ரேட்டிங்",
+  "@careerStatsRankSectionTitle": {
+    "description": "Section title for current/peak rank on the Overall Stats view"
+  },
+  "careerStatsCurrentRank": "தற்போதைய ரேங்க்",
+  "@careerStatsCurrentRank": {
+    "description": "Label for the player's current competitive rank"
+  },
+  "careerStatsPeakRank": "உச்ச ரேங்க்",
+  "@careerStatsPeakRank": {
+    "description": "Label for the player's peak competitive rank"
+  },
+  "careerStatsRecordTitle": "மொத்த சாதனை",
+  "@careerStatsRecordTitle": {
+    "description": "Section title for the win/loss/draw record on the Overall Stats view"
+  },
+  "careerStatsRecordFormat": "{wins}வெ - {losses}தோ - {draws}சம",
+  "@careerStatsRecordFormat": {
+    "description": "Win-loss-draw record summary",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "losses": {
+        "type": "int"
+      },
+      "draws": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsNoCompetitiveActs": "உங்கள் சமீபத்திய வரலாற்றில் போட்டி போட்டிகள் எதுவும் இல்லை.",
+  "@careerStatsNoCompetitiveActs": {
+    "description": "Empty state for the Career Summary and All-Time Competitive tabs when no ranked matches were found"
+  },
+  "careerStatsWinsGames": "வெற்றி/போட்டிகள்",
+  "@careerStatsWinsGames": {
+    "description": "Label for a wins-out-of-games stat"
+  },
+  "careerStatsWinsGamesFormat": "{wins}/{games}",
+  "@careerStatsWinsGamesFormat": {
+    "description": "Wins out of total games played, e.g. 12/20",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsAllTimeCompetitiveTitle": "எல்லா-கால போட்டி சாதனை",
+  "@careerStatsAllTimeCompetitiveTitle": {
+    "description": "Title for the combined all-time competitive stats card"
+  },
+  "accountXpCardTitle": "கணக்கு நிலை",
+  "@accountXpCardTitle": {
+    "description": "Title of the account XP/level card on the profile screen"
+  },
+  "accountXpProgressLabel": "{xp} / {xpNeeded} XP",
+  "@accountXpProgressLabel": {
+    "description": "Current XP over XP needed for next level",
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      },
+      "xpNeeded": {
+        "type": "int"
+      }
+    }
+  },
+  "accountXpRemainingLabel": "அடுத்த நிலைக்கு {xp} XP தேவை",
+  "@accountXpRemainingLabel": {
+    "description": "XP remaining until the next level",
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      }
+    }
+  },
+  "accountXpRecentTitle": "சமீபத்தில் பெற்ற XP",
+  "@accountXpRecentTitle": {
+    "description": "Header for the recent XP-grant history list"
+  },
+  "accountXpEmptyHistory": "சமீபத்திய XP செயல்பாடு இல்லை",
+  "@accountXpEmptyHistory": {
+    "description": "Shown when there is no recent XP-grant history to display"
+  },
+  "accountXpSourceMatchCompletion": "போட்டி நிறைவு",
+  "@accountXpSourceMatchCompletion": {
+    "description": "Friendly label for a match-completion XP grant"
+  },
+  "accountXpSourceFirstWin": "நாளின் முதல் வெற்றி",
+  "@accountXpSourceFirstWin": {
+    "description": "Friendly label for a first-win-of-the-day XP bonus grant"
+  },
+  "accountXpTimeUnknown": "சமீபத்தில்",
+  "@accountXpTimeUnknown": {
+    "description": "Fallback relative time label when a grant has no known timestamp"
+  },
+  "battlepassScreenTitle": "பேட்டில்பாஸ்",
+  "@battlepassScreenTitle": {
+    "description": "Title of the full battlepass tier browser screen"
+  },
+  "battlepassViewAllTiers": "அனைத்து நிலைகளையும் காண்க",
+  "@battlepassViewAllTiers": {
+    "description": "Button label to open the full battlepass tier browser"
+  },
+  "battlepassTierNumber": "நிலை {number}",
+  "@battlepassTierNumber": {
+    "description": "Label for a battlepass tier's number",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "battlepassFreeTrack": "இலவசம்",
+  "@battlepassFreeTrack": {
+    "description": "Label for the free reward track of a battlepass tier"
+  },
+  "battlepassPremiumTrack": "பிரீமியம்",
+  "@battlepassPremiumTrack": {
+    "description": "Label for the premium reward track of a battlepass tier"
+  },
+  "battlepassUnlocked": "திறக்கப்பட்டது",
+  "@battlepassUnlocked": {
+    "description": "State label for an unlocked battlepass tier"
+  },
+  "battlepassLocked": "பூட்டப்பட்டது",
+  "@battlepassLocked": {
+    "description": "State label for a locked battlepass tier"
+  },
+  "battlepassPremiumLocked": "பிரீமியம் இல்லை",
+  "@battlepassPremiumLocked": {
+    "description": "State label for a premium reward not available because the account doesn't own the premium pass"
+  },
+  "battlepassNoDataAvailable": "தற்போது பேட்டில்பாஸ் தரவு இல்லை.",
+  "@battlepassNoDataAvailable": {
+    "description": "Shown when the battlepass provider has no data to display"
+  },
+  "battlepassChapterLabel": "அத்தியாயம் {number}",
+  "@battlepassChapterLabel": {
+    "description": "Label for a battlepass chapter section header",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "battlepassEpilogueLabel": "எபிலோக்",
+  "@battlepassEpilogueLabel": {
+    "description": "Label for the epilogue chapter section header"
+  },
+  "bookmarkedPlayersTitle": "புக்மார்க் செய்யப்பட்ட வீரர்கள்",
+  "@bookmarkedPlayersTitle": {
+    "description": "Screen title for the bookmarked players list"
+  },
+  "bookmarkedPlayersHeader": "புக்மார்க் செய்யப்பட்ட வீரர்கள்",
+  "@bookmarkedPlayersHeader": {
+    "description": "Section header on the search screen"
+  },
+  "bookmarkedPlayersEmptyPrompt": "இன்னும் புக்மார்க் செய்யப்பட்ட வீரர்கள் இல்லை.\nஒரு வீரரைத் தேடி, நட்சத்திரத்தை தட்டி இங்கே புக்மார்க் செய்யவும்.",
+  "@bookmarkedPlayersEmptyPrompt": {
+    "description": "Empty state message for bookmarked players"
+  },
+  "viewAllButton": "அனைத்தையும் காண்க",
+  "@viewAllButton": {
+    "description": "Button label to view the full list"
+  },
+  "addBookmarkTooltip": "இந்த வீரரை புக்மார்க் செய்யவும்",
+  "@addBookmarkTooltip": {
+    "description": "Tooltip for the add-bookmark star button"
+  },
+  "removeBookmarkTooltip": "புக்மார்க்கை நீக்கு",
+  "@removeBookmarkTooltip": {
+    "description": "Tooltip for the remove-bookmark star button"
+  },
+  "formerlyKnownAs": "முன்பு {name}",
+  "@formerlyKnownAs": {
+    "description": "Shown on a friend's row when their gamertag has changed",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gameInfoHubTitle": "விளையாட்டு தகவல்",
+  "@gameInfoHubTitle": {
+    "description": "Title of the Game Info encyclopedia hub screen"
+  },
+  "gameInfoMapsTitle": "வரைபடங்கள்",
+  "@gameInfoMapsTitle": {
+    "description": "Title for the Maps section of Game Info"
+  },
+  "gameInfoMapsSubtitle": "ஸ்பிளாஷ் ஆர்ட், காலவுட்கள் மற்றும் மினிமேப்கள்",
+  "@gameInfoMapsSubtitle": {
+    "description": "Subtitle for the Maps hub tile"
+  },
+  "gameInfoAgentsTitle": "ஏஜென்ட்கள்",
+  "@gameInfoAgentsTitle": {
+    "description": "Title for the Agents section of Game Info"
+  },
+  "gameInfoAgentsSubtitle": "பாத்திரங்கள், திறன்கள் மற்றும் உருவப்படங்கள்",
+  "@gameInfoAgentsSubtitle": {
+    "description": "Subtitle for the Agents hub tile"
+  },
+  "gameInfoWeaponsTitle": "ஆயுதங்கள்",
+  "@gameInfoWeaponsTitle": {
+    "description": "Title for the Weapons section of Game Info"
+  },
+  "gameInfoWeaponsSubtitle": "விலைகள், ஸ்கின்கள் மற்றும் முழு புள்ளிவிவரங்கள்",
+  "@gameInfoWeaponsSubtitle": {
+    "description": "Subtitle for the Weapons hub tile"
+  },
+  "gameInfoLoadError": "தரவை ஏற்ற முடியவில்லை. மீண்டும் முயற்சிக்கவும்.",
+  "@gameInfoLoadError": {
+    "description": "Generic error shown when Game Info static data fails to load"
+  },
+  "gameInfoCalloutCount": "{count} காலவுட்கள்",
+  "@gameInfoCalloutCount": {
+    "description": "Number of callouts on a map",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoCalloutsHeader": "காலவுட்கள்",
+  "@gameInfoCalloutsHeader": {
+    "description": "Header above the list of map callouts"
+  },
+  "gameInfoAbilitiesHeader": "திறன்கள்",
+  "@gameInfoAbilitiesHeader": {
+    "description": "Header above an agent's list of abilities"
+  },
+  "gameInfoWeaponPriceSkins": "{cost} VP • {skinCount} ஸ்கின்கள்",
+  "@gameInfoWeaponPriceSkins": {
+    "description": "Weapon list subtitle showing shop price and skin count",
+    "placeholders": {
+      "cost": {
+        "type": "int"
+      },
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoWeaponSkinsOnly": "{skinCount} ஸ்கின்கள்",
+  "@gameInfoWeaponSkinsOnly": {
+    "description": "Weapon list subtitle showing only the skin count (no shop price)",
+    "placeholders": {
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoStatSheetHeader": "புள்ளிவிவர பட்டியல்",
+  "@gameInfoStatSheetHeader": {
+    "description": "Header above a weapon's full stat sheet"
+  },
+  "gameInfoNoStatsAvailable": "இந்த ஆயுதத்திற்கு புள்ளிவிவரங்கள் இல்லை.",
+  "@gameInfoNoStatsAvailable": {
+    "description": "Shown when a weapon has no weaponStats data"
+  },
+  "gameInfoVpPrice": "{cost} VP",
+  "@gameInfoVpPrice": {
+    "description": "Weapon VP shop price chip",
+    "placeholders": {
+      "cost": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoSkinCount": "{skinCount} ஸ்கின்கள்",
+  "@gameInfoSkinCount": {
+    "description": "Weapon skin count chip",
+    "placeholders": {
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoStatFireRate": "சுடும் வேகம்",
+  "@gameInfoStatFireRate": {
+    "description": "Weapon stat label: fire rate"
+  },
+  "gameInfoStatMagazineSize": "மேகசின் அளவு",
+  "@gameInfoStatMagazineSize": {
+    "description": "Weapon stat label: magazine size"
+  },
+  "gameInfoStatEquipTime": "தயார் நேரம்",
+  "@gameInfoStatEquipTime": {
+    "description": "Weapon stat label: equip time"
+  },
+  "gameInfoStatReloadTime": "மறுஏற்ற நேரம்",
+  "@gameInfoStatReloadTime": {
+    "description": "Weapon stat label: reload time"
+  },
+  "gameInfoStatFirstShotAccuracy": "முதல் ஷாட் பரவல்",
+  "@gameInfoStatFirstShotAccuracy": {
+    "description": "Weapon stat label: first bullet accuracy"
+  },
+  "gameInfoStatRunSpeed": "ஓடும் வேகம்",
+  "@gameInfoStatRunSpeed": {
+    "description": "Weapon stat label: run speed multiplier"
+  },
+  "gameInfoStatWalkSpeed": "இலக்கு வைக்கும் நடை வேகம்",
+  "@gameInfoStatWalkSpeed": {
+    "description": "Weapon stat label: aim-down-sights walk speed multiplier"
+  },
+  "gameInfoStatWallPenetration": "சுவர் ஊடுருவல்",
+  "@gameInfoStatWallPenetration": {
+    "description": "Weapon stat label: wall penetration rating"
+  },
+  "gameInfoDamageRangesHeader": "சேத வரம்புகள்",
+  "@gameInfoDamageRangesHeader": {
+    "description": "Header above the weapon damage-by-range table"
+  },
+  "gameInfoStatRange": "வரம்பு",
+  "@gameInfoStatRange": {
+    "description": "Damage range table column: distance range"
+  },
+  "gameInfoStatHeadDamage": "தலை",
+  "@gameInfoStatHeadDamage": {
+    "description": "Damage range table column: head damage"
+  },
+  "gameInfoStatBodyDamage": "உடல்",
+  "@gameInfoStatBodyDamage": {
+    "description": "Damage range table column: body damage"
+  },
+  "gameInfoStatLegDamage": "கால்",
+  "@gameInfoStatLegDamage": {
+    "description": "Damage range table column: leg damage"
+  }
+}

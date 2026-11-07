@@ -1,0 +1,111 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code / Zed / Claude
+.vscode/
+.zed/
+.claude/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Android build & caches
+.gradle/
+android/.gradle/
+android/.kotlin/
+.kotlin/
+android/build/
+android/app/build/
+android/captures/
+**/.cxx/
+android/.cxx/
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# iOS Pods & ephemeral
+**/Pods/
+**/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+
+# Secrets, Keystores, and Credentials (CRITICAL FOR PUBLIC REPOS)
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+*.cer
+*.crt
+*.der
+*.mobileprovision
+key.properties
+local.properties
+**/android/key.properties
+**/android/local.properties
+
+# Google Services / Firebase Credentials
+google-services.json
+GoogleService-Info.plist
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# Widget Preview
+.widget_preview/
+
+# Tests
+test/
+
+# AI & Project Notes
+decisions.md
+ROADMAP.md
+TODO.md
+CHANGELOG.md
+CHANGELOG_ANDROID.md
+CHANGELOG_IOS.md
+

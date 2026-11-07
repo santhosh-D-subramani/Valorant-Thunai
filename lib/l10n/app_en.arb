@@ -1,0 +1,4420 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "featureUnderMaintenance": "Feature Under Maintenance",
+  "@featureUnderMaintenance": {
+    "description": "Title on blocked screen"
+  },
+  "featureDisabledMaintenanceMessage": "This feature is temporarily undergoing maintenance or has been disabled remotely. Please check back later.",
+  "@featureDisabledMaintenanceMessage": {
+    "description": "Default message when feature is blocked/in maintenance"
+  },
+  "funnyLoading1": "ooi riot give me my store offer man.....",
+  "@funnyLoading1": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading2": "Asking Riot nicely to hand over the store offers...",
+  "@funnyLoading2": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading3": "Bribing Riot servers with virtual cookies...",
+  "@funnyLoading3": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading4": "Knocking on Riot's backend doors: open up please!",
+  "@funnyLoading4": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading5": "Are we there yet? Riot client is taking a scenic route...",
+  "@funnyLoading5": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading6": "Wait, is the shopkeeper on a coffee break?",
+  "@funnyLoading6": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading7": "Searching the bottom drawer of the Valorant store...",
+  "@funnyLoading7": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading8": "Pleading with the API: give us the good skins!",
+  "@funnyLoading8": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading9": "Generating random luck... please stand by...",
+  "@funnyLoading9": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading10": "Riot says: 'No Kuronami Vandal for you today' ... wait, let's try again...",
+  "@funnyLoading10": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading11": "Checking if Riot gave you the Reaver Vandal yet...",
+  "@funnyLoading11": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading12": "Polishing the weapons so they look shiny on your screen...",
+  "@funnyLoading12": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading13": "Calculating how many times you got flash-banned by your own Phoenix...",
+  "@funnyLoading13": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading14": "Decoupling Sage walls from gravity...",
+  "@funnyLoading14": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading15": "Asking Cypher for his setup... but he's already dead...",
+  "@funnyLoading15": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading16": "Telling Jett that 'dash-in and die' is not a viable strategy...",
+  "@funnyLoading16": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading17": "Dusting off the store counter... a lot of Smite skins here...",
+  "@funnyLoading17": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading18": "Replacing your cheap skins with dreams of RGX...",
+  "@funnyLoading18": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading19": "Charging up the Neon slide... slide... slide...",
+  "@funnyLoading19": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading20": "Convincing Omen that teleporting into enemy spawn is a bad idea...",
+  "@funnyLoading20": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading21": "Checking if the store has the Magepunk Sparkplug...",
+  "@funnyLoading21": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading22": "Asking Brimstone how to open his iPad...",
+  "@funnyLoading22": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading23": "Counting the number of times you said 'one shot' when they had 140 HP...",
+  "@funnyLoading23": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading24": "Trying to retrieve your rank from the bottom of Iron 1...",
+  "@funnyLoading24": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading25": "Locating the spike... wait, who dropped it in spawn?",
+  "@funnyLoading25": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading26": "Cleaning up the acid puddles left by Viper...",
+  "@funnyLoading26": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading27": "Checking if your teammate's microphone is actually a potato...",
+  "@funnyLoading27": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading28": "Consulting Sova's double-shock-dart calculator...",
+  "@funnyLoading28": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading29": "Calibrating the recoil of the Odin (just drag down, right?)...",
+  "@funnyLoading29": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading30": "Buying a Shield... wait, no, buying a Sheriff and no armor...",
+  "@funnyLoading30": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading31": "Whispering sweet nothing to the matchmaking algorithm...",
+  "@funnyLoading31": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading32": "Analyzing why you always lose the 5v1 post-plant...",
+  "@funnyLoading32": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading33": "Waiting for the Chamber pocket-guardian to reload...",
+  "@funnyLoading33": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading34": "Asking Reyna if she plans to helper-heal or just dismiss...",
+  "@funnyLoading34": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading35": "Untangling Fade's nightmares...",
+  "@funnyLoading35": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading36": "Recharging the Gekko wingman so he can plant again...",
+  "@funnyLoading36": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading37": "Checking if the shopkeeper accepts Valorant Points or only prayers...",
+  "@funnyLoading37": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading38": "Searching for the legendary 'good teammates' in the API database...",
+  "@funnyLoading38": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading39": "Pretending we are analyzing complex metadata (we are just waiting)...",
+  "@funnyLoading39": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading40": "Translating Astra's galaxy-brain plays into plain English...",
+  "@funnyLoading40": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading41": "Trying to mute the toxic teammate before we even log in...",
+  "@funnyLoading41": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading42": "Polishing the gold borders on the Radiant rank badge (not yours, sadly)...",
+  "@funnyLoading42": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading43": "Convincing Raze that satcheling into a wall is still satcheling...",
+  "@funnyLoading43": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading44": "Counting the milliseconds Jett spent in the air before getting headshot...",
+  "@funnyLoading44": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading45": "Waiting for Cypher's camera to stop staring at a blank wall...",
+  "@funnyLoading45": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading46": "Sweeping the teleporter exit on Bind...",
+  "@funnyLoading46": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading47": "Tuning Harbor's water filter...",
+  "@funnyLoading47": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading48": "Looking for the crosshair settings that will make you a Radiant...",
+  "@funnyLoading48": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading49": "Checking if the night market has returned with 10% off a bunch of melee skins...",
+  "@funnyLoading49": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading50": "Feeding the Gekko pets some virtual pet food...",
+  "@funnyLoading50": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading51": "Asking Iso if he wants to 1v1 in the gulag...",
+  "@funnyLoading51": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading52": "Calculating the velocity of a flying Vandal...",
+  "@funnyLoading52": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading53": "Warming up the servers... please don't alt-tab...",
+  "@funnyLoading53": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading54": "Wiping the screen of flash bangs... so bright...",
+  "@funnyLoading54": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading55": "Trying to figure out where Yoru went...",
+  "@funnyLoading55": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading56": "Waiting for the Iso shield to wear off...",
+  "@funnyLoading56": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading57": "Telling Clove that dying on purpose is not a superpower...",
+  "@funnyLoading57": {
+    "description": "Funny loading message"
+  },
+  "funnyLoading58": "Loading...",
+  "@funnyLoading58": {
+    "description": "Funny loading message"
+  },
+  "pageNotFound": "Page not found",
+  "@pageNotFound": {
+    "description": "404 page not found text"
+  },
+  "sessionExpiredTitle": "Session Expired",
+  "@sessionExpiredTitle": {
+    "description": "Session expired dialog title"
+  },
+  "sessionExpiredMessage": "Your Riot Games session has expired. Please log in again to fetch the latest shop data.",
+  "@sessionExpiredMessage": {
+    "description": "Session expired dialog content"
+  },
+  "later": "Later",
+  "@later": {
+    "description": "Dismiss button"
+  },
+  "loginAgain": "Login Again",
+  "@loginAgain": {
+    "description": "Action to re-login"
+  },
+  "tabHome": "Home",
+  "@tabHome": {
+    "description": "Home tab label"
+  },
+  "tabProfile": "Profile",
+  "@tabProfile": {
+    "description": "Profile tab label"
+  },
+  "tabParty": "Party",
+  "@tabParty": {
+    "description": "Party tab label"
+  },
+  "tabHub": "Career",
+  "@tabHub": {
+    "description": "Career tab label (rank goals, contracts & missions, friends)"
+  },
+  "tabSettings": "Settings",
+  "@tabSettings": {
+    "description": "Settings tab label"
+  },
+  "stillOfflineMessage": "Still offline. Please check your network connection.",
+  "@stillOfflineMessage": {
+    "description": "Snackbar when offline retry fails"
+  },
+  "connectionLostTitle": "CONNECTION LOST",
+  "@connectionLostTitle": {
+    "description": "Offline overlay title"
+  },
+  "connectionLostDescription": "You are currently offline. Please restore your connection to continue using Valorant Thunai.",
+  "@connectionLostDescription": {
+    "description": "Offline overlay description"
+  },
+  "retryButton": "RETRY",
+  "@retryButton": {
+    "description": "Retry button label"
+  },
+  "helpFaqTitle": "Help & FAQ",
+  "@helpFaqTitle": {
+    "description": "Help page title"
+  },
+  "faqLoginTroubleshootingTitle": "LOGIN TROUBLESHOOTING",
+  "@faqLoginTroubleshootingTitle": {
+    "description": "FAQ category"
+  },
+  "faqLoginTroubleshootingContent": "Make sure you are using your primary Riot account credentials. At this time, direct social media logins (like Google or Facebook) are not supported unless they are already connected to a standard Riot Games account.",
+  "@faqLoginTroubleshootingContent": {
+    "description": "FAQ answer"
+  },
+  "faqSessionExpiredTitle": "SESSION EXPIRED ERROR",
+  "@faqSessionExpiredTitle": {
+    "description": "FAQ category"
+  },
+  "faqSessionExpiredContent": "If you see a session expiry alert, it simply means your temporary access token has reached its limit. Riot requires a fresh login periodically for security. Just log out and sign back in to refresh your access.",
+  "@faqSessionExpiredContent": {
+    "description": "FAQ answer"
+  },
+  "faqRateLimitedTitle": "WHY AM I BEING RATE LIMITED?",
+  "@faqRateLimitedTitle": {
+    "description": "FAQ category"
+  },
+  "faqRateLimitedContent": "Riot's servers sometimes receive too many requests at once. To keep the service stable, they might temporarily pause requests from third-party apps. If this happens, please wait about 5 minutes before trying to refresh again.",
+  "@faqRateLimitedContent": {
+    "description": "FAQ answer"
+  },
+  "faqAccountSecurityTitle": "IS MY ACCOUNT SECURE?",
+  "@faqAccountSecurityTitle": {
+    "description": "FAQ category"
+  },
+  "faqAccountSecurityContent": "Your privacy is our number one priority. This application does not have a central server; all your tokens and account details are stored exclusively on your own device. We never see or store your personal information.",
+  "@faqAccountSecurityContent": {
+    "description": "FAQ answer"
+  },
+  "faqAccountSafetyTitle": "ACCOUNT SAFETY & RISK",
+  "@faqAccountSafetyTitle": {
+    "description": "FAQ category"
+  },
+  "faqAccountSafetyContent": "While this app only reads publicly available data through Riot's API, using any third-party software involves a minor degree of risk. By using this service, you accept responsibility for your account's status. To stay safe, avoid spamming the refresh button and use the app moderately.",
+  "@faqAccountSafetyContent": {
+    "description": "FAQ answer"
+  },
+  "faqFutureAppTitle": "FUTURE OF THE APP",
+  "@faqFutureAppTitle": {
+    "description": "FAQ category"
+  },
+  "faqFutureAppContent": "The functionality of this app depends entirely on Riot Games providing API access. Should they choose to restrict this access in the future, some or all features may become unavailable.",
+  "@faqFutureAppContent": {
+    "description": "FAQ answer"
+  },
+  "diagnosticLogsSection": "DIAGNOSTIC LOGS",
+  "@diagnosticLogsSection": {
+    "description": "FAQ section header"
+  },
+  "diagnosticLogsDescription": "If you are experiencing bugs, you can share the app logs with the developer to help identify the issue.",
+  "@diagnosticLogsDescription": {
+    "description": "FAQ diagnostic description"
+  },
+  "noLogsAvailable": "No logs available yet.",
+  "@noLogsAvailable": {
+    "description": "Snackbar when no logs to share"
+  },
+  "shareLogsWithDeveloper": "Share Logs with Developer",
+  "@shareLogsWithDeveloper": {
+    "description": "Button to share diagnostic logs"
+  },
+  "shareLogsSubject": "Valorant Thunai Diagnostic Logs",
+  "@shareLogsSubject": {
+    "description": "Subject line when sharing logs"
+  },
+  "thankYouUsingApp": "Thank you for using Valorant Thunai!",
+  "@thankYouUsingApp": {
+    "description": "Footer message"
+  },
+  "systemLogsTitle": "System Logs",
+  "@systemLogsTitle": {
+    "description": "System logs screen title"
+  },
+  "logsCensoredSnackbar": "Logs censored. Sensitive info masked.",
+  "@logsCensoredSnackbar": {
+    "description": "Snackbar text"
+  },
+  "uncensoredLogsActiveSnackbar": "Uncensored logs active.",
+  "@uncensoredLogsActiveSnackbar": {
+    "description": "Snackbar text"
+  },
+  "revealUncensoredLogsTitle": "Reveal Uncensored Logs",
+  "@revealUncensoredLogsTitle": {
+    "description": "Dialog title"
+  },
+  "revealUncensoredLogsDescription": "Enter the developer passcode to view raw API keys and authentication tokens.",
+  "@revealUncensoredLogsDescription": {
+    "description": "Dialog description"
+  },
+  "passcodeLabel": "Passcode",
+  "@passcodeLabel": {
+    "description": "Textfield label"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "unlock": "Unlock",
+  "@unlock": {
+    "description": "Unlock button"
+  },
+  "passcodeVerifiedSnackbar": "Passcode verified. Uncensored logs revealed!",
+  "@passcodeVerifiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "incorrectPasscodeSnackbar": "Incorrect passcode!",
+  "@incorrectPasscodeSnackbar": {
+    "description": "Snackbar error text"
+  },
+  "censorLogsTooltip": "Censor Logs",
+  "@censorLogsTooltip": {
+    "description": "Tooltip"
+  },
+  "unlockUncensoredLogsTooltip": "Unlock Uncensored Logs",
+  "@unlockUncensoredLogsTooltip": {
+    "description": "Tooltip"
+  },
+  "copyAllTooltip": "Copy all",
+  "@copyAllTooltip": {
+    "description": "Tooltip"
+  },
+  "uncensoredLogsCopiedSnackbar": "Uncensored logs copied to clipboard",
+  "@uncensoredLogsCopiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "censoredLogsCopiedSnackbar": "Censored logs copied to clipboard",
+  "@censoredLogsCopiedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "clearTooltip": "Clear",
+  "@clearTooltip": {
+    "description": "Tooltip"
+  },
+  "refreshTooltip": "Refresh",
+  "@refreshTooltip": {
+    "description": "Tooltip"
+  },
+  "uncensoredModeWarning": "Uncensored Mode: Sensitive tokens & API keys are visible.",
+  "@uncensoredModeWarning": {
+    "description": "Banner warning"
+  },
+  "noLogsAvailableMessage": "No logs available",
+  "@noLogsAvailableMessage": {
+    "description": "Empty logs text"
+  },
+  "cacheManagerTitle": "Cache Manager",
+  "@cacheManagerTitle": {
+    "description": "Cache manager screen title"
+  },
+  "clearCacheDialogTitle": "Clear {title}?",
+  "@clearCacheDialogTitle": {
+    "description": "Clear cache dialog title",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "clearCacheDialogContent": "Are you sure you want to clear {title}? Clearing this cache is generally not needed because these files rarely change. Reloading them will consume more network data and slow down screen load times.",
+  "@clearCacheDialogContent": {
+    "description": "Clear cache dialog body",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "clearButton": "Clear",
+  "@clearButton": {
+    "description": "Clear action button"
+  },
+  "cacheClearedSuccess": "{title} cleared successfully",
+  "@cacheClearedSuccess": {
+    "description": "Snackbar when cache is cleared",
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "cacheInfoSectionHeader": "INFO",
+  "@cacheInfoSectionHeader": {
+    "description": "Section header"
+  },
+  "cacheInfoDescription": "Images, ranks, and video previews are saved on your device so they load instantly and save network data. Clearing these caches is generally not recommended unless you are experiencing display issues or running low on storage.",
+  "@cacheInfoDescription": {
+    "description": "Cache info paragraph"
+  },
+  "managedCachesSectionHeader": "MANAGED CACHES",
+  "@managedCachesSectionHeader": {
+    "description": "Section header"
+  },
+  "rankIconsCacheTitle": "Rank Icons Cache",
+  "@rankIconsCacheTitle": {
+    "description": "Cache item title"
+  },
+  "rankIconsCacheSubtitle": "Indefinite cache of competitive tier images",
+  "@rankIconsCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "bundleImagesCacheTitle": "Bundle Images Cache",
+  "@bundleImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "bundleImagesCacheSubtitle": "Saves images of featured store bundles",
+  "@bundleImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "dailyStoreImagesCacheTitle": "Daily Store Images Cache",
+  "@dailyStoreImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "dailyStoreImagesCacheSubtitle": "Saves skin icons of the daily rotation storefront",
+  "@dailyStoreImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "loadoutPresetImagesCacheTitle": "Loadout & Preset Images Cache",
+  "@loadoutPresetImagesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "loadoutPresetImagesCacheSubtitle": "Saves weapon skins, buddies, and preset thumbnail images",
+  "@loadoutPresetImagesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "videoPreviewCacheTitle": "Video Preview Cache",
+  "@videoPreviewCacheTitle": {
+    "description": "Cache item title"
+  },
+  "videoPreviewCacheSubtitle": "Saves download data of weapon preview clips",
+  "@videoPreviewCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "storeTextCacheTitle": "Store Text Cache",
+  "@storeTextCacheTitle": {
+    "description": "Cache item title"
+  },
+  "storeTextCacheSubtitle": "Stores localized config text, shop contracts, and APIs",
+  "@storeTextCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "friendNamesCacheTitle": "Friend Names Cache",
+  "@friendNamesCacheTitle": {
+    "description": "Cache item title"
+  },
+  "friendNamesCacheSubtitle": "Resolved friend display names, refreshed once a day",
+  "@friendNamesCacheSubtitle": {
+    "description": "Cache item subtitle"
+  },
+  "notificationsTitle": "Notifications",
+  "@notificationsTitle": {
+    "description": "Notifications screen title"
+  },
+  "noNotificationsYet": "No notifications yet",
+  "@noNotificationsYet": {
+    "description": "Empty state message"
+  },
+  "close": "Close",
+  "@close": {
+    "description": "Close button label"
+  },
+  "appearanceTitle": "Appearance",
+  "@appearanceTitle": {
+    "description": "Appearance page title"
+  },
+  "themeSectionHeader": "Theme",
+  "@themeSectionHeader": {
+    "description": "Section header"
+  },
+  "appThemeOption": "App Theme",
+  "@appThemeOption": {
+    "description": "Option title"
+  },
+  "themeSystem": "System",
+  "@themeSystem": {
+    "description": "Theme mode name"
+  },
+  "themeLight": "Light",
+  "@themeLight": {
+    "description": "Theme mode name"
+  },
+  "themeDark": "Dark",
+  "@themeDark": {
+    "description": "Theme mode name"
+  },
+  "pureBlackDarkModeTitle": "Pure black dark mode",
+  "@pureBlackDarkModeTitle": {
+    "description": "Toggle title"
+  },
+  "pureBlackDarkModeSubtitle": "Saves battery on OLED screens",
+  "@pureBlackDarkModeSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "useSystemColorsTitle": "Use system colors",
+  "@useSystemColorsTitle": {
+    "description": "Toggle title"
+  },
+  "useSystemColorsSubtitle": "Use dynamic colors from your wallpaper",
+  "@useSystemColorsSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "colorBlendLevelTitle": "Color blend level",
+  "@colorBlendLevelTitle": {
+    "description": "Slider title"
+  },
+  "colorPresetDefault": "Default",
+  "@colorPresetDefault": {
+    "description": "Color preset name"
+  },
+  "colorPresetGreenApple": "Green Apple",
+  "@colorPresetGreenApple": {
+    "description": "Color preset name"
+  },
+  "colorPresetLavender": "Lavender",
+  "@colorPresetLavender": {
+    "description": "Color preset name"
+  },
+  "colorPresetMidnight": "Midnight",
+  "@colorPresetMidnight": {
+    "description": "Color preset name"
+  },
+  "colorPresetOrange": "Orange",
+  "@colorPresetOrange": {
+    "description": "Color preset name"
+  },
+  "colorPresetTeal": "Teal",
+  "@colorPresetTeal": {
+    "description": "Color preset name"
+  },
+  "colorPresetRed": "Red",
+  "@colorPresetRed": {
+    "description": "Color preset name"
+  },
+  "allBundlesTitle": "All Bundles",
+  "@allBundlesTitle": {
+    "description": "All bundles screen title"
+  },
+  "errorMessage": "Error: {error}",
+  "@errorMessage": {
+    "description": "Generic error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "noName": "No Name",
+  "@noName": {
+    "description": "Fallback when item has no name"
+  },
+  "dailyShopTitle": "Daily Shop",
+  "@dailyShopTitle": {
+    "description": "Daily shop title"
+  },
+  "welcomeToValShop": "Welcome to Valorant Thunai",
+  "@welcomeToValShop": {
+    "description": "Welcome title"
+  },
+  "loginToViewOffers": "Login to view your daily offers",
+  "@loginToViewOffers": {
+    "description": "Welcome subtitle"
+  },
+  "loginWithRiot": "Login with Riot",
+  "@loginWithRiot": {
+    "description": "Login button text"
+  },
+  "changelogTitle": "Changelog",
+  "@changelogTitle": {
+    "description": "Changelog screen title"
+  },
+  "noChangelogAvailable": "No changelog available.",
+  "@noChangelogAvailable": {
+    "description": "Fallback changelog text"
+  },
+  "failedToLoadChangelog": "Failed to load changelog.\n{error}",
+  "@failedToLoadChangelog": {
+    "description": "Changelog error text",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadingVideo": "Loading video...",
+  "@loadingVideo": {
+    "description": "Video player loading state"
+  },
+  "errorPlayingVideo": "Error playing video:\n{error}",
+  "@errorPlayingVideo": {
+    "description": "Video player error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "enterDeveloperPasscode": "Enter Developer Passcode",
+  "@enterDeveloperPasscode": {
+    "description": "Dialog title"
+  },
+  "developerModeUnlockedSnackbar": "Developer Mode Unlocked!",
+  "@developerModeUnlockedSnackbar": {
+    "description": "Snackbar text"
+  },
+  "unreadCount": "{count} unread",
+  "@unreadCount": {
+    "description": "Unread notification count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noNewNotifications": "No new notifications",
+  "@noNewNotifications": {
+    "description": "No notifications subtitle"
+  },
+  "themeColorIconSubtitle": "Theme, color, icon",
+  "@themeColorIconSubtitle": {
+    "description": "Appearance subtitle"
+  },
+  "checkForUpdates": "Check for Updates",
+  "@checkForUpdates": {
+    "description": "Settings item"
+  },
+  "seeWhatsNewSubtitle": "See what's new in this version",
+  "@seeWhatsNewSubtitle": {
+    "description": "Changelog subtitle"
+  },
+  "accountsSectionHeader": "ACCOUNTS",
+  "@accountsSectionHeader": {
+    "description": "Settings section header"
+  },
+  "valorantSectionHeader": "VALORANT",
+  "@valorantSectionHeader": {
+    "description": "Settings section header for rank goals, contracts, and friends"
+  },
+  "signInToViewStoreSubtitle": "Sign in to view your store",
+  "@signInToViewStoreSubtitle": {
+    "description": "Login subtitle"
+  },
+  "profileUpdatedSnackbar": "Profile updated",
+  "@profileUpdatedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "updateFailedSnackbar": "Update failed: {error}",
+  "@updateFailedSnackbar": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "logOutTitle": "Log Out",
+  "@logOutTitle": {
+    "description": "Dialog title"
+  },
+  "logOutConfirmMessage": "Are you sure you want to log out of this account?",
+  "@logOutConfirmMessage": {
+    "description": "Dialog content"
+  },
+  "addAnotherAccount": "Add another account",
+  "@addAnotherAccount": {
+    "description": "Button to add account"
+  },
+  "developerOptionsHeader": "DEVELOPER OPTIONS",
+  "@developerOptionsHeader": {
+    "description": "Settings section header"
+  },
+  "bypassRemoteConfigTitle": "Bypass Remote Config",
+  "@bypassRemoteConfigTitle": {
+    "description": "Toggle title"
+  },
+  "bypassRemoteConfigSubtitle": "Ignore remote blocklists and features overrides",
+  "@bypassRemoteConfigSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "bypassLogCensoringTitle": "Bypass Log Censoring",
+  "@bypassLogCensoringTitle": {
+    "description": "Toggle title"
+  },
+  "bypassLogCensoringSubtitle": "Show raw tokens and API keys in diagnostic logs",
+  "@bypassLogCensoringSubtitle": {
+    "description": "Toggle subtitle"
+  },
+  "lockDeveloperModeTitle": "Lock Developer Mode",
+  "@lockDeveloperModeTitle": {
+    "description": "Button title"
+  },
+  "developerModeLockedSnackbar": "Developer mode locked & bypass disabled.",
+  "@developerModeLockedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "rateValShopTitle": "Rate Valorant Thunai",
+  "@rateValShopTitle": {
+    "description": "Settings item title"
+  },
+  "rateValShopSubtitle": "Show some love on the Play Store",
+  "@rateValShopSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "discoverMoreAppsTitle": "Discover More Apps",
+  "@discoverMoreAppsTitle": {
+    "description": "Settings item title"
+  },
+  "discoverMoreAppsSubtitle": "Check out my other creations",
+  "@discoverMoreAppsSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "appLogsTitle": "App Logs",
+  "@appLogsTitle": {
+    "description": "Settings item title"
+  },
+  "viewDebuggingLogsSubtitle": "View debugging logs",
+  "@viewDebuggingLogsSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "manageCachedImagesSubtitle": "Manage cached images, previews, and data sizes",
+  "@manageCachedImagesSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "supportSectionHeader": "SUPPORT",
+  "@supportSectionHeader": {
+    "description": "Settings section header"
+  },
+  "showSasukeEasterEggTitle": "Show Sasuke on Jul 23",
+  "@showSasukeEasterEggTitle": {
+    "description": "Settings item title"
+  },
+  "showSasukeEasterEggSubtitle": "Enable or disable the Easter Egg",
+  "@showSasukeEasterEggSubtitle": {
+    "description": "Settings item subtitle"
+  },
+  "checkingForUpdates": "Checking for updates...",
+  "@checkingForUpdates": {
+    "description": "Update checking toast"
+  },
+  "latestVersionMessage": "You are on the latest version!",
+  "@latestVersionMessage": {
+    "description": "Latest version message"
+  },
+  "updateCheckFailedMessage": "Update check failed. Please try again later.",
+  "@updateCheckFailedMessage": {
+    "description": "Update check failed message"
+  },
+  "newUpdateAvailableTitle": "New update is available",
+  "@newUpdateAvailableTitle": {
+    "description": "Update dialog title"
+  },
+  "updateDialogContent": "Version {version} is available. Update now to get the latest features and improvements.",
+  "@updateDialogContent": {
+    "description": "Update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updateNowButton": "Update Now",
+  "@updateNowButton": {
+    "description": "Update dialog action"
+  },
+  "colorVariantsTitle": "Color Variants",
+  "@colorVariantsTitle": {
+    "description": "Skin details section header"
+  },
+  "skinLevelsTitle": "Skin Levels",
+  "@skinLevelsTitle": {
+    "description": "Skin details section header"
+  },
+  "levelNumberTitle": "Level {number}",
+  "@levelNumberTitle": {
+    "description": "Skin level number",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "visualEffectsLevelItem": "Visual Effects",
+  "@visualEffectsLevelItem": {
+    "description": "Skin level VFX label"
+  },
+  "variantPreviewSubtitle": "{name} Preview",
+  "@variantPreviewSubtitle": {
+    "description": "Chroma preview subtitle",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "bundleDetailsTitle": "Bundle Details",
+  "@bundleDetailsTitle": {
+    "description": "Bundle details screen title"
+  },
+  "fullBundleTitle": "Full Bundle",
+  "@fullBundleTitle": {
+    "description": "Full bundle card title"
+  },
+  "bundleItemsTitle": "Bundle Items",
+  "@bundleItemsTitle": {
+    "description": "Bundle items section header"
+  },
+  "bundleItemsFeaturedInfo": "Access to individual bundle items is available when this bundle is currently featured in the shop.",
+  "@bundleItemsFeaturedInfo": {
+    "description": "Bundle items info box"
+  },
+  "bundleRoiTitle": "Bundle Value",
+  "@bundleRoiTitle": {
+    "description": "Bundle ROI card title"
+  },
+  "bundleRoiSavings": "Save {amount} VP ({percent}%) vs buying separately",
+  "@bundleRoiSavings": {
+    "description": "Bundle ROI savings summary",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "bundleRoiNoSavings": "No savings vs buying items separately",
+  "@bundleRoiNoSavings": {
+    "description": "Shown when bundle offers no discount vs individual items"
+  },
+  "freePriceLabel": "Free",
+  "@freePriceLabel": {
+    "description": "Free item price label"
+  },
+  "watchVideoLabel": "Watch Video",
+  "@watchVideoLabel": {
+    "description": "Watch video link"
+  },
+  "playerCardInspectHeader": "PLAYER CARD INSPECT",
+  "@playerCardInspectHeader": {
+    "description": "Accessory inspector header"
+  },
+  "lobbyCardTab": "Lobby Card",
+  "@lobbyCardTab": {
+    "description": "Inspector tab"
+  },
+  "profileDpTab": "Profile DP",
+  "@profileDpTab": {
+    "description": "Inspector tab"
+  },
+  "matchLoadingTab": "Match Loading",
+  "@matchLoadingTab": {
+    "description": "Inspector tab"
+  },
+  "fullPortraitLobbyCardBadge": "Full Portrait Lobby Card",
+  "@fullPortraitLobbyCardBadge": {
+    "description": "Inspector badge"
+  },
+  "playerProfileIconBadge": "Player Profile Icon",
+  "@playerProfileIconBadge": {
+    "description": "Inspector badge"
+  },
+  "playerProfileIconDescription": "Displayed across Friend List, Social Hub & Party Header",
+  "@playerProfileIconDescription": {
+    "description": "Inspector description"
+  },
+  "inMatchLoadingBannerBadge": "In-Match Loading Banner",
+  "@inMatchLoadingBannerBadge": {
+    "description": "Inspector badge"
+  },
+  "sprayTag": "SPRAY",
+  "@sprayTag": {
+    "description": "Inspector category tag"
+  },
+  "animatedSprayTag": "ANIMATED SPRAY",
+  "@animatedSprayTag": {
+    "description": "Inspector category tag"
+  },
+  "animatedValorantSprayBadge": "Animated Valorant Spray",
+  "@animatedValorantSprayBadge": {
+    "description": "Inspector badge"
+  },
+  "standardValorantSprayBadge": "Standard Valorant Spray",
+  "@standardValorantSprayBadge": {
+    "description": "Inspector badge"
+  },
+  "favoritesTitle": "Favorites",
+  "@favoritesTitle": {
+    "description": "Favorites screen title"
+  },
+  "shopHistoryTitle": "Shop History",
+  "@shopHistoryTitle": {
+    "description": "Shop rotation history screen title"
+  },
+  "shopHistoryEmptyState": "No shop history yet — check back after a few daily resets.",
+  "@shopHistoryEmptyState": {
+    "description": "Shop history empty state message"
+  },
+  "shopHistorySeenCount": "Seen {count}x",
+  "@shopHistorySeenCount": {
+    "description": "How many times a skin has appeared in the shop history",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "clearAllFavoritesTitle": "Clear all favorites?",
+  "@clearAllFavoritesTitle": {
+    "description": "Dialog title"
+  },
+  "clearAllFavoritesContent": "This will permanently delete your entire favorites history.",
+  "@clearAllFavoritesContent": {
+    "description": "Dialog content"
+  },
+  "deleteButton": "Delete",
+  "@deleteButton": {
+    "description": "Delete action"
+  },
+  "noFavoritesYet": "No favorites yet.",
+  "@noFavoritesYet": {
+    "description": "Empty favorites text"
+  },
+  "addedDatePrefix": "Added: {date}",
+  "@addedDatePrefix": {
+    "description": "Added date label",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "loadoutTitle": "Loadout",
+  "@loadoutTitle": {
+    "description": "Loadout screen title"
+  },
+  "loadingTitleText": "Loading Title...",
+  "@loadingTitleText": {
+    "description": "Title loader state"
+  },
+  "noTitleText": "No Title",
+  "@noTitleText": {
+    "description": "No title state"
+  },
+  "errorLoadingTitle": "Error loading title",
+  "@errorLoadingTitle": {
+    "description": "Title error state"
+  },
+  "choosePlayerCardTitle": "Choose Player Card",
+  "@choosePlayerCardTitle": {
+    "description": "Screen title"
+  },
+  "changeTitleOption": "Change Title",
+  "@changeTitleOption": {
+    "description": "Option button"
+  },
+  "chooseTitleScreenTitle": "Choose Title",
+  "@chooseTitleScreenTitle": {
+    "description": "Screen title"
+  },
+  "weaponLoadoutOption": "Weapon Loadout",
+  "@weaponLoadoutOption": {
+    "description": "Option button"
+  },
+  "chooseSpraySlotTitle": "Choose {slot} Spray",
+  "@chooseSpraySlotTitle": {
+    "description": "Screen title",
+    "placeholders": {
+      "slot": {
+        "type": "String"
+      }
+    }
+  },
+  "weaponsTitle": "Weapons",
+  "@weaponsTitle": {
+    "description": "Weapons screen title"
+  },
+  "customizeWeaponTitle": "Customize {weapon}",
+  "@customizeWeaponTitle": {
+    "description": "Customize weapon screen title",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "standardSkinPrefix": "Standard {weapon}",
+  "@standardSkinPrefix": {
+    "description": "Standard skin name",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "changeSkinOption": "Change Skin",
+  "@changeSkinOption": {
+    "description": "Option row"
+  },
+  "chooseSkinScreenTitle": "Choose Skin",
+  "@chooseSkinScreenTitle": {
+    "description": "Screen title"
+  },
+  "buddySectionTitle": "Buddy",
+  "@buddySectionTitle": {
+    "description": "Section header"
+  },
+  "noBuddyText": "No Buddy",
+  "@noBuddyText": {
+    "description": "Buddy empty state"
+  },
+  "changeBuddyOption": "Change Buddy",
+  "@changeBuddyOption": {
+    "description": "Option row"
+  },
+  "chooseBuddyScreenTitle": "Choose Buddy",
+  "@chooseBuddyScreenTitle": {
+    "description": "Screen title"
+  },
+  "searchPlaceholder": "Search",
+  "@searchPlaceholder": {
+    "description": "Search input hint"
+  },
+  "totalTab": "Total",
+  "@totalTab": {
+    "description": "Tab label"
+  },
+  "ownedCountTab": "Owned ({count})",
+  "@ownedCountTab": {
+    "description": "Tab label with count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "sprayCategoryTab": "Spray",
+  "@sprayCategoryTab": {
+    "description": "Spray category"
+  },
+  "gifSprayCategoryTab": "GIF Spray",
+  "@gifSprayCategoryTab": {
+    "description": "Spray category"
+  },
+  "flexCategoryTab": "Flex",
+  "@flexCategoryTab": {
+    "description": "Spray category"
+  },
+  "weaponNotFoundMessage": "Weapon not found",
+  "@weaponNotFoundMessage": {
+    "description": "Error message"
+  },
+  "unknownItemTypeMessage": "Unknown item type",
+  "@unknownItemTypeMessage": {
+    "description": "Error message"
+  },
+  "failedToEquipSkin": "Failed to equip skin: {error}",
+  "@failedToEquipSkin": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipBuddy": "Failed to equip buddy: {error}",
+  "@failedToEquipBuddy": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipTitle": "Failed to equip title: {error}",
+  "@failedToEquipTitle": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipSpray": "Failed to equip spray: {error}",
+  "@failedToEquipSpray": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToEquipCard": "Failed to equip card: {error}",
+  "@failedToEquipCard": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "friendsTitle": "Friends",
+  "@friendsTitle": {
+    "description": "Friends screen title"
+  },
+  "friendsInGameDigestTitle": "Friends in game",
+  "@friendsInGameDigestTitle": {
+    "description": "Title for the home/hub card summarizing friends currently in a Valorant match"
+  },
+  "friendsInGameDigestCount": "{count, plural, one {{count} friend is in a match} other {{count} friends are in a match}}",
+  "@friendsInGameDigestCount": {
+    "description": "Subtitle for the friends-in-game digest card, count of friends currently in game",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "friendsInGameDigestMore": "+{count} more",
+  "@friendsInGameDigestMore": {
+    "description": "Overflow label on the friends-in-game digest card, e.g. '+3 more'",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "friendRequestSentSnackbar": "Friend request sent!",
+  "@friendRequestSentSnackbar": {
+    "description": "Snackbar message"
+  },
+  "addFriendDialogTitle": "Add Friend",
+  "@addFriendDialogTitle": {
+    "description": "Dialog title"
+  },
+  "addFriendDialogDescription": "Enter the Riot ID of the player you want to add.",
+  "@addFriendDialogDescription": {
+    "description": "Dialog description"
+  },
+  "nameFieldHint": "Name",
+  "@nameFieldHint": {
+    "description": "Text field hint"
+  },
+  "tagFieldHint": "Tag",
+  "@tagFieldHint": {
+    "description": "Text field hint"
+  },
+  "requiredValidation": "Required",
+  "@requiredValidation": {
+    "description": "Form validation error"
+  },
+  "sendRequestButton": "Send Request",
+  "@sendRequestButton": {
+    "description": "Button label to send friend request"
+  },
+  "errorLoadingFriends": "Error loading friends: {error}",
+  "@errorLoadingFriends": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+  "searchFriendsHint": "Search friends",
+  "@searchFriendsHint": {
+    "description": "Search input hint"
+  },
+  "onlineStatusText": "Online",
+  "@onlineStatusText": {
+    "description": "Status label"
+  },
+  "offlineStatusText": "Offline",
+  "@offlineStatusText": {
+    "description": "Status label"
+  },
+  "justNowText": "Just now",
+  "@justNowText": {
+    "description": "Time label"
+  },
+  "lastOnlineMinutesAgo": "Last online {count} minutes ago",
+  "@lastOnlineMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "lastOnlineHoursAgo": "Last online {count} {unit} ago",
+  "@lastOnlineHoursAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineHoursMinutesAgo": "Last online {hours} {hUnit}, {minutes} {mUnit} ago",
+  "@lastOnlineHoursMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "hUnit": {
+        "type": "String"
+      },
+      "minutes": {
+        "type": "int"
+      },
+      "mUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineDaysAgo": "Last online {count} days ago",
+  "@lastOnlineDaysAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "lastOnlineDaysHoursAgo": "Last online {days} days, {hours} {hUnit} ago",
+  "@lastOnlineDaysHoursAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "hours": {
+        "type": "int"
+      },
+      "hUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "lastOnlineDaysMinutesAgo": "Last online {days} day, {minutes} {mUnit} ago",
+  "@lastOnlineDaysMinutesAgo": {
+    "description": "Last online text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      },
+      "mUnit": {
+        "type": "String"
+      }
+    }
+  },
+  "moreMembersCount": "+ {count} more",
+  "@moreMembersCount": {
+    "description": "Party extra members",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onlineFriendsHeader": "Online Friends — {count}",
+  "@onlineFriendsHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "inValorantHeader": "In Valorant — {count}",
+  "@inValorantHeader": {
+    "description": "Friends section header for friends actively in a Valorant session",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "riotClientHeader": "Riot Client — {count}",
+  "@riotClientHeader": {
+    "description": "Friends section header for friends online on Riot Client but not in a Valorant session",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "offlineFriendsHeader": "Offline — {count}",
+  "@offlineFriendsHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "valorantLiveSocialTitle": "Valorant Live Social",
+  "@valorantLiveSocialTitle": {
+    "description": "Appbar title"
+  },
+  "xmppDisconnectedTitle": "XMPP Disconnected",
+  "@xmppDisconnectedTitle": {
+    "description": "Appbar title"
+  },
+  "reconnectXmppMenu": "Reconnect XMPP",
+  "@reconnectXmppMenu": {
+    "description": "Menu item"
+  },
+  "setStatusOnlineMenu": "Set Status: Online",
+  "@setStatusOnlineMenu": {
+    "description": "Menu item"
+  },
+  "setStatusAwayMenu": "Set Status: Away",
+  "@setStatusAwayMenu": {
+    "description": "Menu item"
+  },
+  "disconnectMenu": "Disconnect",
+  "@disconnectMenu": {
+    "description": "Menu item"
+  },
+  "statusLabelPrefix": "Status: {status}",
+  "@statusLabelPrefix": {
+    "description": "Status info bar",
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "connectButton": "Connect",
+  "@connectButton": {
+    "description": "Button label"
+  },
+  "friendsCountSidebar": "Friends ({count})",
+  "@friendsCountSidebar": {
+    "description": "Sidebar header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noFriendsFound": "No friends found",
+  "@noFriendsFound": {
+    "description": "Sidebar empty state"
+  },
+  "selectFriendToChat": "Select a friend to start chatting",
+  "@selectFriendToChat": {
+    "description": "Chat placeholder"
+  },
+  "noMessagesYetSayHi": "No messages yet. Say hi!",
+  "@noMessagesYetSayHi": {
+    "description": "Empty conversation placeholder"
+  },
+  "typeMessageHint": "Type a message...",
+  "@typeMessageHint": {
+    "description": "Chat input hint"
+  },
+  "matchDetailsTitle": "Match Details",
+  "@matchDetailsTitle": {
+    "description": "Match details title"
+  },
+  "noDetailsAvailable": "No details available",
+  "@noDetailsAvailable": {
+    "description": "Empty state message"
+  },
+  "matchResultDraw": "DRAW",
+  "@matchResultDraw": {
+    "description": "Match result badge"
+  },
+  "matchResultVictory": "VICTORY",
+  "@matchResultVictory": {
+    "description": "Match result badge"
+  },
+  "matchResultDefeat": "DEFEAT",
+  "@matchResultDefeat": {
+    "description": "Match result badge"
+  },
+  "scoreboardHeader": "Scoreboard",
+  "@scoreboardHeader": {
+    "description": "Match details section"
+  },
+  "killsColumnHeader": "K",
+  "@killsColumnHeader": {
+    "description": "Table column header"
+  },
+  "deathsColumnHeader": "D",
+  "@deathsColumnHeader": {
+    "description": "Table column header"
+  },
+  "assistsColumnHeader": "A",
+  "@assistsColumnHeader": {
+    "description": "Table column header"
+  },
+  "scoreColumnHeader": "SCORE",
+  "@scoreColumnHeader": {
+    "description": "Table column header"
+  },
+  "roundBreakdownHeader": "Round Breakdown",
+  "@roundBreakdownHeader": {
+    "description": "Match details section"
+  },
+  "teamAlliesHeader": "Allies",
+  "@teamAlliesHeader": {
+    "description": "Team section header"
+  },
+  "teamEnemiesHeader": "Enemies",
+  "@teamEnemiesHeader": {
+    "description": "Team section header"
+  },
+  "searchPlayersTitle": "Search Players",
+  "@searchPlayersTitle": {
+    "description": "Screen title"
+  },
+  "searchPlayerHint": "Search Name#Tag or PUUID...",
+  "@searchPlayerHint": {
+    "description": "Search input hint"
+  },
+  "recentSearchesHeader": "Recent Searches",
+  "@recentSearchesHeader": {
+    "description": "Section header"
+  },
+  "clearAllButton": "Clear All",
+  "@clearAllButton": {
+    "description": "Button label"
+  },
+  "matchesNotAvailable": "Matches not available",
+  "@matchesNotAvailable": {
+    "description": "Matches empty state"
+  },
+  "noRecentMatchesFound": "No recent matches found",
+  "@noRecentMatchesFound": {
+    "description": "Empty matches message"
+  },
+  "kdRatioLabel": "K/D",
+  "@kdRatioLabel": {
+    "description": "Stat label"
+  },
+  "headshotPercentLabel": "HS%",
+  "@headshotPercentLabel": {
+    "description": "Stat label"
+  },
+  "winRateLabel": "WIN%",
+  "@winRateLabel": {
+    "description": "Stat label"
+  },
+  "currentRankHeader": "Current Rank",
+  "@currentRankHeader": {
+    "description": "Section header"
+  },
+  "peakRankHeader": "Peak Rank",
+  "@peakRankHeader": {
+    "description": "Section header"
+  },
+  "recentMatchesHeader": "Recent Matches",
+  "@recentMatchesHeader": {
+    "description": "Section header"
+  },
+  "seasonGoalArchivedTitle": "Season Goal Archived",
+  "@seasonGoalArchivedTitle": {
+    "description": "Dialog title"
+  },
+  "seasonGoalArchivedBody": "Your goal for {season} has been archived.\n\nTarget Rank: {target}\nStarting Rank: {starting}\nFinished Rank: {finished}",
+  "@seasonGoalArchivedBody": {
+    "description": "Dialog body",
+    "placeholders": {
+      "season": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      },
+      "starting": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      }
+    }
+  },
+  "okButton": "OK",
+  "@okButton": {
+    "description": "Button label"
+  },
+  "reachedMaxRankMessage": "You have reached the maximum rank!",
+  "@reachedMaxRankMessage": {
+    "description": "Max rank banner"
+  },
+  "seasonalRankGoalTitle": "Seasonal Rank Goal",
+  "@seasonalRankGoalTitle": {
+    "description": "Screen title"
+  },
+  "profileDataNotAvailable": "Profile data not available",
+  "@profileDataNotAvailable": {
+    "description": "Empty state message"
+  },
+  "errorLoadingRankGoals": "Error loading rank goals: {error}",
+  "@errorLoadingRankGoals": {
+    "description": "Error message",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "actEndedText": "Act ended",
+  "@actEndedText": {
+    "description": "Timer state"
+  },
+  "daysLeftText": "{count} days left",
+  "@daysLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursLeftText": "{count} hrs left",
+  "@hoursLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "minsLeftText": "{count} mins left",
+  "@minsLeftText": {
+    "description": "Timer text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "startingBadge": "STARTING",
+  "@startingBadge": {
+    "description": "Rank status badge"
+  },
+  "currentBadge": "CURRENT",
+  "@currentBadge": {
+    "description": "Rank status badge"
+  },
+  "deleteActiveGoalTitle": "Delete Active Goal?",
+  "@deleteActiveGoalTitle": {
+    "description": "Dialog title"
+  },
+  "deleteActiveGoalContent": "This will permanently delete your current rank goal and starting status. You cannot recover your starting rank history if you delete it. Are you sure you want to delete this goal?",
+  "@deleteActiveGoalContent": {
+    "description": "Dialog content"
+  },
+  "deleteHistoryEntryTitle": "Delete History Entry?",
+  "@deleteHistoryEntryTitle": {
+    "description": "Dialog title"
+  },
+  "deleteHistoryEntryContent": "Are you sure you want to permanently delete this archived goal from your history? This action cannot be undone.",
+  "@deleteHistoryEntryContent": {
+    "description": "Dialog description"
+  },
+  "goalHistoryTargetFinished": "Target: {target} • Finished: {finished}",
+  "@goalHistoryTargetFinished": {
+    "description": "History subtitle",
+    "placeholders": {
+      "target": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      }
+    }
+  },
+  "contractsMissionsTitle": "Contracts & Missions",
+  "@contractsMissionsTitle": {
+    "description": "Screen title"
+  },
+  "missionsTab": "Missions",
+  "@missionsTab": {
+    "description": "Tab title"
+  },
+  "battlePassTab": "Battle Pass",
+  "@battlePassTab": {
+    "description": "Tab title"
+  },
+  "eventPassTab": "Event Pass",
+  "@eventPassTab": {
+    "description": "Tab title"
+  },
+  "agentsTab": "Agents",
+  "@agentsTab": {
+    "description": "Tab title"
+  },
+  "refreshDataButton": "Refresh Data",
+  "@refreshDataButton": {
+    "description": "Button label"
+  },
+  "progressionDataNotAvailable": "Progression data not available",
+  "@progressionDataNotAvailable": {
+    "description": "Empty state message"
+  },
+  "errorLoadingContracts": "Error loading contracts: {error}",
+  "@errorLoadingContracts": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "dailyResetHeader": "Daily Reset",
+  "@dailyResetHeader": {
+    "description": "Section header"
+  },
+  "dailyCheckpointsHeader": "Daily Checkpoints",
+  "@dailyCheckpointsHeader": {
+    "description": "Section header"
+  },
+  "weeklyMissionsHeader": "Weekly Missions",
+  "@weeklyMissionsHeader": {
+    "description": "Section header"
+  },
+  "futureWeekliesCountHeader": "{count} Future Weeklies",
+  "@futureWeekliesCountHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "missionDefaultTitle": "Mission",
+  "@missionDefaultTitle": {
+    "description": "Fallback title"
+  },
+  "agentRecruitmentHeader": "Agent Recruitment",
+  "@agentRecruitmentHeader": {
+    "description": "Section header"
+  },
+  "agentGearTitle": "Agent Gear",
+  "@agentGearTitle": {
+    "description": "Title of the per-agent cosmetic contract progress screen"
+  },
+  "agentGearTiersFormat": "{completed}/{total} tiers",
+  "@agentGearTiersFormat": {
+    "description": "Completed vs total tiers for an agent's gear contract",
+    "placeholders": {
+      "completed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "agentGearMaxed": "Maxed",
+  "@agentGearMaxed": {
+    "description": "Shown when an agent's gear contract is fully completed"
+  },
+  "agentGearKcRemaining": "{amount} KC to max",
+  "@agentGearKcRemaining": {
+    "description": "Kingdom Credits remaining to fully complete an agent's gear contract",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "agentGearTierFormat": "Tier {tier}",
+  "@agentGearTierFormat": {
+    "description": "Label for a single reward tier in the agent gear detail list",
+    "placeholders": {
+      "tier": {
+        "type": "int"
+      }
+    }
+  },
+  "kingdomCreditsBalance": "Kingdom Credits: {amount}",
+  "@kingdomCreditsBalance": {
+    "description": "KC balance",
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "notLoggedInMessage": "Not logged in",
+  "@notLoggedInMessage": {
+    "description": "Profile empty state"
+  },
+  "rankHistoryTitle": "RR History",
+  "@rankHistoryTitle": {
+    "description": "Title for the local RR-over-time graph card on the profile screen"
+  },
+  "rankGoalsTileTitle": "Rank Goals",
+  "@rankGoalsTileTitle": {
+    "description": "ListTile title"
+  },
+  "rankGoalsTileSubtitle": "Set and track your climb progress",
+  "@rankGoalsTileSubtitle": {
+    "description": "ListTile subtitle"
+  },
+  "contractsTileSubtitle": "Track agent recruitment and missions progress",
+  "@contractsTileSubtitle": {
+    "description": "ListTile subtitle"
+  },
+  "unknownText": "Unknown",
+  "@unknownText": {
+    "description": "Fallback label"
+  },
+  "remainingTimeLabel": "Remaining Time: {time}",
+  "@remainingTimeLabel": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "allQueuesFilter": "All Queues",
+  "@allQueuesFilter": {
+    "description": "Dropdown filter"
+  },
+  "queueCompetitive": "Competitive",
+  "@queueCompetitive": {
+    "description": "Queue name"
+  },
+  "queueUnrated": "Unrated",
+  "@queueUnrated": {
+    "description": "Queue name"
+  },
+  "queueSwiftplay": "Swiftplay",
+  "@queueSwiftplay": {
+    "description": "Queue name"
+  },
+  "queueSpikeRush": "Spike Rush",
+  "@queueSpikeRush": {
+    "description": "Queue name"
+  },
+  "queueDeathmatch": "Deathmatch",
+  "@queueDeathmatch": {
+    "description": "Queue name"
+  },
+  "sortNewest": "Newest",
+  "@sortNewest": {
+    "description": "Sort option"
+  },
+  "sortOldest": "Oldest",
+  "@sortOldest": {
+    "description": "Sort option"
+  },
+  "tryAgainButton": "Try Again",
+  "@tryAgainButton": {
+    "description": "Button label"
+  },
+  "noMatchesFilterMessage": "No matches found for the selected filter",
+  "@noMatchesFilterMessage": {
+    "description": "Empty matches state"
+  },
+  "loadMoreButton": "Load More",
+  "@loadMoreButton": {
+    "description": "Pagination button"
+  },
+  "topAgentsHeader": "Top Agents",
+  "@topAgentsHeader": {
+    "description": "Stats tab header"
+  },
+  "topWeaponsHeader": "Top Weapons",
+  "@topWeaponsHeader": {
+    "description": "Stats tab header"
+  },
+  "topMapsHeader": "Top Maps",
+  "@topMapsHeader": {
+    "description": "Stats tab header"
+  },
+  "accuracyHeader": "Accuracy",
+  "@accuracyHeader": {
+    "description": "Stats tab header"
+  },
+  "loginSuccessfulSnackbar": "Login Successful!",
+  "@loginSuccessfulSnackbar": {
+    "description": "Snackbar message"
+  },
+  "loginFailedSnackbar": "Login Failed: {error}",
+  "@loginFailedSnackbar": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "riotLoginTitle": "Riot Login",
+  "@riotLoginTitle": {
+    "description": "Screen title"
+  },
+  "noInternetShopRefreshFailed": "No internet connection. Failed to refresh shop.",
+  "@noInternetShopRefreshFailed": {
+    "description": "Snackbar message"
+  },
+  "failedToRefreshShop": "Failed to refresh shop: {error}",
+  "@failedToRefreshShop": {
+    "description": "Snackbar error",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "featuredBundleHeader": "Featured Bundle",
+  "@featuredBundleHeader": {
+    "description": "Shop section header"
+  },
+  "dailyOffersHeader": "Daily Offers",
+  "@dailyOffersHeader": {
+    "description": "Shop section header"
+  },
+  "nightMarketHeader": "Night Market",
+  "@nightMarketHeader": {
+    "description": "Shop section header"
+  },
+  "accessoryStoreHeader": "Accessory Store",
+  "@accessoryStoreHeader": {
+    "description": "Shop section header"
+  },
+  "bundleExpiresIn": "Expires in {time}",
+  "@bundleExpiresIn": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "offersResetIn": "Resets in {time}",
+  "@offersResetIn": {
+    "description": "Timer text",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "discountPercentBadge": "-{percent}%",
+  "@discountPercentBadge": {
+    "description": "Discount badge",
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "friendsOptionTitle": "Friends",
+  "@friendsOptionTitle": {
+    "description": "Option button"
+  },
+  "friendsOptionSubtitle": "View online status and send friend requests",
+  "@friendsOptionSubtitle": {
+    "description": "Option subtitle"
+  },
+  "matchTypeTitle": "Match Type",
+  "@matchTypeTitle": {
+    "description": "Configuration title"
+  },
+  "preferredServersTitle": "Preferred Servers",
+  "@preferredServersTitle": {
+    "description": "Configuration title"
+  },
+  "partyCodeTitle": "Party Code",
+  "@partyCodeTitle": {
+    "description": "Configuration title"
+  },
+  "copyCodeTooltip": "Copy Code",
+  "@copyCodeTooltip": {
+    "description": "Tooltip"
+  },
+  "partyCodeCopiedSnackbar": "Party code copied to clipboard!",
+  "@partyCodeCopiedSnackbar": {
+    "description": "Snackbar message"
+  },
+  "disableCodeTooltip": "Disable Code",
+  "@disableCodeTooltip": {
+    "description": "Tooltip"
+  },
+  "generateCodeButton": "Generate",
+  "@generateCodeButton": {
+    "description": "Button label"
+  },
+  "copiedToClipboardSnackbar": "Copied {text} to clipboard!",
+  "@copiedToClipboardSnackbar": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "copyRiotIdMenu": "Copy Riot ID",
+  "@copyRiotIdMenu": {
+    "description": "Context menu item"
+  },
+  "openProfileMenu": "Open Profile",
+  "@openProfileMenu": {
+    "description": "Context menu item"
+  },
+  "openProfileSubtitle": "View career match history and stats",
+  "@openProfileSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "showLoadoutMenu": "Show Loadout",
+  "@showLoadoutMenu": {
+    "description": "Context menu item"
+  },
+  "showLoadoutSubtitle": "Inspect equipped weapon skins",
+  "@showLoadoutSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "addFriendMenu": "Add Friend",
+  "@addFriendMenu": {
+    "description": "Context menu item"
+  },
+  "addFriendSubtitle": "Send Riot friend request",
+  "@addFriendSubtitle": {
+    "description": "Menu subtitle"
+  },
+  "inviteToPartyMenu": "Invite to Party",
+  "@inviteToPartyMenu": {
+    "description": "Context menu item"
+  },
+  "inviteToPartySubtitle": "Invite player to current lobby",
+  "@inviteToPartySubtitle": {
+    "description": "Menu subtitle"
+  },
+  "gameNameFieldHint": "Game Name",
+  "@gameNameFieldHint": {
+    "description": "Field hint"
+  },
+  "taglineFieldHint": "Tagline",
+  "@taglineFieldHint": {
+    "description": "Field hint"
+  },
+  "friendRequestSentToPlayer": "Friend request sent to {name}#{tag}!",
+  "@friendRequestSentToPlayer": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "tag": {
+        "type": "String"
+      }
+    }
+  },
+  "selectMatchTypeTitle": "Select Match Type",
+  "@selectMatchTypeTitle": {
+    "description": "Dialog title"
+  },
+  "selectServersTitle": "Select Servers",
+  "@selectServersTitle": {
+    "description": "Dialog title"
+  },
+  "partyLobbyHeader": "Party Lobby",
+  "@partyLobbyHeader": {
+    "description": "Screen header"
+  },
+  "startMatchmakingButton": "START MATCH",
+  "@startMatchmakingButton": {
+    "description": "FAB label"
+  },
+  "cancelMatchmakingButton": "CANCEL",
+  "@cancelMatchmakingButton": {
+    "description": "FAB label"
+  },
+  "matchmakingInQueue": "IN QUEUE: {time}",
+  "@matchmakingInQueue": {
+    "description": "Queue timer",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelectPhaseTitle": "Agent Select",
+  "@agentSelectPhaseTitle": {
+    "description": "Phase title"
+  },
+  "inMatchPhaseTitle": "In Match",
+  "@inMatchPhaseTitle": {
+    "description": "Phase title"
+  },
+  "attackersSideLabel": "Attackers",
+  "@attackersSideLabel": {
+    "description": "Starting side label"
+  },
+  "defendersSideLabel": "Defenders",
+  "@defendersSideLabel": {
+    "description": "Starting side label"
+  },
+  "leavePartyButton": "Leave Party",
+  "@leavePartyButton": {
+    "description": "Button label"
+  },
+  "openPartyAccessibility": "Open Party",
+  "@openPartyAccessibility": {
+    "description": "Accessibility mode"
+  },
+  "closedPartyAccessibility": "Closed Party",
+  "@closedPartyAccessibility": {
+    "description": "Accessibility mode"
+  },
+  "playerReadyLabel": "READY",
+  "@playerReadyLabel": {
+    "description": "Player status"
+  },
+  "playerNotReadyLabel": "NOT READY",
+  "@playerNotReadyLabel": {
+    "description": "Player status"
+  },
+  "leaderBadge": "LEADER",
+  "@leaderBadge": {
+    "description": "Leader tag"
+  },
+  "criticalUpdateRequiredTitle": "Critical Update Required",
+  "@criticalUpdateRequiredTitle": {
+    "description": "Force update dialog title"
+  },
+  "updateAvailableTitle": "Update Available!",
+  "@updateAvailableTitle": {
+    "description": "Normal update dialog title"
+  },
+  "criticalUpdateRequiredBody": "A critical update (v{version}) is required to continue using the app. This fix addresses essential Riot API changes.",
+  "@criticalUpdateRequiredBody": {
+    "description": "Force update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updateAvailableBody": "A new version (v{version}) of Valorant Thunai is ready! Update now for new features and bug fixes.",
+  "@updateAvailableBody": {
+    "description": "Normal update dialog body",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "unknownItemType": "Unknown item type",
+  "@unknownItemType": {
+    "description": "Error message when item type is unknown"
+  },
+  "requiredValidator": "Required",
+  "@requiredValidator": {
+    "description": "Form validation required message"
+  },
+  "plusMorePartyMembers": "+ {count} more",
+  "@plusMorePartyMembers": {
+    "description": "Party members overflow text",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Time ago string"
+  },
+  "lastOnlineOneDayAgo": "Last online 1 day ago",
+  "@lastOnlineOneDayAgo": {
+    "description": "Last online text for 1 day"
+  },
+  "seasonGoalArchivedContent": "Your goal for {season} has been archived.\n\nTarget: {target}\nFinished: {finished} ({currentRR} RR)\n\n{resultMessage}",
+  "@seasonGoalArchivedContent": {
+    "description": "Archived goal dialog message",
+    "placeholders": {
+      "season": {
+        "type": "String"
+      },
+      "target": {
+        "type": "String"
+      },
+      "finished": {
+        "type": "String"
+      },
+      "currentRR": {
+        "type": "int"
+      },
+      "resultMessage": {
+        "type": "String"
+      }
+    }
+  },
+  "goalReachedCongratulations": "Congratulations! You reached your goal! 🎉",
+  "@goalReachedCongratulations": {
+    "description": "Archived dialog congratulation"
+  },
+  "goalMissedEncouragement": "Nice try! Set a new goal for the current season.",
+  "@goalMissedEncouragement": {
+    "description": "Archived dialog encouragement"
+  },
+  "selectTargetRankGoal": "Select Target Rank Goal",
+  "@selectTargetRankGoal": {
+    "description": "Modal sheet title"
+  },
+  "noRankGoalSet": "No Rank Goal Set",
+  "@noRankGoalSet": {
+    "description": "Title when no rank goal is active"
+  },
+  "noRankGoalSetDescription": "Your current rank is {rank} ({rr} RR). Set a seasonal target to track your progress and climb the leaderboard.",
+  "@noRankGoalSetDescription": {
+    "description": "Description when no goal is active",
+    "placeholders": {
+      "rank": {
+        "type": "String"
+      },
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "setTargetGoal": "Set Target Goal",
+  "@setTargetGoal": {
+    "description": "Button label to set rank goal"
+  },
+  "actEnded": "Act ended",
+  "@actEnded": {
+    "description": "Timer text when act is finished"
+  },
+  "daysLeft": "{days} days left",
+  "@daysLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "hoursLeft": "{hours} hrs left",
+  "@hoursLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "minsLeft": "{mins} mins left",
+  "@minsLeft": {
+    "description": "Timer text",
+    "placeholders": {
+      "mins": {
+        "type": "int"
+      }
+    }
+  },
+  "activeAct": "Active Act",
+  "@activeAct": {
+    "description": "Label for current active act"
+  },
+  "climbProgress": "Climb Progress",
+  "@climbProgress": {
+    "description": "Progress card title"
+  },
+  "setPrefix": "Set: {date}",
+  "@setPrefix": {
+    "description": "Date goal was set",
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "startingLabel": "STARTING",
+  "@startingLabel": {
+    "description": "Stat label"
+  },
+  "currentLabel": "CURRENT",
+  "@currentLabel": {
+    "description": "Stat label"
+  },
+  "rrSuffix": "{rr} RR",
+  "@rrSuffix": {
+    "description": "Rank rating suffix",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "goalAchieved": "Goal Achieved!",
+  "@goalAchieved": {
+    "description": "Progress status"
+  },
+  "rankGoalTrendTitle": "Trend",
+  "@rankGoalTrendTitle": {
+    "description": "Section title for the RR trend/games-to-goal estimate"
+  },
+  "rankGoalNotEnoughData": "Not enough recent games to estimate yet",
+  "@rankGoalNotEnoughData": {
+    "description": "Shown when there isn't enough local rank history to compute a trend"
+  },
+  "rankGoalTrendingAway": "Trending away from goal",
+  "@rankGoalTrendingAway": {
+    "description": "Shown when the average RR change per game is flat or negative"
+  },
+  "rankGoalEstimatedGames": "~{games} games to goal",
+  "@rankGoalEstimatedGames": {
+    "description": "Estimated number of games left to reach the rank goal at the current trend",
+    "placeholders": {
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "rankGoalAvgRRPerGame": "Avg {avg} RR/game over last {games} games",
+  "@rankGoalAvgRRPerGame": {
+    "description": "Average RR change per game over the trailing window used for the estimate",
+    "placeholders": {
+      "avg": {
+        "type": "String"
+      },
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "rankGoalSummaryCardTitle": "Goal Progress",
+  "@rankGoalSummaryCardTitle": {
+    "description": "Title of the compact rank goal progress summary card"
+  },
+  "rankGoalSummaryTargetLabel": "Target: {tierName}",
+  "@rankGoalSummaryTargetLabel": {
+    "description": "Compact summary card subtitle naming the target rank tier",
+    "placeholders": {
+      "tierName": {
+        "type": "String"
+      }
+    }
+  },
+  "rrToGo": "{rr} RR to go",
+  "@rrToGo": {
+    "description": "Progress status remaining RR",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "plusRR": "+{rr} RR",
+  "@plusRR": {
+    "description": "Positive RR gain",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "theClimbTimeline": "The Climb Timeline",
+  "@theClimbTimeline": {
+    "description": "Timeline title"
+  },
+  "deleteGoal": "Delete Goal",
+  "@deleteGoal": {
+    "description": "Delete goal button label"
+  },
+  "goalHistory": "Goal History",
+  "@goalHistory": {
+    "description": "Section title for past goals"
+  },
+  "achievedStatus": "ACHIEVED",
+  "@achievedStatus": {
+    "description": "Status badge"
+  },
+  "missedStatus": "MISSED",
+  "@missedStatus": {
+    "description": "Status badge"
+  },
+  "unknownSeason": "Unknown Season",
+  "@unknownSeason": {
+    "description": "Fallback season text"
+  },
+  "unranked": "UNRANKED",
+  "@unranked": {
+    "description": "Fallback rank name"
+  },
+  "failedToLoadMatchDetails": "Failed to load match details from Riot server.",
+  "@failedToLoadMatchDetails": {
+    "description": "Error message"
+  },
+  "unknownMap": "Unknown Map",
+  "@unknownMap": {
+    "description": "Fallback map name"
+  },
+  "yourPerformance": "YOUR PERFORMANCE",
+  "@yourPerformance": {
+    "description": "Performance section header"
+  },
+  "unknownAgent": "Unknown Agent",
+  "@unknownAgent": {
+    "description": "Fallback agent name"
+  },
+  "accountLevelFormat": "Level {level}",
+  "@accountLevelFormat": {
+    "description": "Account level label",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "kdRatioWithVal": "K/D Ratio: {ratio}",
+  "@kdRatioWithVal": {
+    "description": "KD Ratio string",
+    "placeholders": {
+      "ratio": {
+        "type": "String"
+      }
+    }
+  },
+  "acs": "ACS",
+  "@acs": {
+    "description": "Combat score stat label"
+  },
+  "kills": "Kills",
+  "@kills": {
+    "description": "Kills stat label"
+  },
+  "assists": "Assists",
+  "@assists": {
+    "description": "Assists stat label"
+  },
+  "blueTeam": "Blue Team",
+  "@blueTeam": {
+    "description": "Team name"
+  },
+  "redTeam": "Red Team",
+  "@redTeam": {
+    "description": "Team name"
+  },
+  "roundsWonFormat": "{count} Rounds",
+  "@roundsWonFormat": {
+    "description": "Rounds won count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "kdaHeader": "K/D/A",
+  "@kdaHeader": {
+    "description": "KDA column header"
+  },
+  "playerLv": "Lv {level}",
+  "@playerLv": {
+    "description": "Short player level",
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "anErrorOccurred": "An error occurred",
+  "@anErrorOccurred": {
+    "description": "Generic error fallback"
+  },
+  "searchEmptyPrompt": "Search for a Valorant player by Name#Tag or PUUID\n(e.g., Tenz#NA1)",
+  "@searchEmptyPrompt": {
+    "description": "Empty search prompt"
+  },
+  "regionPrefix": "Region: {region}",
+  "@regionPrefix": {
+    "description": "Region label",
+    "placeholders": {
+      "region": {
+        "type": "String"
+      }
+    }
+  },
+  "currentRankUpper": "CURRENT RANK",
+  "@currentRankUpper": {
+    "description": "Current rank upper label"
+  },
+  "lifetimePeak": "Lifetime Peak",
+  "@lifetimePeak": {
+    "description": "Lifetime peak label"
+  },
+  "mustBeLoggedInToSearch": "You must be logged in to perform search.",
+  "@mustBeLoggedInToSearch": {
+    "description": "Validation error"
+  },
+  "invalidNameTagFormat": "Invalid Name#Tag format. Example: Tenz#NA1",
+  "@invalidNameTagFormat": {
+    "description": "Validation error"
+  },
+  "enterValidNameTagOrPuuid": "Please enter a valid Name#Tag or 36-character PUUID",
+  "@enterValidNameTagOrPuuid": {
+    "description": "Validation error"
+  },
+  "playerNotFound": "Player not found. Double check their name/tag or PUUID.",
+  "@playerNotFound": {
+    "description": "Error message"
+  },
+  "refreshDataTooltip": "Refresh Data",
+  "@refreshDataTooltip": {
+    "description": "Tooltip"
+  },
+  "allWeekliesCompleted": "All weeklies completed!",
+  "@allWeekliesCompleted": {
+    "description": "Missions empty state"
+  },
+  "inWeeks": "in {count} {unit}",
+  "@inWeeks": {
+    "description": "Time until weekly mission unlocks",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "noActivePassAvailable": "No active pass available currently.",
+  "@noActivePassAvailable": {
+    "description": "Pass empty state"
+  },
+  "nextReward": "Next Reward",
+  "@nextReward": {
+    "description": "Next reward title"
+  },
+  "passLevelFormat": "Level {current} / {total}",
+  "@passLevelFormat": {
+    "description": "Pass level indicator",
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "xpForecastDaysFormat": "At this pace, ~{days} {days, plural, one {day} other {days}} to finish",
+  "@xpForecastDaysFormat": {
+    "description": "Estimated days remaining to finish the current battle pass tier/act, based on locally observed XP pace",
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "xpForecastRatePerDay": "~{xp} XP/day",
+  "@xpForecastRatePerDay": {
+    "description": "Locally observed average XP gain per day",
+    "placeholders": {
+      "xp": {
+        "type": "String"
+      }
+    }
+  },
+  "xpForecastGatheringData": "Gathering XP pace data — check back after a few sessions",
+  "@xpForecastGatheringData": {
+    "description": "Shown when not enough local XP history exists yet to forecast pass completion"
+  },
+  "unlockedLabel": "Unlocked",
+  "@unlockedLabel": {
+    "description": "Agent stat label"
+  },
+  "completedLabel": "Completed",
+  "@completedLabel": {
+    "description": "Agent stat label"
+  },
+  "manageLoadoutButton": "Manage Loadout",
+  "@manageLoadoutButton": {
+    "description": "Button label"
+  },
+  "competitiveQueueBan": "Competitive Queue Ban",
+  "@competitiveQueueBan": {
+    "description": "Ban banner title"
+  },
+  "matchmakingQueueBan": "Matchmaking Queue Ban",
+  "@matchmakingQueueBan": {
+    "description": "Ban banner title"
+  },
+  "communicationRestriction": "Communication Restriction",
+  "@communicationRestriction": {
+    "description": "Ban banner title"
+  },
+  "accountRestriction": "Account Restriction ({type})",
+  "@accountRestriction": {
+    "description": "Ban banner title",
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "startedPrefix": "Started: {time}",
+  "@startedPrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "expiresPrefix": "Expires: {time}",
+  "@expiresPrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "remainingTimePrefix": "Remaining Time: {time}",
+  "@remainingTimePrefix": {
+    "description": "Ban banner item",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "hoursAndMinutes": "{hours} hours and {minutes} minutes",
+  "@hoursAndMinutes": {
+    "description": "Duration text",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesOnly": "{minutes} minutes",
+  "@minutesOnly": {
+    "description": "Duration text",
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "noMatchesFoundForFilter": "No matches found for the selected filter",
+  "@noMatchesFoundForFilter": {
+    "description": "Empty list message"
+  },
+  "noMoreMatchesToLoad": "No more matches to load",
+  "@noMoreMatchesToLoad": {
+    "description": "List footer"
+  },
+  "matchHistoryTitle": "Match History",
+  "@matchHistoryTitle": {
+    "description": "Section title"
+  },
+  "queueEscalation": "Escalation",
+  "@queueEscalation": {
+    "description": "Queue mode name"
+  },
+  "queueReplication": "Replication",
+  "@queueReplication": {
+    "description": "Queue mode name"
+  },
+  "queueSnowballFight": "Snowball Fight",
+  "@queueSnowballFight": {
+    "description": "Queue mode name"
+  },
+  "queueTeamDeathmatch": "Team Deathmatch",
+  "@queueTeamDeathmatch": {
+    "description": "Queue mode name"
+  },
+  "queueRetake": "Retake",
+  "@queueRetake": {
+    "description": "Queue mode name"
+  },
+  "queueCustomUnknown": "Custom / Unknown",
+  "@queueCustomUnknown": {
+    "description": "Queue mode name"
+  },
+  "sessionExpiredOrNotLoggedIn": "Session expired or user not logged in",
+  "@sessionExpiredOrNotLoggedIn": {
+    "description": "Error message"
+  },
+  "failedToLoadMatchHistory": "Failed to load match history from Riot server",
+  "@failedToLoadMatchHistory": {
+    "description": "Error message"
+  },
+  "firstWinOfTheDay": "First Win of the Day",
+  "@firstWinOfTheDay": {
+    "description": "Card title"
+  },
+  "recentXpHeader": "Recent XP",
+  "@recentXpHeader": {
+    "description": "Card title"
+  },
+  "lastMatchesCount": "Last {count} matches",
+  "@lastMatchesCount": {
+    "description": "Subtitle",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRecentMatchHistoryFound": "No recent match history found.",
+  "@noRecentMatchHistoryFound": {
+    "description": "Empty message"
+  },
+  "showLess": "Show Less",
+  "@showLess": {
+    "description": "Toggle button"
+  },
+  "showMore": "Show More",
+  "@showMore": {
+    "description": "Toggle button"
+  },
+  "viewAgentContracts": "View Agent Contracts",
+  "@viewAgentContracts": {
+    "description": "Button label"
+  },
+  "failedToLoadMatches": "Failed to load matches.",
+  "@failedToLoadMatches": {
+    "description": "Error message"
+  },
+  "noMatchesFoundForMode": "No matches found for selected mode.",
+  "@noMatchesFoundForMode": {
+    "description": "Empty state"
+  },
+  "performanceLastMatches": "Performance (Last {count} matches)",
+  "@performanceLastMatches": {
+    "description": "Header title",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statKd": "K/D",
+  "@statKd": {
+    "description": "Stat label"
+  },
+  "statWinrate": "WIN %",
+  "@statWinrate": {
+    "description": "Stat label"
+  },
+  "statAcs": "ACS",
+  "@statAcs": {
+    "description": "Stat label"
+  },
+  "statHours": "HOURS",
+  "@statHours": {
+    "description": "Stat label"
+  },
+  "thisSession": "This Session",
+  "@thisSession": {
+    "description": "Toggle/label for stats gathered only since the app was opened"
+  },
+  "allTime": "All Time",
+  "@allTime": {
+    "description": "Toggle/label for cumulative stats across all recorded matches"
+  },
+  "sessionMatchesPlayed": "Matches Played",
+  "@sessionMatchesPlayed": {
+    "description": "Stat label for this-session match count"
+  },
+  "sessionRecordWinLoss": "{wins}W - {losses}L",
+  "@sessionRecordWinLoss": {
+    "description": "This-session win/loss record",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "losses": {
+        "type": "int"
+      }
+    }
+  },
+  "noMatchesThisSessionYet": "No matches played yet this session.",
+  "@noMatchesThisSessionYet": {
+    "description": "Empty state for this-session stats before any match has been played"
+  },
+  "statClutchRate": "CLUTCH %",
+  "@statClutchRate": {
+    "description": "Stat label for clutch round win rate"
+  },
+  "clutchDetectorTitle": "Clutch Detector",
+  "@clutchDetectorTitle": {
+    "description": "Section title for the clutch stat card"
+  },
+  "clutchDetectorSubtitle": "{wins} of {attempts} clutch rounds won",
+  "@clutchDetectorSubtitle": {
+    "description": "Subtitle showing clutch wins out of attempts",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "attempts": {
+        "type": "int"
+      }
+    }
+  },
+  "mostPlayedAgents": "Most Played Agents",
+  "@mostPlayedAgents": {
+    "description": "Section title"
+  },
+  "mapWinratePercent": "Map Winrate %",
+  "@mapWinratePercent": {
+    "description": "Section title"
+  },
+  "authenticatingWithRiot": "Authenticating with Riot...",
+  "@authenticatingWithRiot": {
+    "description": "Loading text"
+  },
+  "fetchingYourAccountDetails": "Fetching your account details",
+  "@fetchingYourAccountDetails": {
+    "description": "Loading subtitle"
+  },
+  "pleaseLoginFirstInSettings": "Please login first in Settings.",
+  "@pleaseLoginFirstInSettings": {
+    "description": "Empty state"
+  },
+  "favoriteItemInStoreBanner": "FAVORITE ITEM IN STORE!",
+  "@favoriteItemInStoreBanner": {
+    "description": "Banner text"
+  },
+  "errorLoadingBundles": "Error loading bundles: {error}",
+  "@errorLoadingBundles": {
+    "description": "Error state",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "blackMarket": "Black Market",
+  "@blackMarket": {
+    "description": "Header title"
+  },
+  "weeklyAccessories": "Weekly Accessories",
+  "@weeklyAccessories": {
+    "description": "Header title"
+  },
+  "dontShowAgain": "Don't show again",
+  "@dontShowAgain": {
+    "description": "Checkbox label"
+  },
+  "closeButton": "Close",
+  "@closeButton": {
+    "description": "Button label"
+  },
+  "skinFallbackName": "Skin {id}",
+  "@skinFallbackName": {
+    "description": "Fallback skin title",
+    "placeholders": {
+      "id": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelectWithQueue": "Agent Select • {queue}",
+  "@agentSelectWithQueue": {
+    "description": "Status title",
+    "placeholders": {
+      "queue": {
+        "type": "String"
+      }
+    }
+  },
+  "agentSelect": "Agent Select",
+  "@agentSelect": {
+    "description": "Status title"
+  },
+  "inMatch": "In Match",
+  "@inMatch": {
+    "description": "Status title"
+  },
+  "partyMembersHeader": "PARTY MEMBERS ({count}/5)",
+  "@partyMembersHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "enemyTeamHeader": "ENEMY TEAM ({count})",
+  "@enemyTeamHeader": {
+    "description": "Section header",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "performanceStatsHeader": "PERFORMANCE STATS",
+  "@performanceStatsHeader": {
+    "description": "Section header"
+  },
+  "competitiveRankHeader": "COMPETITIVE RANK",
+  "@competitiveRankHeader": {
+    "description": "Section header"
+  },
+  "noPartyDetailsAvailable": "No party details available. Are you logged in?",
+  "@noPartyDetailsAvailable": {
+    "description": "Empty state"
+  },
+  "noServersAvailable": "No servers available",
+  "@noServersAvailable": {
+    "description": "Empty state"
+  },
+  "loadoutUnavailableOrPrivate": "Loadout unavailable or private",
+  "@loadoutUnavailableOrPrivate": {
+    "description": "Loadout empty state"
+  },
+  "copiedPlayerNameToClipboard": "Copied \"{name}\" to clipboard!",
+  "@copiedPlayerNameToClipboard": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "friendRequestSentTo": "Friend request sent to {user}!",
+  "@friendRequestSentTo": {
+    "description": "Snackbar message",
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "partyAccessibility": "Party Accessibility",
+  "@partyAccessibility": {
+    "description": "Modal title"
+  },
+  "matchType": "Match Type",
+  "@matchType": {
+    "description": "Modal title"
+  },
+  "generateButton": "Generate",
+  "@generateButton": {
+    "description": "Button label"
+  },
+  "applyButton": "Apply",
+  "@applyButton": {
+    "description": "Button label"
+  },
+  "disabledLabel": "Disabled",
+  "@disabledLabel": {
+    "description": "Status label"
+  },
+  "featuredBundles": "Featured Bundles",
+  "@featuredBundles": {
+    "description": "Section title"
+  },
+  "freeLabel": "Free",
+  "@freeLabel": {
+    "description": "Price label for free item"
+  },
+  "noInternetTitle": "No Internet Connection",
+  "@noInternetTitle": {
+    "description": "Error title"
+  },
+  "noInternetDescription": "Please check your connection and try again.",
+  "@noInternetDescription": {
+    "description": "Error subtitle"
+  },
+  "currentMatch": "Current Match",
+  "@currentMatch": {
+    "description": "Party phase title"
+  },
+  "matchmaking": "Matchmaking",
+  "@matchmaking": {
+    "description": "Party phase title"
+  },
+  "copyPlayerName": "Copy Player Name",
+  "@copyPlayerName": {
+    "description": "Action title"
+  },
+  "showLoadout": "Show Loadout",
+  "@showLoadout": {
+    "description": "Action title"
+  },
+  "inspectEquippedWeaponSkins": "Inspect equipped weapon skins",
+  "@inspectEquippedWeaponSkins": {
+    "description": "Action subtitle"
+  },
+  "sendRequest": "Send Request",
+  "@sendRequest": {
+    "description": "Button label"
+  },
+  "startMatch": "START MATCH",
+  "@startMatch": {
+    "description": "Button label"
+  },
+  "kdLabel": "K/D",
+  "@kdLabel": {
+    "description": "Stat label"
+  },
+  "hsLabel": "HS%",
+  "@hsLabel": {
+    "description": "Stat label"
+  },
+  "kastLabel": "KAST",
+  "@kastLabel": {
+    "description": "Stat label"
+  },
+  "winPercentLabel": "WIN%",
+  "@winPercentLabel": {
+    "description": "Stat label"
+  },
+  "tagLineHint": "Tag (e.g. NA1)",
+  "@tagLineHint": {
+    "description": "Input hint"
+  },
+  "gameNameHint": "Game Name (e.g. TenZ)",
+  "@gameNameHint": {
+    "description": "Input hint"
+  },
+  "openToFriends": "Open to friends",
+  "@openToFriends": {
+    "description": "Party accessibility status"
+  },
+  "closedInviteOnly": "Closed / Invite Only",
+  "@closedInviteOnly": {
+    "description": "Party accessibility status"
+  },
+  "automaticSelection": "Automatic Selection",
+  "@automaticSelection": {
+    "description": "Server selection status"
+  },
+  "serversSelectedCount": "{selected} / {total} Selected ({servers})",
+  "@serversSelectedCount": {
+    "description": "Server selection count",
+    "placeholders": {
+      "selected": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      },
+      "servers": {
+        "type": "String"
+      }
+    }
+  },
+  "invitedPlayerToParty": "Invited {player} to party!",
+  "@invitedPlayerToParty": {
+    "description": "Party invite success",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "failedToInvitePlayer": "Failed to invite {player}",
+  "@failedToInvitePlayer": {
+    "description": "Party invite error",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "viewingPreferredPodsInfo": "Viewing preferred pods. Only the leader can modify them.",
+  "@viewingPreferredPodsInfo": {
+    "description": "Server selection helper text"
+  },
+  "readyStatus": "READY",
+  "@readyStatus": {
+    "description": "Ready status"
+  },
+  "notReadyStatus": "NOT READY",
+  "@notReadyStatus": {
+    "description": "Not ready status"
+  },
+  "allyLabel": "ALLY",
+  "@allyLabel": {
+    "description": "Ally tag"
+  },
+  "enemyLabel": "ENEMY",
+  "@enemyLabel": {
+    "description": "Enemy tag"
+  },
+  "gameNameLabel": "Game Name",
+  "@gameNameLabel": {
+    "description": "Input label"
+  },
+  "taglineLabel": "Tagline",
+  "@taglineLabel": {
+    "description": "Input label"
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Cancel button text"
+  },
+  "genericError": "Error: {error}",
+  "@genericError": {
+    "description": "Generic error display",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "unknownItem": "Unknown item",
+  "@unknownItem": {
+    "description": "Fallback unknown item"
+  },
+  "notLoggedIn": "Not logged in",
+  "@notLoggedIn": {
+    "description": "Not logged in status"
+  },
+  "openProfileButton": "Open Profile",
+  "@openProfileButton": {
+    "description": "Button / Tile title to open profile"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start label"
+  },
+  "standardWeaponSkin": "Standard {weapon}",
+  "@standardWeaponSkin": {
+    "description": "Standard weapon skin name",
+    "placeholders": {
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseSkinTitle": "Choose Skin",
+  "@chooseSkinTitle": {
+    "description": "Choose skin screen title"
+  },
+  "gunBuddyTitle": "Gun Buddy",
+  "@gunBuddyTitle": {
+    "description": "Gun buddy title"
+  },
+  "chooseBuddyTitle": "Choose Buddy",
+  "@chooseBuddyTitle": {
+    "description": "Choose buddy screen title"
+  },
+  "languageTitle": "Language",
+  "@languageTitle": {
+    "description": "Title for language setting option"
+  },
+  "languageSubtitle": "Select app language",
+  "@languageSubtitle": {
+    "description": "Subtitle for language setting option"
+  },
+  "selectLanguageTitle": "Select Language",
+  "@selectLanguageTitle": {
+    "description": "Title for language selection modal"
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language name"
+  },
+  "languageTamil": "தமிழ்",
+  "@languageTamil": {
+    "description": "Tamil language name"
+  },
+  "languageTamilSubtitle": "Tamil",
+  "@languageTamilSubtitle": {
+    "description": "Subtitle for Tamil language option"
+  },
+  "languageEnglishSubtitle": "English",
+  "@languageEnglishSubtitle": {
+    "description": "Subtitle for English language option"
+  },
+  "languageSystemDefault": "System Default",
+  "@languageSystemDefault": {
+    "description": "System default language option"
+  },
+  "languageSystemDefaultSubtitle": "Follow device language",
+  "@languageSystemDefaultSubtitle": {
+    "description": "Subtitle for system default language option"
+  },
+  "roundBreakdownButton": "Round-by-Round Breakdown",
+  "@roundBreakdownButton": {
+    "description": "Button to open the round-by-round breakdown screen from match details"
+  },
+  "roundBreakdownTitle": "Round-by-Round",
+  "@roundBreakdownTitle": {
+    "description": "Title of the round-by-round breakdown screen"
+  },
+  "roundNumberFormat": "Round {number}",
+  "@roundNumberFormat": {
+    "description": "Round number label",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "roundWonByFormat": "{team} won",
+  "@roundWonByFormat": {
+    "description": "Label showing which team won a round",
+    "placeholders": {
+      "team": {
+        "type": "String"
+      }
+    }
+  },
+  "roundReasonElimination": "Elimination",
+  "@roundReasonElimination": {
+    "description": "Round end reason: all enemies eliminated"
+  },
+  "roundReasonDetonate": "Bomb Detonated",
+  "@roundReasonDetonate": {
+    "description": "Round end reason: spike detonated"
+  },
+  "roundReasonDefuse": "Bomb Defused",
+  "@roundReasonDefuse": {
+    "description": "Round end reason: spike defused"
+  },
+  "roundReasonTime": "Time Expired",
+  "@roundReasonTime": {
+    "description": "Round end reason: round timer expired"
+  },
+  "roundReasonSurrendered": "Surrendered",
+  "@roundReasonSurrendered": {
+    "description": "Round end reason: match surrendered"
+  },
+  "roundReasonUnknown": "Unknown",
+  "@roundReasonUnknown": {
+    "description": "Round end reason: could not be determined"
+  },
+  "killFeedFormat": "{killer} → {victim} ({weapon})",
+  "@killFeedFormat": {
+    "description": "Compact kill feed entry: killer to victim with weapon",
+    "placeholders": {
+      "killer": {
+        "type": "String"
+      },
+      "victim": {
+        "type": "String"
+      },
+      "weapon": {
+        "type": "String"
+      }
+    }
+  },
+  "noKillsThisRound": "No kills recorded this round",
+  "@noKillsThisRound": {
+    "description": "Empty state shown when a round has no kill feed data"
+  },
+  "noRoundDataAvailable": "No round-by-round data available for this match",
+  "@noRoundDataAvailable": {
+    "description": "Empty state shown when the match has no roundResults data"
+  },
+  "plantedByFormat": "Spike planted by {player}",
+  "@plantedByFormat": {
+    "description": "Label showing who planted the spike in a round",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "defusedByFormat": "Spike defused by {player}",
+  "@defusedByFormat": {
+    "description": "Label showing who defused the spike in a round",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      }
+    }
+  },
+  "nightMarketAlertSettingTitle": "Night Market Alerts",
+  "@nightMarketAlertSettingTitle": {
+    "description": "Settings item title for the Night Market notification toggle"
+  },
+  "nightMarketAlertSettingSubtitle": "Notify me when the Night Market opens",
+  "@nightMarketAlertSettingSubtitle": {
+    "description": "Settings item subtitle for the Night Market notification toggle"
+  },
+  "nightMarketNotificationTitle": "Night Market is open!",
+  "@nightMarketNotificationTitle": {
+    "description": "Title of the local notification fired when the Night Market appears in the storefront"
+  },
+  "nightMarketNotificationBody": "The Night Market has arrived. Check out the discounted skins before it's gone.",
+  "@nightMarketNotificationBody": {
+    "description": "Body of the local notification fired when the Night Market appears in the storefront"
+  },
+  "bundleSkinCoverage": "You already own {owned}/{total} skins in this bundle",
+  "@bundleSkinCoverage": {
+    "description": "Shown on the bundle detail screen: how many of the bundle's skins the player already owns, out of the total number of skins in the bundle",
+    "placeholders": {
+      "owned": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "skinWishlistTitle": "Shop Skin Wishlist",
+  "@skinWishlistTitle": {
+    "description": "Title of the screen listing skins the user has wishlisted, and tooltip for the button that opens it"
+  },
+  "noWishlistedSkinsYet": "Tap the star on a shop skin to get notified when it's back.",
+  "@noWishlistedSkinsYet": {
+    "description": "Empty-state message shown on the Shop Skin Wishlist screen when nothing is wishlisted yet"
+  },
+  "wishlistSkinInShopTitle": "Wishlisted skin in today's shop",
+  "@wishlistSkinInShopTitle": {
+    "description": "Title of the local notification fired when a wishlisted skin appears in the daily shop rotation"
+  },
+  "wishlistSkinInShopBody": "{skinName} is available in your shop today!",
+  "@wishlistSkinInShopBody": {
+    "description": "Body of the local notification fired when a wishlisted skin appears in the daily shop rotation",
+    "placeholders": {
+      "skinName": {
+        "type": "String"
+      }
+    }
+  },
+  "matchTabSummary": "Summary",
+  "@matchTabSummary": {
+    "description": "Match details tab: overview/summary"
+  },
+  "matchTabScoreboard": "Scoreboard",
+  "@matchTabScoreboard": {
+    "description": "Match details tab: full team scoreboard"
+  },
+  "matchTabRounds": "Rounds",
+  "@matchTabRounds": {
+    "description": "Match details tab: round-by-round breakdown"
+  },
+  "matchTabDuels": "Duels",
+  "@matchTabDuels": {
+    "description": "Match details tab: head-to-head kill/death record vs each opponent"
+  },
+  "matchTabPerformance": "Performance",
+  "@matchTabPerformance": {
+    "description": "Match details tab: round-by-round performance chart"
+  },
+  "matchTabEconomy": "Economy",
+  "@matchTabEconomy": {
+    "description": "Match details tab: round-by-round buy/economy breakdown"
+  },
+  "lobbyAverageHeader": "Lobby Comparison",
+  "@lobbyAverageHeader": {
+    "description": "Section header comparing the player's stats against the lobby average"
+  },
+  "adr": "ADR",
+  "@adr": {
+    "description": "Abbreviation for Average Damage per Round"
+  },
+  "hsPercent": "HS%",
+  "@hsPercent": {
+    "description": "Abbreviation for Headshot Percentage"
+  },
+  "kast": "KAST",
+  "@kast": {
+    "description": "Abbreviation for Kill/Assist/Survive/Trade percentage"
+  },
+  "kdHeader": "K/D",
+  "@kdHeader": {
+    "description": "Abbreviation for Kill/Death ratio"
+  },
+  "fkPerRoundHeader": "FK/Round",
+  "@fkPerRoundHeader": {
+    "description": "Abbreviation for First Kills per Round"
+  },
+  "lobbyAvgFormat": "Lobby avg: {value}",
+  "@lobbyAvgFormat": {
+    "description": "Shows the lobby average value for a stat inside an accordion",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "betterThanPercentFormat": "Better than {percent}% of this lobby",
+  "@betterThanPercentFormat": {
+    "description": "Shows the player's percentile rank for a stat among the 10 players in the match",
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "halvesHeader": "Attack vs Defense",
+  "@halvesHeader": {
+    "description": "Section header for the attack/defense half split"
+  },
+  "attackHalf": "Attack",
+  "@attackHalf": {
+    "description": "Label for the attacking side of a Valorant match"
+  },
+  "defenseHalf": "Defense",
+  "@defenseHalf": {
+    "description": "Label for the defending side of a Valorant match"
+  },
+  "plantsStat": "Plants",
+  "@plantsStat": {
+    "description": "Stat label: number of spike plants"
+  },
+  "defusesStat": "Defuses",
+  "@defusesStat": {
+    "description": "Stat label: number of spike defuses"
+  },
+  "firstBloodsStat": "First Bloods",
+  "@firstBloodsStat": {
+    "description": "Stat label: number of rounds where the player got the first kill"
+  },
+  "firstDeathsStat": "First Deaths",
+  "@firstDeathsStat": {
+    "description": "Stat label: number of rounds where the player died first"
+  },
+  "matchHighlightsHeader": "Match Highlights",
+  "@matchHighlightsHeader": {
+    "description": "Section header listing clutches and multikills"
+  },
+  "clutchWonFormat": "Clutch Won • 1v{enemies} • Round {round}",
+  "@clutchWonFormat": {
+    "description": "Describes a won clutch round",
+    "placeholders": {
+      "enemies": {
+        "type": "int"
+      },
+      "round": {
+        "type": "int"
+      }
+    }
+  },
+  "clutchLostFormat": "Clutch Lost • 1v{enemies} • Round {round}",
+  "@clutchLostFormat": {
+    "description": "Describes a lost clutch round",
+    "placeholders": {
+      "enemies": {
+        "type": "int"
+      },
+      "round": {
+        "type": "int"
+      }
+    }
+  },
+  "multiKillFormat": "{count}K • Round {round}",
+  "@multiKillFormat": {
+    "description": "Describes a multikill round, e.g. 3K in Round 5",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "round": {
+        "type": "int"
+      }
+    }
+  },
+  "noHighlightsAvailable": "No multikills or clutches this match",
+  "@noHighlightsAvailable": {
+    "description": "Shown when the player had no clutches or multikills"
+  },
+  "duelsHeader": "Head-to-Head",
+  "@duelsHeader": {
+    "description": "Section header for the duels tab"
+  },
+  "duelsSubtitle": "Your kills and deaths against each opponent",
+  "@duelsSubtitle": {
+    "description": "Subtitle explaining the duels tab"
+  },
+  "netFormat": "Net {value}",
+  "@netFormat": {
+    "description": "Net kills minus deaths against one opponent",
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "noDuelsAvailable": "No duel data available for this match",
+  "@noDuelsAvailable": {
+    "description": "Shown when there is no kill data to build a duels matrix"
+  },
+  "performanceHeader": "Round-by-Round Performance",
+  "@performanceHeader": {
+    "description": "Section header for the performance tab"
+  },
+  "economyHeader": "Round Economy",
+  "@economyHeader": {
+    "description": "Section header for the economy tab"
+  },
+  "economyOverviewLabel": "Match Economy",
+  "@economyOverviewLabel": {
+    "description": "Header for the per-round buy-type vs win/loss chart on the round detail screen"
+  },
+  "pistolRoundLabel": "PISTOL",
+  "@pistolRoundLabel": {
+    "description": "Badge label for a pistol round"
+  },
+  "loadoutValueLabel": "Loadout",
+  "@loadoutValueLabel": {
+    "description": "Label for a player's total loadout value in a round"
+  },
+  "spentLabel": "Spent",
+  "@spentLabel": {
+    "description": "Label for credits spent in a round"
+  },
+  "buyTypeEco": "ECO",
+  "@buyTypeEco": {
+    "description": "Buy-type badge for an eco (low buy) round"
+  },
+  "buyTypeSemi": "SEMI",
+  "@buyTypeSemi": {
+    "description": "Buy-type badge for a semi-buy round"
+  },
+  "buyTypeBonus": "BONUS",
+  "@buyTypeBonus": {
+    "description": "Buy-type badge for a bonus/force round"
+  },
+  "buyTypeFull": "FULL",
+  "@buyTypeFull": {
+    "description": "Buy-type badge for a full-buy round"
+  },
+  "serverLabel": "Server",
+  "@serverLabel": {
+    "description": "Label for the game server/region name in the match summary card"
+  },
+  "deathsStat": "Deaths",
+  "@deathsStat": {
+    "description": "Stat label: number of deaths"
+  },
+  "displaySettingsTitle": "Display",
+  "@displaySettingsTitle": {
+    "description": "Title of the global display/metrics format settings screen"
+  },
+  "displaySettingsSubtitle": "Date, time, and number format",
+  "@displaySettingsSubtitle": {
+    "description": "Subtitle for the display settings entry in the settings list"
+  },
+  "dateFormatSectionTitle": "Date Format",
+  "@dateFormatSectionTitle": {
+    "description": "Section header for choosing the date format"
+  },
+  "timeFormatSectionTitle": "Time Format",
+  "@timeFormatSectionTitle": {
+    "description": "Section header for choosing 12h vs 24h time"
+  },
+  "numberFormatSectionTitle": "Number Format",
+  "@numberFormatSectionTitle": {
+    "description": "Section header for choosing thousands-grouped vs plain numbers"
+  },
+  "hiddenPlayerName": "Hidden Player",
+  "@hiddenPlayerName": {
+    "description": "Placeholder shown for a match participant whose name Riot redacted (privacy setting) and the name-service lookup couldn't resolve either"
+  },
+  "statAbbreviationsHeader": "What do these mean?",
+  "@statAbbreviationsHeader": {
+    "description": "Header for the glossary of stat abbreviations at the bottom of the Summary tab"
+  },
+  "abbrAcsFull": "Average Combat Score",
+  "@abbrAcsFull": {
+    "description": "Full name of the ACS abbreviation"
+  },
+  "abbrAdrFull": "Average Damage per Round",
+  "@abbrAdrFull": {
+    "description": "Full name of the ADR abbreviation"
+  },
+  "abbrHsFull": "Headshot Percentage",
+  "@abbrHsFull": {
+    "description": "Full name of the HS% abbreviation"
+  },
+  "abbrKastFull": "Kill, Assist, Survive, or Trade — % of rounds you contributed in",
+  "@abbrKastFull": {
+    "description": "Full name/explanation of the KAST abbreviation"
+  },
+  "abbrKdFull": "Kill / Death Ratio",
+  "@abbrKdFull": {
+    "description": "Full name of the K/D abbreviation"
+  },
+  "abbrFkFull": "First Kills per Round",
+  "@abbrFkFull": {
+    "description": "Full name of the FK/Round abbreviation"
+  },
+  "openProfileAction": "Open Profile",
+  "@openProfileAction": {
+    "description": "Button label to open a player's profile"
+  },
+  "myTeamLabel": "My Team",
+  "@myTeamLabel": {
+    "description": "Label for the viewer's own team in the scoreboard"
+  },
+  "enemyTeamLabel": "Enemy Team",
+  "@enemyTeamLabel": {
+    "description": "Label for the opposing team in the scoreboard"
+  },
+  "sortByLabel": "Sort by",
+  "@sortByLabel": {
+    "description": "Label for the scoreboard sort dropdown"
+  },
+  "focusedPlayerLabel": "Focused player",
+  "@focusedPlayerLabel": {
+    "description": "Label for the dropdown that changes which player's stats are highlighted across tabs"
+  },
+  "topRivalryHeader": "Top Rivalry",
+  "@topRivalryHeader": {
+    "description": "Header for the pair of players with the most kills exchanged between them"
+  },
+  "biggestMismatchHeader": "Biggest Mismatch",
+  "@biggestMismatchHeader": {
+    "description": "Header for the pair of players with the most lopsided kill record between them"
+  },
+  "allDuelsHeader": "All Duels",
+  "@allDuelsHeader": {
+    "description": "Header for the full head-to-head duel list"
+  },
+  "roundsOverviewHeader": "Kills per Round",
+  "@roundsOverviewHeader": {
+    "description": "Header for the mirrored kills-per-round chart in the Rounds tab"
+  },
+  "roundDetailsTitle": "Round Details",
+  "@roundDetailsTitle": {
+    "description": "Title of the full-screen round details page"
+  },
+  "roundOfTotalFormat": "Round {round} of {total}",
+  "@roundOfTotalFormat": {
+    "description": "Header showing which round is being viewed out of the total",
+    "placeholders": {
+      "round": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "plantedAtFormat": "{player} planted at {time}",
+  "@plantedAtFormat": {
+    "description": "Describes when and who planted the spike in round details",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "defusedAtFormat": "{player} defused at {time}",
+  "@defusedAtFormat": {
+    "description": "Describes when and who defused the spike in round details",
+    "placeholders": {
+      "player": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "explodedAtFormat": "Spike exploded at {time}",
+  "@explodedAtFormat": {
+    "description": "Describes when the spike detonated in round details",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "spikeNotPlanted": "Spike not planted",
+  "@spikeNotPlanted": {
+    "description": "Shown on the round details map when the spike was never planted this round"
+  },
+  "roundEventCountFormat": "{count} events",
+  "@roundEventCountFormat": {
+    "description": "Shown below the round timeline when no event is selected, counting kills/plant/defuse/explosion",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "multiKillChipFormat": "{count}K",
+  "@multiKillChipFormat": {
+    "description": "Compact chip label for a multikill round, e.g. 3K",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "clutchChipWonFormat": "1v{enemies} W",
+  "@clutchChipWonFormat": {
+    "description": "Compact chip label for a won clutch round",
+    "placeholders": {
+      "enemies": {
+        "type": "int"
+      }
+    }
+  },
+  "clutchChipLostFormat": "1v{enemies} L",
+  "@clutchChipLostFormat": {
+    "description": "Compact chip label for a lost clutch round",
+    "placeholders": {
+      "enemies": {
+        "type": "int"
+      }
+    }
+  },
+  "noChipsAvailable": "No multikills or clutches",
+  "@noChipsAvailable": {
+    "description": "Shown in the scoreboard accordion when a player had no multikill/clutch highlights"
+  },
+  "unrated": "Unrated",
+  "@unrated": {
+    "description": "Shown for a player with no competitive rank"
+  },
+  "autoLoadoutTestRulesTooltip": "Test Rules",
+  "@autoLoadoutTestRulesTooltip": {
+    "description": "Tooltip for the app bar action that opens the auto loadout rule tester"
+  },
+  "autoLoadoutTestRulesTitle": "Test Auto Loadout Rules",
+  "@autoLoadoutTestRulesTitle": {
+    "description": "Title of the auto loadout rule tester dialog"
+  },
+  "autoLoadoutTestRulesDescription": "Pick a map and/or agent to preview which rule would auto-apply.",
+  "@autoLoadoutTestRulesDescription": {
+    "description": "Description in the auto loadout rule tester dialog"
+  },
+  "autoLoadoutTestRulesEmpty": "Create at least one map or agent rule first to test it.",
+  "@autoLoadoutTestRulesEmpty": {
+    "description": "Snackbar shown when there are no rules to test"
+  },
+  "autoLoadoutTestRulesAgentLabel": "Agent",
+  "@autoLoadoutTestRulesAgentLabel": {
+    "description": "Label for the agent dropdown in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesMapLabel": "Map",
+  "@autoLoadoutTestRulesMapLabel": {
+    "description": "Label for the map dropdown in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesNone": "None",
+  "@autoLoadoutTestRulesNone": {
+    "description": "Option to select no map/agent in the rule tester dialog"
+  },
+  "autoLoadoutTestRulesResultMatch": "Would apply \"{presetName}\" ({targetName})",
+  "@autoLoadoutTestRulesResultMatch": {
+    "description": "Result shown when a rule matches in the tester dialog",
+    "placeholders": {
+      "presetName": {
+        "type": "String"
+      },
+      "targetName": {
+        "type": "String"
+      }
+    }
+  },
+  "autoLoadoutTestRulesResultNoMatch": "No enabled rule matches this combination.",
+  "@autoLoadoutTestRulesResultNoMatch": {
+    "description": "Result shown when no rule matches in the tester dialog"
+  },
+  "autoLoadoutTestRulesClose": "Close",
+  "@autoLoadoutTestRulesClose": {
+    "description": "Close button in the rule tester dialog"
+  },
+  "autoLoadoutConflictPreferenceTitle": "When Map and Agent rules disagree",
+  "@autoLoadoutConflictPreferenceTitle": {
+    "description": "Title for the conflict-resolution preference control on the Auto Loadouts screen"
+  },
+  "autoLoadoutConflictPreferenceSubtitle": "Choose which rule wins automatically, or keep being asked each match",
+  "@autoLoadoutConflictPreferenceSubtitle": {
+    "description": "Subtitle explaining the conflict-resolution preference control"
+  },
+  "autoLoadoutConflictPreferenceAsk": "Ask me",
+  "@autoLoadoutConflictPreferenceAsk": {
+    "description": "Conflict preference option: show the picker every time"
+  },
+  "autoLoadoutConflictPreferenceAgent": "Agent",
+  "@autoLoadoutConflictPreferenceAgent": {
+    "description": "Conflict preference option: the Agent rule always wins"
+  },
+  "autoLoadoutConflictPreferenceMap": "Map",
+  "@autoLoadoutConflictPreferenceMap": {
+    "description": "Conflict preference option: the Map rule always wins"
+  },
+  "autoLoadoutConflictPreferenceSummaryAsk": "Ask me each match",
+  "@autoLoadoutConflictPreferenceSummaryAsk": {
+    "description": "Collapsed summary line when the conflict preference is set to ask every time"
+  },
+  "autoLoadoutConflictPreferenceSummaryAgent": "Agent rule always wins",
+  "@autoLoadoutConflictPreferenceSummaryAgent": {
+    "description": "Collapsed summary line when the conflict preference is set to always prefer the Agent rule"
+  },
+  "autoLoadoutConflictPreferenceSummaryMap": "Map rule always wins",
+  "@autoLoadoutConflictPreferenceSummaryMap": {
+    "description": "Collapsed summary line when the conflict preference is set to always prefer the Map rule"
+  },
+  "autoLoadoutTestRulesResultConflictAsk": "Two rules match — you'd be asked to pick between \"{agentPresetName}\" ({agentTargetName}) and \"{mapPresetName}\" ({mapTargetName}).",
+  "@autoLoadoutTestRulesResultConflictAsk": {
+    "description": "Result shown in the rule tester when both an Agent and a Map rule match but disagree, and the conflict preference is set to ask",
+    "placeholders": {
+      "agentPresetName": {
+        "type": "String"
+      },
+      "agentTargetName": {
+        "type": "String"
+      },
+      "mapPresetName": {
+        "type": "String"
+      },
+      "mapTargetName": {
+        "type": "String"
+      }
+    }
+  },
+  "importPresetPreviewTitle": "Confirm Import",
+  "@importPresetPreviewTitle": {
+    "description": "Title of the preview shown before an imported preset code is saved"
+  },
+  "importPresetPreviewSubtitle": "Review the weapons and skins in this shared preset before adding it to your saved presets",
+  "@importPresetPreviewSubtitle": {
+    "description": "Subtitle explaining the imported preset preview lets the user check contents before confirming"
+  },
+  "importPresetCancel": "Cancel",
+  "@importPresetCancel": {
+    "description": "Button to discard an imported preset code without saving it"
+  },
+  "importPresetConfirm": "Import Preset",
+  "@importPresetConfirm": {
+    "description": "Button to confirm saving the previewed imported preset"
+  },
+  "shopHistoryNotSeenRecentlyHeader": "Not Seen Recently",
+  "@shopHistoryNotSeenRecentlyHeader": {
+    "description": "Section header for skins seen before but absent from the shop for a while"
+  },
+  "shopHistoryNotSeenRecentlySubtitle": "Skins from your history that haven't shown up lately",
+  "@shopHistoryNotSeenRecentlySubtitle": {
+    "description": "Section subtitle explaining the not-seen-recently list"
+  },
+  "shopHistoryLastSeenDaysAgo": "Last seen {count}d ago",
+  "@shopHistoryLastSeenDaysAgo": {
+    "description": "Badge showing how many days since a skin last appeared in the shop",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "collectionValueTileTitle": "Collection Value",
+  "@collectionValueTileTitle": {
+    "description": "Title for the profile tile that opens the collection value screen"
+  },
+  "collectionValueTileSubtitle": "See your collection's net worth",
+  "@collectionValueTileSubtitle": {
+    "description": "Subtitle for the profile tile that opens the collection value screen"
+  },
+  "collectionValueScreenTitle": "Collection Value",
+  "@collectionValueScreenTitle": {
+    "description": "App bar title for the collection value screen"
+  },
+  "collectionValueTotalLabel": "Collection Net Worth",
+  "@collectionValueTotalLabel": {
+    "description": "Label above the total VP value of the player's collection"
+  },
+  "collectionValueSkinsOwnedLabel": "{count} skins owned",
+  "@collectionValueSkinsOwnedLabel": {
+    "description": "Shows how many unique skins the player owns",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "shopHistoryNewBadge": "New!",
+  "@shopHistoryNewBadge": {
+    "description": "Badge shown on a daily shop tile for a skin with no prior recorded appearance in the local shop rotation history"
+  },
+  "collectionValueBreakdownTitle": "Rarity Breakdown",
+  "@collectionValueBreakdownTitle": {
+    "description": "Section title for the per-rarity breakdown of the collection"
+  },
+  "collectionValueEmptyTitle": "No Skins Found",
+  "@collectionValueEmptyTitle": {
+    "description": "Title shown when the player owns no tracked skins"
+  },
+  "collectionValueEmptyMessage": "We couldn't find any owned skins to value yet. Try again after your inventory has synced.",
+  "@collectionValueEmptyMessage": {
+    "description": "Message shown when the player owns no tracked skins"
+  },
+  "collectionValueErrorMessage": "Couldn't compute your collection value: {error}",
+  "@collectionValueErrorMessage": {
+    "description": "Error message shown when computing collection value fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "collectionValueRetry": "Retry",
+  "@collectionValueRetry": {
+    "description": "Retry button label for the collection value screen"
+  },
+  "collectionValueTierSelect": "Select",
+  "@collectionValueTierSelect": {
+    "description": "Fallback name for the Select content tier"
+  },
+  "collectionValueTierDeluxe": "Deluxe",
+  "@collectionValueTierDeluxe": {
+    "description": "Fallback name for the Deluxe content tier"
+  },
+  "collectionValueTierPremium": "Premium",
+  "@collectionValueTierPremium": {
+    "description": "Fallback name for the Premium content tier"
+  },
+  "collectionValueTierUltra": "Ultra",
+  "@collectionValueTierUltra": {
+    "description": "Fallback name for the Ultra content tier"
+  },
+  "collectionValueTierExclusive": "Exclusive",
+  "@collectionValueTierExclusive": {
+    "description": "Fallback name for the Exclusive content tier"
+  },
+  "collectionValueCountAndValue": "{count} × {value} VP",
+  "@collectionValueCountAndValue": {
+    "description": "Shows owned count multiplied by unit price for a rarity row",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "collectionValueDisclaimer": "Estimated using each skin's standard rarity price. Actual resale is not possible in VALORANT.",
+  "@collectionValueDisclaimer": {
+    "description": "Disclaimer explaining how collection value is estimated"
+  },
+  "leaderboardTileTitle": "Leaderboard",
+  "@leaderboardTileTitle": {
+    "description": "Title for the Hub tile that opens the competitive leaderboard screen"
+  },
+  "leaderboardTileSubtitle": "See the top-ranked players this act",
+  "@leaderboardTileSubtitle": {
+    "description": "Subtitle for the Hub tile that opens the competitive leaderboard screen"
+  },
+  "leaderboardTitle": "Leaderboard",
+  "@leaderboardTitle": {
+    "description": "App bar title for the leaderboard screen"
+  },
+  "leaderboardTotalPlayers": "{count} players",
+  "@leaderboardTotalPlayers": {
+    "description": "Shows the total number of ranked players on the leaderboard",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardWinsFormat": "{count} wins",
+  "@leaderboardWinsFormat": {
+    "description": "Shows a leaderboard player's win count",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardRrFormat": "{rr} RR",
+  "@leaderboardRrFormat": {
+    "description": "Shows a leaderboard player's Rank Rating",
+    "placeholders": {
+      "rr": {
+        "type": "int"
+      }
+    }
+  },
+  "leaderboardNoActiveAct": "No leaderboard is available for the current act yet.",
+  "@leaderboardNoActiveAct": {
+    "description": "Shown when there's no active competitive act or its leaderboard hasn't been published yet"
+  },
+  "leaderboardLoadFailed": "Couldn't load the leaderboard. Check your connection and try again.",
+  "@leaderboardLoadFailed": {
+    "description": "Shown when the leaderboard fails to load"
+  },
+  "leaderboardResetFilters": "Reset to my region & season",
+  "@leaderboardResetFilters": {
+    "description": "Tooltip for the button that resets leaderboard filters to the account's own region and the current act"
+  },
+  "leaderboardSearchHint": "Search a player…",
+  "@leaderboardSearchHint": {
+    "description": "Placeholder for the leaderboard player name search field"
+  },
+  "leaderboardRegionLabel": "Region",
+  "@leaderboardRegionLabel": {
+    "description": "Label for the leaderboard region/shard filter dropdown"
+  },
+  "leaderboardSeasonLabel": "Season",
+  "@leaderboardSeasonLabel": {
+    "description": "Label for the leaderboard season/act filter dropdown"
+  },
+  "leaderboardCurrentSeason": "Current",
+  "@leaderboardCurrentSeason": {
+    "description": "Hint shown in the season dropdown before a specific act is chosen, meaning the currently active act"
+  },
+  "careerStatsTileTitle": "Career Stats",
+  "@careerStatsTileTitle": {
+    "description": "Title for the profile tile that opens the Career Stats screen"
+  },
+  "careerStatsTileSubtitle": "Overall stats, act-wise summary, and competitive record",
+  "@careerStatsTileSubtitle": {
+    "description": "Subtitle for the profile tile that opens the Career Stats screen"
+  },
+  "careerStatsTitle": "Career Stats",
+  "@careerStatsTitle": {
+    "description": "App bar title for the Career Stats screen"
+  },
+  "careerStatsTabOverall": "Overall",
+  "@careerStatsTabOverall": {
+    "description": "Tab label for the Overall Player Statistics view"
+  },
+  "careerStatsTabSummary": "Career Summary",
+  "@careerStatsTabSummary": {
+    "description": "Tab label for the act-wise Career Summary view"
+  },
+  "careerStatsTabCompetitive": "All-Time Competitive",
+  "@careerStatsTabCompetitive": {
+    "description": "Tab label for the all-time competitive totals view"
+  },
+  "careerStatsEmptyTitle": "No Match History Yet",
+  "@careerStatsEmptyTitle": {
+    "description": "Title shown when no matches were found to build Career Stats from"
+  },
+  "careerStatsEmptyMessage": "Play a few matches and check back — Career Stats builds itself from your recent match history.",
+  "@careerStatsEmptyMessage": {
+    "description": "Message shown when no matches were found to build Career Stats from"
+  },
+  "careerStatsSampleSize": "Based on your last {count} matches",
+  "@careerStatsSampleSize": {
+    "description": "Shows how many recent matches Career Stats was computed from",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsHeadshotPercent": "HS%",
+  "@careerStatsHeadshotPercent": {
+    "description": "Label for headshot percentage stat"
+  },
+  "careerStatsPlaytimeFormat": "{hours}h {minutes}m",
+  "@careerStatsPlaytimeFormat": {
+    "description": "Formatted total playtime, e.g. 12h 34m",
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      },
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsRankSectionTitle": "Rank Rating",
+  "@careerStatsRankSectionTitle": {
+    "description": "Section title for current/peak rank on the Overall Stats view"
+  },
+  "careerStatsCurrentRank": "Current Rank",
+  "@careerStatsCurrentRank": {
+    "description": "Label for the player's current competitive rank"
+  },
+  "careerStatsPeakRank": "Peak Rank",
+  "@careerStatsPeakRank": {
+    "description": "Label for the player's peak competitive rank"
+  },
+  "careerStatsRecordTitle": "Overall Record",
+  "@careerStatsRecordTitle": {
+    "description": "Section title for the win/loss/draw record on the Overall Stats view"
+  },
+  "careerStatsRecordFormat": "{wins}W - {losses}L - {draws}D",
+  "@careerStatsRecordFormat": {
+    "description": "Win-loss-draw record summary",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "losses": {
+        "type": "int"
+      },
+      "draws": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsNoCompetitiveActs": "No competitive matches found in your recent history yet.",
+  "@careerStatsNoCompetitiveActs": {
+    "description": "Empty state for the Career Summary and All-Time Competitive tabs when no ranked matches were found"
+  },
+  "careerStatsWinsGames": "Wins/Games",
+  "@careerStatsWinsGames": {
+    "description": "Label for a wins-out-of-games stat"
+  },
+  "careerStatsWinsGamesFormat": "{wins}/{games}",
+  "@careerStatsWinsGamesFormat": {
+    "description": "Wins out of total games played, e.g. 12/20",
+    "placeholders": {
+      "wins": {
+        "type": "int"
+      },
+      "games": {
+        "type": "int"
+      }
+    }
+  },
+  "careerStatsAllTimeCompetitiveTitle": "All-Time Competitive Record",
+  "@careerStatsAllTimeCompetitiveTitle": {
+    "description": "Title for the combined all-time competitive stats card"
+  },
+  "accountXpCardTitle": "Account Level",
+  "@accountXpCardTitle": {
+    "description": "Title of the account XP/level card on the profile screen"
+  },
+  "accountXpProgressLabel": "{xp} / {xpNeeded} XP",
+  "@accountXpProgressLabel": {
+    "description": "Current XP over XP needed for next level",
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      },
+      "xpNeeded": {
+        "type": "int"
+      }
+    }
+  },
+  "accountXpRemainingLabel": "{xp} XP to next level",
+  "@accountXpRemainingLabel": {
+    "description": "XP remaining until the next level",
+    "placeholders": {
+      "xp": {
+        "type": "int"
+      }
+    }
+  },
+  "accountXpRecentTitle": "Recent XP Earned",
+  "@accountXpRecentTitle": {
+    "description": "Header for the recent XP-grant history list"
+  },
+  "accountXpEmptyHistory": "No recent XP activity",
+  "@accountXpEmptyHistory": {
+    "description": "Shown when there is no recent XP-grant history to display"
+  },
+  "accountXpSourceMatchCompletion": "Match Completion",
+  "@accountXpSourceMatchCompletion": {
+    "description": "Friendly label for a match-completion XP grant"
+  },
+  "accountXpSourceFirstWin": "First Win of the Day",
+  "@accountXpSourceFirstWin": {
+    "description": "Friendly label for a first-win-of-the-day XP bonus grant"
+  },
+  "accountXpTimeUnknown": "Recently",
+  "@accountXpTimeUnknown": {
+    "description": "Fallback relative time label when a grant has no known timestamp"
+  },
+  "battlepassScreenTitle": "Battlepass",
+  "@battlepassScreenTitle": {
+    "description": "Title of the full battlepass tier browser screen"
+  },
+  "battlepassViewAllTiers": "View All Tiers",
+  "@battlepassViewAllTiers": {
+    "description": "Button label to open the full battlepass tier browser"
+  },
+  "battlepassTierNumber": "Tier {number}",
+  "@battlepassTierNumber": {
+    "description": "Label for a battlepass tier's number",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "battlepassFreeTrack": "Free",
+  "@battlepassFreeTrack": {
+    "description": "Label for the free reward track of a battlepass tier"
+  },
+  "battlepassPremiumTrack": "Premium",
+  "@battlepassPremiumTrack": {
+    "description": "Label for the premium reward track of a battlepass tier"
+  },
+  "battlepassUnlocked": "Unlocked",
+  "@battlepassUnlocked": {
+    "description": "State label for an unlocked battlepass tier"
+  },
+  "battlepassLocked": "Locked",
+  "@battlepassLocked": {
+    "description": "State label for a locked battlepass tier"
+  },
+  "battlepassPremiumLocked": "Premium Not Owned",
+  "@battlepassPremiumLocked": {
+    "description": "State label for a premium reward not available because the account doesn't own the premium pass"
+  },
+  "battlepassNoDataAvailable": "No battlepass data available currently.",
+  "@battlepassNoDataAvailable": {
+    "description": "Shown when the battlepass provider has no data to display"
+  },
+  "battlepassChapterLabel": "Chapter {number}",
+  "@battlepassChapterLabel": {
+    "description": "Label for a battlepass chapter section header",
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "battlepassEpilogueLabel": "Epilogue",
+  "@battlepassEpilogueLabel": {
+    "description": "Label for the epilogue chapter section header"
+  },
+  "bookmarkedPlayersTitle": "Bookmarked Players",
+  "@bookmarkedPlayersTitle": {
+    "description": "Screen title for the bookmarked players list"
+  },
+  "bookmarkedPlayersHeader": "Bookmarked Players",
+  "@bookmarkedPlayersHeader": {
+    "description": "Section header on the search screen"
+  },
+  "bookmarkedPlayersEmptyPrompt": "No bookmarked players yet.\nSearch a player and tap the star to bookmark them here.",
+  "@bookmarkedPlayersEmptyPrompt": {
+    "description": "Empty state message for bookmarked players"
+  },
+  "viewAllButton": "View All",
+  "@viewAllButton": {
+    "description": "Button label to view the full list"
+  },
+  "addBookmarkTooltip": "Bookmark this player",
+  "@addBookmarkTooltip": {
+    "description": "Tooltip for the add-bookmark star button"
+  },
+  "removeBookmarkTooltip": "Remove bookmark",
+  "@removeBookmarkTooltip": {
+    "description": "Tooltip for the remove-bookmark star button"
+  },
+  "formerlyKnownAs": "formerly {name}",
+  "@formerlyKnownAs": {
+    "description": "Shown on a friend's row when their gamertag has changed",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gameInfoHubTitle": "Game Info",
+  "@gameInfoHubTitle": {
+    "description": "Title of the Game Info encyclopedia hub screen"
+  },
+  "gameInfoMapsTitle": "Maps",
+  "@gameInfoMapsTitle": {
+    "description": "Title for the Maps section of Game Info"
+  },
+  "gameInfoMapsSubtitle": "Splash art, callouts and minimaps",
+  "@gameInfoMapsSubtitle": {
+    "description": "Subtitle for the Maps hub tile"
+  },
+  "gameInfoAgentsTitle": "Agents",
+  "@gameInfoAgentsTitle": {
+    "description": "Title for the Agents section of Game Info"
+  },
+  "gameInfoAgentsSubtitle": "Roles, abilities and portraits",
+  "@gameInfoAgentsSubtitle": {
+    "description": "Subtitle for the Agents hub tile"
+  },
+  "gameInfoWeaponsTitle": "Weapons",
+  "@gameInfoWeaponsTitle": {
+    "description": "Title for the Weapons section of Game Info"
+  },
+  "gameInfoWeaponsSubtitle": "Prices, skins and full stat sheets",
+  "@gameInfoWeaponsSubtitle": {
+    "description": "Subtitle for the Weapons hub tile"
+  },
+  "gameInfoLoadError": "Couldn't load data. Please try again.",
+  "@gameInfoLoadError": {
+    "description": "Generic error shown when Game Info static data fails to load"
+  },
+  "gameInfoCalloutCount": "{count} callouts",
+  "@gameInfoCalloutCount": {
+    "description": "Number of callouts on a map",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoCalloutsHeader": "Callouts",
+  "@gameInfoCalloutsHeader": {
+    "description": "Header above the list of map callouts"
+  },
+  "gameInfoAbilitiesHeader": "Abilities",
+  "@gameInfoAbilitiesHeader": {
+    "description": "Header above an agent's list of abilities"
+  },
+  "gameInfoWeaponPriceSkins": "{cost} VP • {skinCount} skins",
+  "@gameInfoWeaponPriceSkins": {
+    "description": "Weapon list subtitle showing shop price and skin count",
+    "placeholders": {
+      "cost": {
+        "type": "int"
+      },
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoWeaponSkinsOnly": "{skinCount} skins",
+  "@gameInfoWeaponSkinsOnly": {
+    "description": "Weapon list subtitle showing only the skin count (no shop price)",
+    "placeholders": {
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoStatSheetHeader": "Stat sheet",
+  "@gameInfoStatSheetHeader": {
+    "description": "Header above a weapon's full stat sheet"
+  },
+  "gameInfoNoStatsAvailable": "No stats available for this weapon.",
+  "@gameInfoNoStatsAvailable": {
+    "description": "Shown when a weapon has no weaponStats data"
+  },
+  "gameInfoVpPrice": "{cost} VP",
+  "@gameInfoVpPrice": {
+    "description": "Weapon VP shop price chip",
+    "placeholders": {
+      "cost": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoSkinCount": "{skinCount} skins",
+  "@gameInfoSkinCount": {
+    "description": "Weapon skin count chip",
+    "placeholders": {
+      "skinCount": {
+        "type": "int"
+      }
+    }
+  },
+  "gameInfoStatFireRate": "Fire rate",
+  "@gameInfoStatFireRate": {
+    "description": "Weapon stat label: fire rate"
+  },
+  "gameInfoStatMagazineSize": "Magazine size",
+  "@gameInfoStatMagazineSize": {
+    "description": "Weapon stat label: magazine size"
+  },
+  "gameInfoStatEquipTime": "Equip time",
+  "@gameInfoStatEquipTime": {
+    "description": "Weapon stat label: equip time"
+  },
+  "gameInfoStatReloadTime": "Reload time",
+  "@gameInfoStatReloadTime": {
+    "description": "Weapon stat label: reload time"
+  },
+  "gameInfoStatFirstShotAccuracy": "First shot spread",
+  "@gameInfoStatFirstShotAccuracy": {
+    "description": "Weapon stat label: first bullet accuracy"
+  },
+  "gameInfoStatRunSpeed": "Run speed",
+  "@gameInfoStatRunSpeed": {
+    "description": "Weapon stat label: run speed multiplier"
+  },
+  "gameInfoStatWalkSpeed": "ADS walk speed",
+  "@gameInfoStatWalkSpeed": {
+    "description": "Weapon stat label: aim-down-sights walk speed multiplier"
+  },
+  "gameInfoStatWallPenetration": "Wall penetration",
+  "@gameInfoStatWallPenetration": {
+    "description": "Weapon stat label: wall penetration rating"
+  },
+  "gameInfoDamageRangesHeader": "Damage ranges",
+  "@gameInfoDamageRangesHeader": {
+    "description": "Header above the weapon damage-by-range table"
+  },
+  "gameInfoStatRange": "Range",
+  "@gameInfoStatRange": {
+    "description": "Damage range table column: distance range"
+  },
+  "gameInfoStatHeadDamage": "Head",
+  "@gameInfoStatHeadDamage": {
+    "description": "Damage range table column: head damage"
+  },
+  "gameInfoStatBodyDamage": "Body",
+  "@gameInfoStatBodyDamage": {
+    "description": "Damage range table column: body damage"
+  },
+  "gameInfoStatLegDamage": "Leg",
+  "@gameInfoStatLegDamage": {
+    "description": "Damage range table column: leg damage"
+  }
+}
