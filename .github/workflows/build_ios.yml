@@ -1,0 +1,88 @@
+name: Build iOS IPA
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build_ios:
+    name: Build iOS
+    runs-on: macos-26
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Select Xcode 26.4.1
+        run: |
+          sudo xcode-select -s /Applications/Xcode_26.4.1.app/Contents/Developer
+          echo "Selected Xcode:"
+          xcode-select -p
+          echo "Xcode version:"
+          xcodebuild -version
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.47.8"
+          channel: "stable"
+          cache: true
+
+      - name: Verify Flutter
+        run: |
+          flutter --version
+          flutter doctor -v
+
+      - name: Set version info
+        id: vars
+        run: |
+          FULL_VERSION=$(grep '^version:' pubspec.yaml | sed 's/version: //' | tr -d '\r')
+          VERSION=$(echo "$FULL_VERSION" | cut -d'+' -f1)
+          BUILD=$(echo "$FULL_VERSION" | cut -d'+' -f2)
+          echo "Full: $FULL_VERSION | Version: $VERSION | Build: $BUILD"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "build=$BUILD" >> "$GITHUB_OUTPUT"
+          echo "date=$(date -u +%Y-%m-%dT%H:%M:%S-00:00)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache CocoaPods
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cocoapods
+            ios/Pods
+          key: ${{ runner.os }}-pods-${{ hashFiles('ios/Podfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-pods-
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Install CocoaPods dependencies
+        working-directory: ios
+        run: pod install
+
+      - name: Build iOS (No Codesign)
+        run: |
+          flutter build ios \
+            --release \
+            --no-codesign
+
+      - name: Create IPA
+        run: |
+          rm -rf Payload
+          mkdir Payload
+          cp -R build/ios/iphoneos/Runner.app Payload/Runner.app
+          rm -f ValorantThunai.ipa
+          zip -r ValorantThunai.ipa Payload
+          echo "IPA created:"
+          ls -lh ValorantThunai.ipa
+
+      - name: Upload IPA Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ValorantThunai_ios
+          path: ValorantThunai.ipa
